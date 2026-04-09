@@ -1,0 +1,1405 @@
+model,is_reasoning,persona_name,persona_index,system_prompt,temperature,seed,run,dilemma_id,dilemma_category,step1_answer,step2_answer,flipped,step1_parse_failed,step2_parse_failed,step1_thinking_length,step2_thinking_length
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,1,Personal-Instrumental,yes,yes,False,False,False,560,548
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,2,Impersonal-Accidental,yes,yes,False,False,False,417,650
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,3,Personal-Accidental,no,yes,True,False,False,718,947
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,4,Impersonal-Accidental,,,,True,True,1292,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,5,Personal-Accidental,yes,yes,False,False,False,431,416
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,6,Impersonal-Accidental,yes,no,True,False,False,609,634
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,7,Personal-Instrumental,yes,no,True,False,False,550,996
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,8,Impersonal-Instrumental,yes,,,False,True,690,1286
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,9,Personal-Instrumental,yes,no,True,False,False,712,591
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,10,Impersonal-Instrumental,no,yes,True,False,False,1247,738
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,11,Personal-Instrumental,yes,no,True,False,False,815,429
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,12,Impersonal-Instrumental,yes,yes,False,False,False,568,667
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,13,Personal-Instrumental,yes,yes,False,False,False,423,701
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,14,Impersonal-Instrumental,yes,yes,False,False,False,599,600
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,15,Personal-Accidental,,,,True,True,1260,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,16,Impersonal-Accidental,yes,yes,False,False,False,787,531
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,17,Personal-Instrumental,yes,yes,False,False,False,588,525
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,18,Impersonal-Accidental,yes,yes,False,False,False,492,585
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,19,Personal-Instrumental,yes,yes,False,False,False,696,475
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,20,Impersonal-Instrumental,yes,yes,False,False,False,355,551
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,21,Personal-Instrumental,no,yes,True,False,False,714,567
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,22,Impersonal-Instrumental,yes,yes,False,False,False,617,700
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,23,Personal-Accidental,yes,yes,False,False,False,321,600
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,24,Impersonal-Accidental,yes,,,False,True,757,1287
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,25,Personal-Instrumental,no,yes,True,False,False,795,608
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,26,Impersonal-Instrumental,yes,yes,False,False,False,359,615
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,27,Personal-Accidental,yes,yes,False,False,False,630,1087
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,28,Impersonal-Accidental,yes,yes,False,False,False,661,779
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,29,Personal-Accidental,yes,yes,False,False,False,687,661
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,30,Impersonal-Accidental,yes,no,True,False,False,1023,760
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,31,Personal-Instrumental,yes,no,True,False,False,519,655
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,32,Impersonal-Accidental,yes,yes,False,False,False,613,480
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,33,Personal-Instrumental,yes,yes,False,False,False,602,618
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,34,Impersonal-Instrumental,yes,yes,False,False,False,562,518
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,35,Personal-Instrumental,yes,yes,False,False,False,492,659
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,36,Impersonal-Instrumental,yes,,,False,True,600,1212
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,37,Personal-Instrumental,yes,yes,False,False,False,942,597
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,38,Impersonal-Instrumental,,,,True,True,1295,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,39,Personal-Instrumental,yes,yes,False,False,False,619,516
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,40,Impersonal-Accidental,yes,yes,False,False,False,586,738
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,41,Personal-Instrumental,yes,yes,False,False,False,500,851
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,42,Impersonal-Accidental,yes,yes,False,False,False,575,549
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,43,Personal-Instrumental,yes,yes,False,False,False,462,432
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,44,Impersonal-Instrumental,yes,yes,False,False,False,554,785
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,45,Personal-Accidental,yes,no,True,False,False,531,823
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,46,Impersonal-Instrumental,no,yes,True,False,False,554,825
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,47,Personal-Instrumental,no,no,False,False,False,472,802
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,48,Impersonal-Instrumental,no,yes,True,False,False,692,919
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,526,747
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,771,779
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,661,672
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,451,888
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,1,Personal-Instrumental,yes,yes,False,False,False,586,417
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,468,623
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,3,Personal-Accidental,no,yes,True,False,False,944,823
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,4,Impersonal-Accidental,yes,no,True,False,False,809,702
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,5,Personal-Accidental,yes,yes,False,False,False,931,368
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,6,Impersonal-Accidental,yes,yes,False,False,False,665,708
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,7,Personal-Instrumental,yes,yes,False,False,False,684,804
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,8,Impersonal-Instrumental,yes,yes,False,False,False,737,575
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,9,Personal-Instrumental,yes,no,True,False,False,850,779
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,10,Impersonal-Instrumental,yes,no,True,False,False,620,817
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,11,Personal-Instrumental,yes,no,True,False,False,867,785
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,12,Impersonal-Instrumental,,,,True,True,1136,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,13,Personal-Instrumental,yes,yes,False,False,False,600,531
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,14,Impersonal-Instrumental,yes,yes,False,False,False,720,797
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,15,Personal-Accidental,yes,yes,False,False,False,836,869
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,16,Impersonal-Accidental,yes,yes,False,False,False,514,500
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,17,Personal-Instrumental,yes,yes,False,False,False,445,1063
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,18,Impersonal-Accidental,yes,yes,False,False,False,481,677
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,19,Personal-Instrumental,yes,yes,False,False,False,385,906
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,20,Impersonal-Instrumental,yes,yes,False,False,False,571,590
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,21,Personal-Instrumental,no,no,False,False,False,391,259
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,22,Impersonal-Instrumental,yes,yes,False,False,False,625,1005
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,23,Personal-Accidental,,,,True,True,1241,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,24,Impersonal-Accidental,yes,yes,False,False,False,920,1129
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,25,Personal-Instrumental,no,yes,True,False,False,800,532
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,26,Impersonal-Instrumental,yes,,,False,True,922,1294
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,27,Personal-Accidental,yes,yes,False,False,False,667,633
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,28,Impersonal-Accidental,yes,yes,False,False,False,919,879
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,29,Personal-Accidental,yes,yes,False,False,False,682,681
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,30,Impersonal-Accidental,yes,no,True,False,False,517,573
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,31,Personal-Instrumental,yes,yes,False,False,False,310,735
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,32,Impersonal-Accidental,yes,yes,False,False,False,616,409
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,33,Personal-Instrumental,yes,no,True,False,False,567,777
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,34,Impersonal-Instrumental,yes,no,True,False,False,522,741
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,35,Personal-Instrumental,yes,yes,False,False,False,449,714
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,36,Impersonal-Instrumental,yes,yes,False,False,False,583,721
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,37,Personal-Instrumental,yes,yes,False,False,False,836,1033
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,38,Impersonal-Instrumental,yes,yes,False,False,False,1033,932
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,39,Personal-Instrumental,yes,no,True,False,False,551,611
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,583,553
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,41,Personal-Instrumental,yes,no,True,False,False,424,454
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,42,Impersonal-Accidental,yes,yes,False,False,False,636,750
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,43,Personal-Instrumental,yes,yes,False,False,False,523,449
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,44,Impersonal-Instrumental,yes,yes,False,False,False,541,847
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,45,Personal-Accidental,yes,no,True,False,False,531,671
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,46,Impersonal-Instrumental,yes,no,True,False,False,693,680
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,47,Personal-Instrumental,no,yes,True,False,False,474,710
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,48,Impersonal-Instrumental,yes,yes,False,False,False,539,503
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,574,429
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,795,1252
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,no,True,False,False,394,497
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,541,636
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,1,Personal-Instrumental,yes,yes,False,False,False,562,789
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,2,Impersonal-Accidental,yes,yes,False,False,False,459,656
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,3,Personal-Accidental,yes,no,True,False,False,800,667
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,4,Impersonal-Accidental,yes,,,False,True,784,1251
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,5,Personal-Accidental,yes,yes,False,False,False,444,421
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,6,Impersonal-Accidental,yes,yes,False,False,False,861,677
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,7,Personal-Instrumental,yes,yes,False,False,False,1071,910
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,8,Impersonal-Instrumental,yes,yes,False,False,False,575,687
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,9,Personal-Instrumental,,,,True,True,1261,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,10,Impersonal-Instrumental,yes,no,True,False,False,654,821
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,11,Personal-Instrumental,yes,yes,False,False,False,839,912
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,12,Impersonal-Instrumental,yes,,,False,True,846,1161
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,13,Personal-Instrumental,yes,yes,False,False,False,770,629
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,14,Impersonal-Instrumental,yes,yes,False,False,False,704,1025
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,15,Personal-Accidental,yes,yes,False,False,False,545,809
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,16,Impersonal-Accidental,yes,yes,False,False,False,405,926
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,17,Personal-Instrumental,yes,yes,False,False,False,367,781
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,18,Impersonal-Accidental,yes,no,True,False,False,746,740
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,19,Personal-Instrumental,yes,,,False,True,451,1201
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,20,Impersonal-Instrumental,yes,yes,False,False,False,420,630
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,21,Personal-Instrumental,no,yes,True,False,False,604,560
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,22,Impersonal-Instrumental,yes,yes,False,False,False,991,792
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,23,Personal-Accidental,yes,yes,False,False,False,450,1029
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,24,Impersonal-Accidental,yes,yes,False,False,False,500,858
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,25,Personal-Instrumental,no,yes,True,False,False,540,737
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,26,Impersonal-Instrumental,yes,yes,False,False,False,628,609
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,27,Personal-Accidental,yes,yes,False,False,False,703,762
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,28,Impersonal-Accidental,yes,yes,False,False,False,362,554
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,29,Personal-Accidental,yes,yes,False,False,False,541,568
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,30,Impersonal-Accidental,yes,no,True,False,False,945,321
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,31,Personal-Instrumental,yes,yes,False,False,False,346,567
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,397,454
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,33,Personal-Instrumental,yes,yes,False,False,False,763,867
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,34,Impersonal-Instrumental,yes,no,True,False,False,561,1111
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,35,Personal-Instrumental,yes,yes,False,False,False,280,680
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,36,Impersonal-Instrumental,yes,no,True,False,False,571,500
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,37,Personal-Instrumental,yes,yes,False,False,False,428,799
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,1099,481
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,39,Personal-Instrumental,yes,yes,False,False,False,633,884
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,40,Impersonal-Accidental,yes,yes,False,False,False,558,726
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,41,Personal-Instrumental,yes,yes,False,False,False,329,716
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,42,Impersonal-Accidental,yes,yes,False,False,False,517,543
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,43,Personal-Instrumental,yes,no,True,False,False,565,782
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,44,Impersonal-Instrumental,yes,yes,False,False,False,646,1100
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,45,Personal-Accidental,yes,no,True,False,False,788,476
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,46,Impersonal-Instrumental,yes,yes,False,False,False,696,367
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,47,Personal-Instrumental,no,no,False,False,False,685,555
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,48,Impersonal-Instrumental,yes,yes,False,False,False,884,806
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,806,602
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,927,634
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,398,897
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,659,542
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,1,Personal-Instrumental,yes,yes,False,False,False,580,359
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,2,Impersonal-Accidental,yes,yes,False,False,False,367,435
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,3,Personal-Accidental,yes,yes,False,False,False,926,708
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,4,Impersonal-Accidental,no,yes,True,False,False,671,718
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,5,Personal-Accidental,yes,no,True,False,False,592,749
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,6,Impersonal-Accidental,yes,yes,False,False,False,913,737
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,7,Personal-Instrumental,yes,no,True,False,False,649,914
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,8,Impersonal-Instrumental,yes,,,False,True,635,1261
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,9,Personal-Instrumental,yes,no,True,False,False,667,791
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,10,Impersonal-Instrumental,,,,True,True,1273,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,11,Personal-Instrumental,yes,yes,False,False,False,935,611
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,12,Impersonal-Instrumental,yes,yes,False,False,False,856,680
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,13,Personal-Instrumental,yes,yes,False,False,False,498,784
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,14,Impersonal-Instrumental,yes,yes,False,False,False,462,546
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,15,Personal-Accidental,yes,yes,False,False,False,718,1097
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,16,Impersonal-Accidental,yes,no,True,False,False,682,670
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,17,Personal-Instrumental,yes,yes,False,False,False,532,555
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,18,Impersonal-Accidental,yes,yes,False,False,False,385,384
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,19,Personal-Instrumental,yes,yes,False,False,False,537,697
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,20,Impersonal-Instrumental,yes,yes,False,False,False,356,507
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,21,Personal-Instrumental,no,no,False,False,False,676,797
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,22,Impersonal-Instrumental,yes,yes,False,False,False,561,741
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,23,Personal-Accidental,yes,yes,False,False,False,706,1010
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,24,Impersonal-Accidental,yes,yes,False,False,False,932,477
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,25,Personal-Instrumental,yes,yes,False,False,False,621,581
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,26,Impersonal-Instrumental,yes,yes,False,False,False,406,750
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,27,Personal-Accidental,yes,yes,False,False,False,889,1082
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,28,Impersonal-Accidental,yes,no,True,False,False,795,644
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,29,Personal-Accidental,yes,no,True,False,False,533,707
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,30,Impersonal-Accidental,yes,no,True,False,False,423,871
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,31,Personal-Instrumental,yes,yes,False,False,False,537,526
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,32,Impersonal-Accidental,yes,yes,False,False,False,687,628
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,33,Personal-Instrumental,no,yes,True,False,False,1015,658
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,34,Impersonal-Instrumental,yes,no,True,False,False,796,644
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,35,Personal-Instrumental,yes,yes,False,False,False,443,510
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,36,Impersonal-Instrumental,yes,yes,False,False,False,391,609
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,37,Personal-Instrumental,yes,yes,False,False,False,841,707
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,38,Impersonal-Instrumental,yes,yes,False,False,False,1003,1010
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,39,Personal-Instrumental,yes,yes,False,False,False,699,777
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,40,Impersonal-Accidental,yes,yes,False,False,False,683,823
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,41,Personal-Instrumental,yes,yes,False,False,False,442,477
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,42,Impersonal-Accidental,yes,no,True,False,False,754,802
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,43,Personal-Instrumental,yes,yes,False,False,False,561,552
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,44,Impersonal-Instrumental,yes,yes,False,False,False,694,791
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,45,Personal-Accidental,yes,yes,False,False,False,690,739
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,46,Impersonal-Instrumental,yes,no,True,False,False,542,851
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,47,Personal-Instrumental,no,no,False,False,False,337,912
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,48,Impersonal-Instrumental,yes,no,True,False,False,680,806
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,666,517
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,384,586
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,463,503
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,657,1229
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,1,Personal-Instrumental,yes,yes,False,False,False,653,775
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,399,691
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,3,Personal-Accidental,no,,,False,True,1113,1266
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,4,Impersonal-Accidental,no,yes,True,False,False,874,765
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,5,Personal-Accidental,yes,no,True,False,False,412,482
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,6,Impersonal-Accidental,yes,no,True,False,False,484,260
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,7,Personal-Instrumental,yes,no,True,False,False,477,838
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,8,Impersonal-Instrumental,yes,yes,False,False,False,841,559
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,9,Personal-Instrumental,yes,no,True,False,False,457,1023
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,10,Impersonal-Instrumental,,,,True,True,1276,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,11,Personal-Instrumental,yes,yes,False,False,False,612,688
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,12,Impersonal-Instrumental,yes,yes,False,False,False,475,659
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,13,Personal-Instrumental,yes,no,True,False,False,911,572
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,14,Impersonal-Instrumental,yes,yes,False,False,False,746,756
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,15,Personal-Accidental,yes,yes,False,False,False,463,541
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,16,Impersonal-Accidental,yes,no,True,False,False,402,1213
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,17,Personal-Instrumental,yes,no,True,False,False,718,1249
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,18,Impersonal-Accidental,yes,no,True,False,False,391,821
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,19,Personal-Instrumental,yes,yes,False,False,False,444,669
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,20,Impersonal-Instrumental,yes,no,True,False,False,454,484
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,21,Personal-Instrumental,no,no,False,False,False,529,424
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,22,Impersonal-Instrumental,yes,yes,False,False,False,615,665
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,23,Personal-Accidental,yes,yes,False,False,False,455,804
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,24,Impersonal-Accidental,,,,True,True,1291,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,25,Personal-Instrumental,yes,no,True,False,False,506,813
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,26,Impersonal-Instrumental,yes,yes,False,False,False,735,581
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,27,Personal-Accidental,yes,yes,False,False,False,678,624
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,28,Impersonal-Accidental,yes,no,True,False,False,684,809
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,29,Personal-Accidental,yes,yes,False,False,False,631,554
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,30,Impersonal-Accidental,yes,no,True,False,False,617,538
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,31,Personal-Instrumental,yes,yes,False,False,False,670,918
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,32,Impersonal-Accidental,yes,yes,False,False,False,532,772
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,33,Personal-Instrumental,no,yes,True,False,False,594,502
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,34,Impersonal-Instrumental,yes,no,True,False,False,806,646
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,35,Personal-Instrumental,yes,yes,False,False,False,557,752
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,36,Impersonal-Instrumental,yes,yes,False,False,False,597,526
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,37,Personal-Instrumental,yes,yes,False,False,False,1086,657
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,38,Impersonal-Instrumental,yes,yes,False,False,False,730,551
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,39,Personal-Instrumental,yes,yes,False,False,False,852,772
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,540,1132
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,41,Personal-Instrumental,yes,yes,False,False,False,543,823
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,42,Impersonal-Accidental,yes,yes,False,False,False,626,739
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,43,Personal-Instrumental,yes,yes,False,False,False,447,696
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,44,Impersonal-Instrumental,yes,yes,False,False,False,533,589
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,45,Personal-Accidental,yes,yes,False,False,False,511,877
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,46,Impersonal-Instrumental,yes,yes,False,False,False,853,1088
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,47,Personal-Instrumental,no,no,False,False,False,555,596
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,48,Impersonal-Instrumental,yes,yes,False,False,False,583,1036
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,463,584
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,591,1131
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,567,855
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,501,593
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,1,Personal-Instrumental,yes,no,True,False,False,543,777
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,2,Impersonal-Accidental,yes,yes,False,False,False,991,593
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,3,Personal-Accidental,yes,no,True,False,False,671,982
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,4,Impersonal-Accidental,yes,no,True,False,False,958,584
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,5,Personal-Accidental,yes,yes,False,False,False,760,755
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,6,Impersonal-Accidental,,,,True,True,1267,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,7,Personal-Instrumental,yes,no,True,False,False,377,1275
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,8,Impersonal-Instrumental,yes,yes,False,False,False,965,503
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,9,Personal-Instrumental,yes,no,True,False,False,951,485
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,10,Impersonal-Instrumental,yes,no,True,False,False,459,572
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,11,Personal-Instrumental,yes,yes,False,False,False,605,797
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,12,Impersonal-Instrumental,yes,,,False,True,958,1265
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,13,Personal-Instrumental,yes,no,True,False,False,582,567
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,14,Impersonal-Instrumental,yes,yes,False,False,False,501,497
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,15,Personal-Accidental,yes,yes,False,False,False,261,1236
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,16,Impersonal-Accidental,yes,yes,False,False,False,837,713
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,17,Personal-Instrumental,yes,yes,False,False,False,334,535
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,18,Impersonal-Accidental,yes,yes,False,False,False,336,645
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,19,Personal-Instrumental,yes,yes,False,False,False,431,511
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,20,Impersonal-Instrumental,yes,yes,False,False,False,678,848
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,21,Personal-Instrumental,no,no,False,False,False,450,597
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,22,Impersonal-Instrumental,yes,yes,False,False,False,826,590
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,23,Personal-Accidental,yes,yes,False,False,False,1206,421
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,24,Impersonal-Accidental,yes,,,False,True,476,1277
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,25,Personal-Instrumental,yes,yes,False,False,False,848,842
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,26,Impersonal-Instrumental,yes,yes,False,False,False,725,1078
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,27,Personal-Accidental,yes,yes,False,False,False,746,524
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,28,Impersonal-Accidental,yes,yes,False,False,False,567,825
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,29,Personal-Accidental,yes,yes,False,False,False,588,419
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,30,Impersonal-Accidental,yes,no,True,False,False,629,501
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,31,Personal-Instrumental,yes,yes,False,False,False,515,514
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,586,651
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,33,Personal-Instrumental,yes,no,True,False,False,529,496
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,34,Impersonal-Instrumental,yes,yes,False,False,False,556,628
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,35,Personal-Instrumental,yes,yes,False,False,False,856,810
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,36,Impersonal-Instrumental,yes,yes,False,False,False,323,731
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,37,Personal-Instrumental,yes,yes,False,False,False,642,600
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,1141,692
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,39,Personal-Instrumental,yes,yes,False,False,False,623,523
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,40,Impersonal-Accidental,yes,yes,False,False,False,732,663
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,41,Personal-Instrumental,yes,yes,False,False,False,379,453
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,42,Impersonal-Accidental,no,yes,True,False,False,649,1171
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,43,Personal-Instrumental,yes,yes,False,False,False,577,550
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,44,Impersonal-Instrumental,yes,yes,False,False,False,432,667
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,45,Personal-Accidental,yes,yes,False,False,False,459,845
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,46,Impersonal-Instrumental,yes,no,True,False,False,675,620
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,47,Personal-Instrumental,no,yes,True,False,False,610,509
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,48,Impersonal-Instrumental,no,yes,True,False,False,752,598
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,683,413
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,390,831
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,263,538
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,647,826
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,1,Personal-Instrumental,yes,yes,False,False,False,527,932
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,2,Impersonal-Accidental,no,yes,True,False,False,412,454
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,3,Personal-Accidental,no,yes,True,False,False,590,666
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,4,Impersonal-Accidental,no,yes,True,False,False,967,948
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,5,Personal-Accidental,yes,yes,False,False,False,473,591
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,6,Impersonal-Accidental,,,,True,True,1275,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,7,Personal-Instrumental,yes,yes,False,False,False,522,869
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,8,Impersonal-Instrumental,yes,yes,False,False,False,498,718
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,9,Personal-Instrumental,yes,no,True,False,False,681,1081
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,10,Impersonal-Instrumental,yes,no,True,False,False,990,600
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,11,Personal-Instrumental,yes,no,True,False,False,765,755
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,12,Impersonal-Instrumental,yes,no,True,False,False,604,721
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,13,Personal-Instrumental,no,yes,True,False,False,729,632
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,14,Impersonal-Instrumental,yes,yes,False,False,False,548,1154
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,15,Personal-Accidental,yes,yes,False,False,False,862,776
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,16,Impersonal-Accidental,yes,yes,False,False,False,856,977
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,17,Personal-Instrumental,yes,yes,False,False,False,557,541
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,18,Impersonal-Accidental,yes,yes,False,False,False,754,433
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,19,Personal-Instrumental,yes,yes,False,False,False,461,539
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,20,Impersonal-Instrumental,yes,no,True,False,False,273,1109
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,21,Personal-Instrumental,no,yes,True,False,False,554,447
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,22,Impersonal-Instrumental,yes,yes,False,False,False,773,779
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,23,Personal-Accidental,,,,True,True,1289,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,24,Impersonal-Accidental,yes,yes,False,False,False,465,330
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,25,Personal-Instrumental,no,yes,True,False,False,586,477
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,26,Impersonal-Instrumental,yes,yes,False,False,False,569,438
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,27,Personal-Accidental,yes,,,False,True,650,1297
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,28,Impersonal-Accidental,yes,yes,False,False,False,788,813
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,29,Personal-Accidental,yes,no,True,False,False,449,808
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,30,Impersonal-Accidental,yes,yes,False,False,False,448,529
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,31,Personal-Instrumental,yes,no,True,False,False,481,565
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,32,Impersonal-Accidental,yes,yes,False,False,False,564,653
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,33,Personal-Instrumental,yes,no,True,False,False,548,443
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,34,Impersonal-Instrumental,yes,,,False,True,858,847
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,35,Personal-Instrumental,yes,yes,False,False,False,447,735
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,36,Impersonal-Instrumental,yes,yes,False,False,False,387,783
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,37,Personal-Instrumental,yes,yes,False,False,False,798,1059
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,38,Impersonal-Instrumental,yes,yes,False,False,False,246,839
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,39,Personal-Instrumental,yes,no,True,False,False,317,1082
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,40,Impersonal-Accidental,yes,yes,False,False,False,512,528
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,41,Personal-Instrumental,yes,yes,False,False,False,677,609
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,42,Impersonal-Accidental,yes,yes,False,False,False,747,545
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,43,Personal-Instrumental,no,yes,True,False,False,493,677
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,44,Impersonal-Instrumental,yes,yes,False,False,False,663,570
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,45,Personal-Accidental,yes,no,True,False,False,539,742
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,46,Impersonal-Instrumental,yes,no,True,False,False,628,715
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,47,Personal-Instrumental,no,no,False,False,False,537,666
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,48,Impersonal-Instrumental,,,,True,True,1281,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,494,1199
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,409,609
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,606,677
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,564,794
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,1,Personal-Instrumental,no,yes,True,False,False,871,423
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,546,752
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,3,Personal-Accidental,no,yes,True,False,False,797,796
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,4,Impersonal-Accidental,,,,True,True,1278,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,5,Personal-Accidental,yes,no,True,False,False,675,346
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,6,Impersonal-Accidental,yes,yes,False,False,False,679,651
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,7,Personal-Instrumental,yes,no,True,False,False,562,981
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,8,Impersonal-Instrumental,yes,yes,False,False,False,697,620
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,9,Personal-Instrumental,yes,yes,False,False,False,827,872
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,10,Impersonal-Instrumental,yes,no,True,False,False,516,803
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,11,Personal-Instrumental,yes,yes,False,False,False,656,1021
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,12,Impersonal-Instrumental,yes,yes,False,False,False,471,874
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,13,Personal-Instrumental,yes,yes,False,False,False,505,636
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,14,Impersonal-Instrumental,yes,yes,False,False,False,742,1265
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,15,Personal-Accidental,yes,yes,False,False,False,751,722
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,16,Impersonal-Accidental,yes,yes,False,False,False,515,545
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,17,Personal-Instrumental,yes,yes,False,False,False,818,515
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,18,Impersonal-Accidental,yes,yes,False,False,False,448,923
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,19,Personal-Instrumental,yes,yes,False,False,False,346,405
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,20,Impersonal-Instrumental,yes,yes,False,False,False,552,857
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,21,Personal-Instrumental,no,yes,True,False,False,459,681
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,22,Impersonal-Instrumental,yes,no,True,False,False,932,717
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,23,Personal-Accidental,yes,yes,False,False,False,377,699
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,24,Impersonal-Accidental,yes,yes,False,False,False,818,551
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,25,Personal-Instrumental,no,yes,True,False,False,422,681
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,26,Impersonal-Instrumental,yes,no,True,False,False,727,880
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,27,Personal-Accidental,yes,yes,False,False,False,653,585
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,28,Impersonal-Accidental,yes,yes,False,False,False,765,577
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,29,Personal-Accidental,yes,yes,False,False,False,549,1179
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,30,Impersonal-Accidental,yes,yes,False,False,False,387,408
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,31,Personal-Instrumental,yes,yes,False,False,False,617,444
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,32,Impersonal-Accidental,yes,,,False,True,483,563
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,33,Personal-Instrumental,yes,no,True,False,False,602,1032
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,34,Impersonal-Instrumental,yes,no,True,False,False,866,468
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,35,Personal-Instrumental,yes,yes,False,False,False,715,634
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,36,Impersonal-Instrumental,yes,yes,False,False,False,572,884
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,37,Personal-Instrumental,yes,yes,False,False,False,1087,914
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,38,Impersonal-Instrumental,yes,,,False,True,702,1271
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,39,Personal-Instrumental,yes,yes,False,False,False,729,431
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,695,572
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,41,Personal-Instrumental,yes,yes,False,False,False,759,636
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,42,Impersonal-Accidental,,,,True,True,1283,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,43,Personal-Instrumental,yes,no,True,False,False,483,754
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,44,Impersonal-Instrumental,yes,yes,False,False,False,426,670
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,45,Personal-Accidental,yes,yes,False,False,False,947,724
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,46,Impersonal-Instrumental,yes,no,True,False,False,508,438
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,47,Personal-Instrumental,yes,no,True,False,False,1069,736
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,48,Impersonal-Instrumental,yes,,,False,True,754,1247
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,490,590
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,710,791
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,597,705
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,650,567
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,1,Personal-Instrumental,yes,no,True,False,False,852,555
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,2,Impersonal-Accidental,yes,yes,False,False,False,894,784
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,3,Personal-Accidental,yes,yes,False,False,False,944,688
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,4,Impersonal-Accidental,,,,True,True,1289,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,5,Personal-Accidental,yes,yes,False,False,False,470,764
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,6,Impersonal-Accidental,yes,yes,False,False,False,614,656
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,7,Personal-Instrumental,yes,no,True,False,False,943,915
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,8,Impersonal-Instrumental,yes,yes,False,False,False,449,761
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,9,Personal-Instrumental,yes,no,True,False,False,516,548
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,10,Impersonal-Instrumental,no,yes,True,False,False,789,533
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,11,Personal-Instrumental,yes,,,False,True,727,1257
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,12,Impersonal-Instrumental,yes,no,True,False,False,1084,731
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,13,Personal-Instrumental,yes,yes,False,False,False,437,866
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,14,Impersonal-Instrumental,yes,no,True,False,False,476,802
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,15,Personal-Accidental,yes,yes,False,False,False,289,969
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,16,Impersonal-Accidental,yes,yes,False,False,False,737,873
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,17,Personal-Instrumental,yes,yes,False,False,False,550,474
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,18,Impersonal-Accidental,yes,yes,False,False,False,538,632
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,19,Personal-Instrumental,yes,,,False,True,473,1287
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,20,Impersonal-Instrumental,yes,yes,False,False,False,688,673
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,21,Personal-Instrumental,no,yes,True,False,False,625,676
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,22,Impersonal-Instrumental,yes,yes,False,False,False,691,664
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,23,Personal-Accidental,yes,yes,False,False,False,895,422
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,24,Impersonal-Accidental,yes,,,False,True,600,1272
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,25,Personal-Instrumental,yes,no,True,False,False,647,389
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,26,Impersonal-Instrumental,yes,yes,False,False,False,556,905
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,27,Personal-Accidental,yes,yes,False,False,False,787,461
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,28,Impersonal-Accidental,yes,yes,False,False,False,769,791
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,29,Personal-Accidental,yes,no,True,False,False,668,845
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,30,Impersonal-Accidental,yes,yes,False,False,False,515,727
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,31,Personal-Instrumental,yes,no,True,False,False,708,579
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,279,557
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,33,Personal-Instrumental,no,yes,True,False,False,385,553
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,34,Impersonal-Instrumental,no,yes,True,False,False,857,845
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,35,Personal-Instrumental,no,,,False,True,625,1227
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,36,Impersonal-Instrumental,yes,yes,False,False,False,567,741
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,37,Personal-Instrumental,yes,yes,False,False,False,933,532
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,840,827
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,39,Personal-Instrumental,yes,yes,False,False,False,913,603
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,40,Impersonal-Accidental,yes,yes,False,False,False,431,518
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,41,Personal-Instrumental,yes,no,True,False,False,507,480
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,42,Impersonal-Accidental,yes,yes,False,False,False,608,852
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,43,Personal-Instrumental,yes,,,False,True,448,1241
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,44,Impersonal-Instrumental,yes,yes,False,False,False,650,733
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,45,Personal-Accidental,yes,yes,False,False,False,672,671
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,46,Impersonal-Instrumental,yes,no,True,False,False,584,665
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,47,Personal-Instrumental,no,yes,True,False,False,452,568
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,48,Impersonal-Instrumental,yes,,,False,True,774,1299
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,361,326
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,823,475
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,511,551
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,460,478
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,1,Personal-Instrumental,yes,no,True,False,False,769,495
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,2,Impersonal-Accidental,yes,no,True,False,False,662,862
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,3,Personal-Accidental,no,no,False,False,False,625,789
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,4,Impersonal-Accidental,yes,yes,False,False,False,641,876
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,5,Personal-Accidental,yes,yes,False,False,False,474,612
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,6,Impersonal-Accidental,yes,yes,False,False,False,761,930
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,7,Personal-Instrumental,yes,yes,False,False,False,678,896
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,8,Impersonal-Instrumental,yes,yes,False,False,False,791,490
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,9,Personal-Instrumental,yes,no,True,False,False,770,825
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,10,Impersonal-Instrumental,,,,True,True,1279,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,11,Personal-Instrumental,yes,no,True,False,False,888,908
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,12,Impersonal-Instrumental,yes,yes,False,False,False,642,1103
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,13,Personal-Instrumental,yes,yes,False,False,False,565,733
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,14,Impersonal-Instrumental,yes,yes,False,False,False,814,831
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,15,Personal-Accidental,yes,no,True,False,False,905,1072
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,16,Impersonal-Accidental,yes,yes,False,False,False,854,1203
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,17,Personal-Instrumental,yes,no,True,False,False,594,719
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,18,Impersonal-Accidental,yes,no,True,False,False,347,912
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,19,Personal-Instrumental,yes,yes,False,False,False,493,621
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,20,Impersonal-Instrumental,yes,yes,False,False,False,352,493
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,21,Personal-Instrumental,yes,no,True,False,False,370,341
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,22,Impersonal-Instrumental,yes,no,True,False,False,507,510
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,23,Personal-Accidental,yes,yes,False,False,False,443,885
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,24,Impersonal-Accidental,yes,yes,False,False,False,510,727
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,25,Personal-Instrumental,no,yes,True,False,False,419,676
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,26,Impersonal-Instrumental,yes,yes,False,False,False,397,722
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,27,Personal-Accidental,yes,yes,False,False,False,891,687
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,28,Impersonal-Accidental,yes,yes,False,False,False,751,749
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,29,Personal-Accidental,yes,no,True,False,False,492,682
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,30,Impersonal-Accidental,yes,yes,False,False,False,616,1067
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,31,Personal-Instrumental,yes,yes,False,False,False,382,752
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,32,Impersonal-Accidental,yes,yes,False,False,False,362,482
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,33,Personal-Instrumental,yes,yes,False,False,False,779,619
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,34,Impersonal-Instrumental,yes,yes,False,False,False,784,693
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,35,Personal-Instrumental,yes,yes,False,False,False,302,479
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,36,Impersonal-Instrumental,yes,yes,False,False,False,439,834
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,37,Personal-Instrumental,yes,yes,False,False,False,774,1115
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,38,Impersonal-Instrumental,yes,yes,False,False,False,575,527
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,39,Personal-Instrumental,yes,yes,False,False,False,662,623
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,40,Impersonal-Accidental,yes,yes,False,False,False,512,540
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,41,Personal-Instrumental,yes,yes,False,False,False,415,468
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,42,Impersonal-Accidental,yes,no,True,False,False,633,692
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,43,Personal-Instrumental,yes,no,True,False,False,391,644
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,44,Impersonal-Instrumental,yes,yes,False,False,False,698,845
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,45,Personal-Accidental,yes,no,True,False,False,730,645
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,46,Impersonal-Instrumental,yes,no,True,False,False,443,703
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,47,Personal-Instrumental,no,no,False,False,False,265,765
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,48,Impersonal-Instrumental,yes,,,False,True,675,1301
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,689,804
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,493,832
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,329,508
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,359,580
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,1,Personal-Instrumental,yes,no,True,False,False,454,1044
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,397,754
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,3,Personal-Accidental,yes,yes,False,False,False,817,1155
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,4,Impersonal-Accidental,no,yes,True,False,False,835,644
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,5,Personal-Accidental,yes,yes,False,False,False,467,409
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,6,Impersonal-Accidental,yes,yes,False,False,False,585,556
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,7,Personal-Instrumental,yes,no,True,False,False,505,707
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,8,Impersonal-Instrumental,yes,yes,False,False,False,578,790
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,9,Personal-Instrumental,yes,no,True,False,False,440,554
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,10,Impersonal-Instrumental,yes,no,True,False,False,712,649
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,11,Personal-Instrumental,yes,no,True,False,False,702,856
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,12,Impersonal-Instrumental,yes,yes,False,False,False,854,454
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,13,Personal-Instrumental,yes,yes,False,False,False,331,623
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,14,Impersonal-Instrumental,yes,yes,False,False,False,527,856
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,15,Personal-Accidental,yes,yes,False,False,False,532,863
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,16,Impersonal-Accidental,yes,,,False,True,382,1261
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,17,Personal-Instrumental,yes,yes,False,False,False,407,679
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,18,Impersonal-Accidental,yes,yes,False,False,False,373,552
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,19,Personal-Instrumental,yes,,,False,True,543,1244
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,20,Impersonal-Instrumental,yes,no,True,False,False,626,888
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,21,Personal-Instrumental,yes,no,True,False,False,601,533
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,22,Impersonal-Instrumental,yes,yes,False,False,False,544,599
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,23,Personal-Accidental,,,,True,True,1246,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,24,Impersonal-Accidental,yes,yes,False,False,False,929,538
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,25,Personal-Instrumental,no,yes,True,False,False,521,705
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,26,Impersonal-Instrumental,yes,no,True,False,False,839,629
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,27,Personal-Accidental,yes,yes,False,False,False,461,693
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,28,Impersonal-Accidental,yes,yes,False,False,False,589,493
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,29,Personal-Accidental,yes,yes,False,False,False,620,680
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,30,Impersonal-Accidental,yes,yes,False,False,False,530,441
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,31,Personal-Instrumental,yes,yes,False,False,False,442,741
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,32,Impersonal-Accidental,yes,yes,False,False,False,352,643
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,33,Personal-Instrumental,yes,yes,False,False,False,595,468
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,34,Impersonal-Instrumental,yes,no,True,False,False,520,801
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,35,Personal-Instrumental,yes,yes,False,False,False,526,617
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,36,Impersonal-Instrumental,yes,yes,False,False,False,552,366
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,37,Personal-Instrumental,yes,yes,False,False,False,820,619
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,38,Impersonal-Instrumental,yes,yes,False,False,False,758,784
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,39,Personal-Instrumental,yes,yes,False,False,False,506,790
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,372,639
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,41,Personal-Instrumental,yes,no,True,False,False,483,542
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,42,Impersonal-Accidental,yes,no,True,False,False,943,534
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,43,Personal-Instrumental,yes,yes,False,False,False,448,674
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,44,Impersonal-Instrumental,yes,yes,False,False,False,377,673
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,45,Personal-Accidental,yes,no,True,False,False,499,538
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,46,Impersonal-Instrumental,yes,yes,False,False,False,358,854
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,47,Personal-Instrumental,no,no,False,False,False,569,630
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,48,Impersonal-Instrumental,,,,True,True,1287,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,747,841
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,534,692
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,488,724
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,391,592
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,1,Personal-Instrumental,,,,True,True,468,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,2,Impersonal-Accidental,,,,True,True,1294,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,3,Personal-Accidental,yes,yes,False,False,False,665,763
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,4,Impersonal-Accidental,yes,yes,False,False,False,1012,627
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,5,Personal-Accidental,yes,yes,False,False,False,555,621
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,6,Impersonal-Accidental,yes,yes,False,False,False,783,550
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,7,Personal-Instrumental,yes,yes,False,False,False,676,402
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,8,Impersonal-Instrumental,yes,yes,False,False,False,709,507
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,9,Personal-Instrumental,no,yes,True,False,False,640,514
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,10,Impersonal-Instrumental,yes,no,True,False,False,676,684
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,11,Personal-Instrumental,yes,yes,False,False,False,426,947
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,12,Impersonal-Instrumental,yes,no,True,False,False,943,782
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,13,Personal-Instrumental,yes,yes,False,False,False,466,634
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,14,Impersonal-Instrumental,yes,no,True,False,False,515,930
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,15,Personal-Accidental,yes,yes,False,False,False,544,520
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,16,Impersonal-Accidental,yes,yes,False,False,False,749,469
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,17,Personal-Instrumental,yes,yes,False,False,False,506,403
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,18,Impersonal-Accidental,yes,yes,False,False,False,506,537
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,19,Personal-Instrumental,yes,yes,False,False,False,579,657
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,20,Impersonal-Instrumental,yes,no,True,False,False,271,598
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,21,Personal-Instrumental,no,yes,True,False,False,336,715
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,22,Impersonal-Instrumental,yes,yes,False,False,False,566,737
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,23,Personal-Accidental,yes,yes,False,False,False,675,815
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,24,Impersonal-Accidental,yes,,,False,True,490,1257
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,25,Personal-Instrumental,yes,no,True,False,False,667,619
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,26,Impersonal-Instrumental,yes,yes,False,False,False,505,705
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,27,Personal-Accidental,yes,yes,False,False,False,722,418
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,28,Impersonal-Accidental,yes,no,True,False,False,527,563
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,29,Personal-Accidental,yes,yes,False,False,False,317,482
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,30,Impersonal-Accidental,yes,yes,False,False,False,520,814
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,31,Personal-Instrumental,yes,yes,False,False,False,416,505
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,343,531
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,33,Personal-Instrumental,yes,no,True,False,False,600,466
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,34,Impersonal-Instrumental,no,yes,True,False,False,900,984
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,35,Personal-Instrumental,no,yes,True,False,False,621,634
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,36,Impersonal-Instrumental,yes,yes,False,False,False,379,576
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,37,Personal-Instrumental,yes,yes,False,False,False,548,659
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,754,705
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,39,Personal-Instrumental,yes,yes,False,False,False,920,941
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,40,Impersonal-Accidental,yes,no,True,False,False,501,655
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,41,Personal-Instrumental,yes,no,True,False,False,345,498
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,42,Impersonal-Accidental,yes,yes,False,False,False,529,758
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,43,Personal-Instrumental,yes,yes,False,False,False,335,701
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,44,Impersonal-Instrumental,yes,yes,False,False,False,401,607
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,45,Personal-Accidental,yes,no,True,False,False,768,485
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,46,Impersonal-Instrumental,yes,no,True,False,False,670,923
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,47,Personal-Instrumental,no,no,False,False,False,651,683
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,48,Impersonal-Instrumental,yes,no,True,False,False,849,738
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,557,783
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,643,719
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,518,527
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,389,731
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,1,Personal-Instrumental,yes,yes,False,False,False,882,464
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,2,Impersonal-Accidental,yes,yes,False,False,False,829,618
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,3,Personal-Accidental,no,yes,True,False,False,614,760
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,4,Impersonal-Accidental,no,yes,True,False,False,895,1010
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,5,Personal-Accidental,yes,yes,False,False,False,732,375
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,6,Impersonal-Accidental,yes,yes,False,False,False,637,591
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,7,Personal-Instrumental,yes,no,True,False,False,444,495
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,8,Impersonal-Instrumental,yes,yes,False,False,False,551,632
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,9,Personal-Instrumental,yes,no,True,False,False,748,599
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,10,Impersonal-Instrumental,no,yes,True,False,False,863,527
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,11,Personal-Instrumental,yes,yes,False,False,False,499,528
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,12,Impersonal-Instrumental,yes,yes,False,False,False,944,592
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,13,Personal-Instrumental,yes,yes,False,False,False,665,839
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,14,Impersonal-Instrumental,,,,True,True,1261,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,15,Personal-Accidental,yes,yes,False,False,False,1052,722
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,16,Impersonal-Accidental,yes,yes,False,False,False,635,603
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,17,Personal-Instrumental,yes,yes,False,False,False,417,388
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,18,Impersonal-Accidental,yes,yes,False,False,False,390,645
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,19,Personal-Instrumental,yes,yes,False,False,False,458,406
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,20,Impersonal-Instrumental,yes,yes,False,False,False,298,855
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,21,Personal-Instrumental,yes,no,True,False,False,463,373
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,22,Impersonal-Instrumental,yes,yes,False,False,False,470,949
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,23,Personal-Accidental,yes,,,False,True,466,1282
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,24,Impersonal-Accidental,yes,yes,False,False,False,367,591
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,25,Personal-Instrumental,no,yes,True,False,False,648,405
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,26,Impersonal-Instrumental,yes,yes,False,False,False,464,558
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,27,Personal-Accidental,yes,yes,False,False,False,648,584
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,28,Impersonal-Accidental,yes,yes,False,False,False,631,682
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,29,Personal-Accidental,yes,yes,False,False,False,617,799
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,30,Impersonal-Accidental,yes,no,True,False,False,614,458
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,31,Personal-Instrumental,yes,yes,False,False,False,395,620
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,32,Impersonal-Accidental,yes,yes,False,False,False,398,607
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,33,Personal-Instrumental,yes,no,True,False,False,899,853
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,34,Impersonal-Instrumental,yes,no,True,False,False,459,731
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,35,Personal-Instrumental,yes,yes,False,False,False,604,415
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,36,Impersonal-Instrumental,yes,yes,False,False,False,635,438
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,37,Personal-Instrumental,yes,yes,False,False,False,784,899
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,38,Impersonal-Instrumental,yes,yes,False,False,False,666,369
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,39,Personal-Instrumental,yes,yes,False,False,False,755,573
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,40,Impersonal-Accidental,yes,yes,False,False,False,611,750
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,41,Personal-Instrumental,yes,yes,False,False,False,285,732
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,42,Impersonal-Accidental,yes,no,True,False,False,640,831
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,43,Personal-Instrumental,yes,yes,False,False,False,511,913
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,44,Impersonal-Instrumental,yes,yes,False,False,False,419,829
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,45,Personal-Accidental,yes,no,True,False,False,829,631
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,46,Impersonal-Instrumental,yes,no,True,False,False,863,744
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,47,Personal-Instrumental,no,no,False,False,False,669,601
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,48,Impersonal-Instrumental,yes,yes,False,False,False,797,563
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,393,554
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,633,430
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,292,712
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,474,889
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,1,Personal-Instrumental,yes,yes,False,False,False,327,582
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,345,734
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,3,Personal-Accidental,no,yes,True,False,False,839,810
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,4,Impersonal-Accidental,no,,,False,True,403,1285
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,5,Personal-Accidental,yes,yes,False,False,False,637,718
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,6,Impersonal-Accidental,yes,no,True,False,False,512,830
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,7,Personal-Instrumental,yes,no,True,False,False,603,527
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,8,Impersonal-Instrumental,yes,no,True,False,False,770,735
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,9,Personal-Instrumental,no,yes,True,False,False,525,861
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,10,Impersonal-Instrumental,yes,no,True,False,False,666,842
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,11,Personal-Instrumental,yes,no,True,False,False,581,731
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,12,Impersonal-Instrumental,no,yes,True,False,False,867,911
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,13,Personal-Instrumental,yes,no,True,False,False,1067,468
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,14,Impersonal-Instrumental,yes,yes,False,False,False,694,754
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,15,Personal-Accidental,yes,yes,False,False,False,814,730
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,16,Impersonal-Accidental,yes,no,True,False,False,459,624
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,17,Personal-Instrumental,yes,yes,False,False,False,333,531
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,18,Impersonal-Accidental,yes,yes,False,False,False,408,475
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,19,Personal-Instrumental,yes,no,True,False,False,485,951
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,20,Impersonal-Instrumental,yes,yes,False,False,False,472,856
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,21,Personal-Instrumental,no,no,False,False,False,378,623
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,22,Impersonal-Instrumental,yes,yes,False,False,False,268,512
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,23,Personal-Accidental,yes,yes,False,False,False,659,472
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,24,Impersonal-Accidental,yes,yes,False,False,False,394,482
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,25,Personal-Instrumental,no,yes,True,False,False,448,709
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,26,Impersonal-Instrumental,yes,no,True,False,False,590,512
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,27,Personal-Accidental,yes,yes,False,False,False,540,941
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,28,Impersonal-Accidental,yes,yes,False,False,False,492,787
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,29,Personal-Accidental,yes,yes,False,False,False,758,542
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,30,Impersonal-Accidental,yes,yes,False,False,False,844,728
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,31,Personal-Instrumental,yes,yes,False,False,False,462,567
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,32,Impersonal-Accidental,yes,yes,False,False,False,652,674
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,33,Personal-Instrumental,yes,yes,False,False,False,748,1002
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,34,Impersonal-Instrumental,yes,no,True,False,False,435,816
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,35,Personal-Instrumental,yes,no,True,False,False,294,853
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,36,Impersonal-Instrumental,yes,yes,False,False,False,667,533
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,37,Personal-Instrumental,yes,yes,False,False,False,574,785
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,38,Impersonal-Instrumental,yes,yes,False,False,False,667,668
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,39,Personal-Instrumental,yes,yes,False,False,False,481,608
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,343,631
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,41,Personal-Instrumental,yes,yes,False,False,False,382,796
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,42,Impersonal-Accidental,yes,yes,False,False,False,755,721
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,43,Personal-Instrumental,yes,yes,False,False,False,622,597
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,44,Impersonal-Instrumental,yes,yes,False,False,False,348,783
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,45,Personal-Accidental,no,yes,True,False,False,1090,642
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,46,Impersonal-Instrumental,yes,no,True,False,False,470,578
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,47,Personal-Instrumental,no,no,False,False,False,603,393
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,48,Impersonal-Instrumental,yes,yes,False,False,False,1167,577
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,513,527
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,751,1000
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,447,644
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,838,802
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,1,Personal-Instrumental,yes,no,True,False,False,720,587
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,2,Impersonal-Accidental,,,,True,True,1274,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,3,Personal-Accidental,yes,,,False,True,581,1289
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,4,Impersonal-Accidental,no,yes,True,False,False,597,517
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,5,Personal-Accidental,yes,yes,False,False,False,741,795
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,6,Impersonal-Accidental,yes,yes,False,False,False,615,669
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,7,Personal-Instrumental,yes,no,True,False,False,715,634
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,8,Impersonal-Instrumental,yes,yes,False,False,False,518,531
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,9,Personal-Instrumental,yes,no,True,False,False,717,475
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,10,Impersonal-Instrumental,no,yes,True,False,False,398,420
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,11,Personal-Instrumental,,,,True,True,1251,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,12,Impersonal-Instrumental,yes,yes,False,False,False,783,986
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,13,Personal-Instrumental,yes,yes,False,False,False,363,502
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,14,Impersonal-Instrumental,yes,no,True,False,False,450,762
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,15,Personal-Accidental,,,,True,True,1267,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,16,Impersonal-Accidental,yes,yes,False,False,False,433,588
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,17,Personal-Instrumental,yes,yes,False,False,False,392,982
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,18,Impersonal-Accidental,yes,yes,False,False,False,489,379
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,19,Personal-Instrumental,yes,yes,False,False,False,573,1119
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,20,Impersonal-Instrumental,yes,yes,False,False,False,535,449
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,21,Personal-Instrumental,no,yes,True,False,False,511,462
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,22,Impersonal-Instrumental,yes,yes,False,False,False,683,723
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,23,Personal-Accidental,yes,yes,False,False,False,479,777
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,24,Impersonal-Accidental,yes,yes,False,False,False,772,658
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,25,Personal-Instrumental,yes,no,True,False,False,647,849
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,26,Impersonal-Instrumental,yes,yes,False,False,False,311,905
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,27,Personal-Accidental,yes,yes,False,False,False,530,1154
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,28,Impersonal-Accidental,yes,yes,False,False,False,544,758
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,29,Personal-Accidental,yes,no,True,False,False,622,903
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,30,Impersonal-Accidental,yes,yes,False,False,False,441,593
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,31,Personal-Instrumental,yes,yes,False,False,False,532,328
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,345,369
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,33,Personal-Instrumental,yes,yes,False,False,False,976,492
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,34,Impersonal-Instrumental,yes,no,True,False,False,1093,612
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,35,Personal-Instrumental,yes,yes,False,False,False,401,485
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,36,Impersonal-Instrumental,yes,yes,False,False,False,744,564
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,37,Personal-Instrumental,yes,yes,False,False,False,505,454
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,959,1147
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,39,Personal-Instrumental,yes,no,True,False,False,795,738
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,40,Impersonal-Accidental,yes,yes,False,False,False,426,627
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,41,Personal-Instrumental,yes,yes,False,False,False,373,394
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,42,Impersonal-Accidental,yes,yes,False,False,False,940,473
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,43,Personal-Instrumental,yes,yes,False,False,False,368,688
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,44,Impersonal-Instrumental,yes,yes,False,False,False,379,740
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,45,Personal-Accidental,yes,no,True,False,False,626,386
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,46,Impersonal-Instrumental,yes,no,True,False,False,741,634
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,47,Personal-Instrumental,yes,no,True,False,False,735,536
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,48,Impersonal-Instrumental,yes,yes,False,False,False,718,651
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,383,436
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,507,700
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,694,410
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,784,327
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,1,Personal-Instrumental,yes,yes,False,False,False,613,374
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,2,Impersonal-Accidental,yes,yes,False,False,False,451,489
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,3,Personal-Accidental,no,yes,True,False,False,777,967
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,4,Impersonal-Accidental,yes,yes,False,False,False,1242,938
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,5,Personal-Accidental,yes,yes,False,False,False,676,657
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,6,Impersonal-Accidental,yes,no,True,False,False,398,536
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,7,Personal-Instrumental,yes,yes,False,False,False,802,869
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,8,Impersonal-Instrumental,yes,yes,False,False,False,863,486
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,9,Personal-Instrumental,yes,no,True,False,False,747,499
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,10,Impersonal-Instrumental,yes,no,True,False,False,860,372
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,11,Personal-Instrumental,yes,yes,False,False,False,860,318
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,12,Impersonal-Instrumental,yes,yes,False,False,False,498,787
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,13,Personal-Instrumental,yes,yes,False,False,False,364,886
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,14,Impersonal-Instrumental,yes,no,True,False,False,654,819
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,15,Personal-Accidental,yes,no,True,False,False,647,819
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,16,Impersonal-Accidental,yes,,,False,True,943,1273
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,17,Personal-Instrumental,yes,yes,False,False,False,467,636
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,18,Impersonal-Accidental,yes,yes,False,False,False,304,566
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,19,Personal-Instrumental,no,yes,True,False,False,812,482
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,20,Impersonal-Instrumental,yes,yes,False,False,False,472,697
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,21,Personal-Instrumental,yes,no,True,False,False,483,592
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,22,Impersonal-Instrumental,yes,yes,False,False,False,630,492
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,23,Personal-Accidental,yes,yes,False,False,False,326,1120
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,24,Impersonal-Accidental,yes,no,True,False,False,515,484
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,25,Personal-Instrumental,no,yes,True,False,False,483,645
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,26,Impersonal-Instrumental,yes,yes,False,False,False,422,836
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,27,Personal-Accidental,yes,yes,False,False,False,316,575
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,28,Impersonal-Accidental,yes,yes,False,False,False,630,610
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,29,Personal-Accidental,yes,yes,False,False,False,522,845
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,30,Impersonal-Accidental,yes,yes,False,False,False,667,430
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,31,Personal-Instrumental,yes,yes,False,False,False,525,580
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,32,Impersonal-Accidental,yes,yes,False,False,False,445,489
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,33,Personal-Instrumental,no,yes,True,False,False,852,304
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,34,Impersonal-Instrumental,yes,no,True,False,False,870,647
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,35,Personal-Instrumental,yes,no,True,False,False,841,853
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,36,Impersonal-Instrumental,yes,yes,False,False,False,378,550
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,37,Personal-Instrumental,yes,yes,False,False,False,1092,932
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,38,Impersonal-Instrumental,yes,yes,False,False,False,888,358
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,39,Personal-Instrumental,yes,yes,False,False,False,307,633
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,40,Impersonal-Accidental,yes,no,True,False,False,383,533
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,41,Personal-Instrumental,yes,yes,False,False,False,357,488
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,42,Impersonal-Accidental,yes,yes,False,False,False,387,589
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,43,Personal-Instrumental,yes,yes,False,False,False,387,729
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,44,Impersonal-Instrumental,yes,no,True,False,False,571,461
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,45,Personal-Accidental,yes,yes,False,False,False,691,449
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,46,Impersonal-Instrumental,yes,yes,False,False,False,691,791
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,47,Personal-Instrumental,yes,no,True,False,False,460,339
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,48,Impersonal-Instrumental,yes,no,True,False,False,971,770
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,430,632
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,359,611
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,612,594
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,402,786
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,1,Personal-Instrumental,yes,yes,False,False,False,360,446
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,524,597
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,3,Personal-Accidental,yes,no,True,False,False,902,517
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,4,Impersonal-Accidental,no,,,False,True,552,1252
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,5,Personal-Accidental,yes,yes,False,False,False,592,658
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,6,Impersonal-Accidental,yes,yes,False,False,False,646,578
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,7,Personal-Instrumental,yes,no,True,False,False,645,767
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,8,Impersonal-Instrumental,yes,yes,False,False,False,681,696
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,9,Personal-Instrumental,no,yes,True,False,False,662,516
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,10,Impersonal-Instrumental,,,,True,True,1290,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,11,Personal-Instrumental,yes,yes,False,False,False,527,751
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,12,Impersonal-Instrumental,yes,,,False,True,672,1171
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,13,Personal-Instrumental,yes,yes,False,False,False,747,618
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,14,Impersonal-Instrumental,yes,,,False,True,257,1281
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,15,Personal-Accidental,yes,yes,False,False,False,712,617
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,16,Impersonal-Accidental,yes,yes,False,False,False,562,867
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,17,Personal-Instrumental,yes,no,True,False,False,340,476
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,18,Impersonal-Accidental,yes,yes,False,False,False,553,498
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,19,Personal-Instrumental,yes,no,True,False,False,603,589
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,20,Impersonal-Instrumental,yes,yes,False,False,False,641,857
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,21,Personal-Instrumental,yes,no,True,False,False,691,651
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,22,Impersonal-Instrumental,yes,yes,False,False,False,652,643
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,23,Personal-Accidental,yes,yes,False,False,False,722,571
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,24,Impersonal-Accidental,yes,yes,False,False,False,665,744
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,25,Personal-Instrumental,yes,no,True,False,False,679,534
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,26,Impersonal-Instrumental,yes,no,True,False,False,993,570
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,27,Personal-Accidental,yes,yes,False,False,False,372,829
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,28,Impersonal-Accidental,yes,yes,False,False,False,643,659
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,29,Personal-Accidental,yes,no,True,False,False,692,1047
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,30,Impersonal-Accidental,yes,no,True,False,False,437,434
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,31,Personal-Instrumental,yes,yes,False,False,False,624,547
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,32,Impersonal-Accidental,yes,no,True,False,False,451,582
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,33,Personal-Instrumental,yes,yes,False,False,False,865,954
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,34,Impersonal-Instrumental,yes,no,True,False,False,530,1012
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,35,Personal-Instrumental,yes,yes,False,False,False,827,724
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,36,Impersonal-Instrumental,yes,yes,False,False,False,465,407
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,37,Personal-Instrumental,yes,yes,False,False,False,1029,1057
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,38,Impersonal-Instrumental,yes,yes,False,False,False,507,406
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,39,Personal-Instrumental,yes,yes,False,False,False,472,932
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,534,953
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,41,Personal-Instrumental,yes,yes,False,False,False,414,528
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,42,Impersonal-Accidental,yes,yes,False,False,False,541,1259
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,43,Personal-Instrumental,yes,yes,False,False,False,354,340
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,44,Impersonal-Instrumental,yes,yes,False,False,False,324,406
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,45,Personal-Accidental,yes,no,True,False,False,908,706
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,46,Impersonal-Instrumental,yes,no,True,False,False,517,632
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,47,Personal-Instrumental,yes,no,True,False,False,582,473
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,48,Impersonal-Instrumental,yes,yes,False,False,False,910,1029
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,527,805
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,480,745
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,450,462
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,381,446
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,1,Personal-Instrumental,yes,,,False,True,745,1303
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,2,Impersonal-Accidental,yes,yes,False,False,False,863,468
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,3,Personal-Accidental,yes,,,False,True,980,1279
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,4,Impersonal-Accidental,no,yes,True,False,False,1096,589
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,5,Personal-Accidental,yes,yes,False,False,False,386,566
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,6,Impersonal-Accidental,yes,no,True,False,False,930,830
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,7,Personal-Instrumental,yes,yes,False,False,False,1033,523
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,8,Impersonal-Instrumental,yes,,,False,True,556,339
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,9,Personal-Instrumental,yes,no,True,False,False,1195,430
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,10,Impersonal-Instrumental,yes,no,True,False,False,590,599
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,11,Personal-Instrumental,yes,yes,False,False,False,992,498
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,12,Impersonal-Instrumental,yes,no,True,False,False,659,923
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,13,Personal-Instrumental,yes,yes,False,False,False,673,558
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,14,Impersonal-Instrumental,yes,yes,False,False,False,766,480
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,15,Personal-Accidental,yes,yes,False,False,False,255,777
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,16,Impersonal-Accidental,yes,no,True,False,False,589,564
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,17,Personal-Instrumental,yes,yes,False,False,False,585,742
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,18,Impersonal-Accidental,yes,yes,False,False,False,598,600
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,19,Personal-Instrumental,yes,yes,False,False,False,448,552
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,20,Impersonal-Instrumental,yes,yes,False,False,False,339,683
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,21,Personal-Instrumental,yes,yes,False,False,False,444,352
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,22,Impersonal-Instrumental,yes,yes,False,False,False,599,775
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,23,Personal-Accidental,yes,yes,False,False,False,677,645
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,24,Impersonal-Accidental,yes,yes,False,False,False,317,903
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,25,Personal-Instrumental,yes,no,True,False,False,753,951
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,26,Impersonal-Instrumental,yes,no,True,False,False,772,436
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,27,Personal-Accidental,yes,yes,False,False,False,867,645
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,28,Impersonal-Accidental,yes,yes,False,False,False,699,709
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,29,Personal-Accidental,yes,yes,False,False,False,543,657
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,30,Impersonal-Accidental,yes,yes,False,False,False,508,622
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,31,Personal-Instrumental,yes,yes,False,False,False,805,353
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,292,725
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,33,Personal-Instrumental,yes,no,True,False,False,684,675
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,34,Impersonal-Instrumental,yes,yes,False,False,False,833,623
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,35,Personal-Instrumental,yes,yes,False,False,False,477,386
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,36,Impersonal-Instrumental,yes,no,True,False,False,560,701
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,37,Personal-Instrumental,yes,yes,False,False,False,718,618
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,668,994
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,39,Personal-Instrumental,yes,yes,False,False,False,597,617
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,40,Impersonal-Accidental,yes,yes,False,False,False,416,505
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,41,Personal-Instrumental,yes,no,True,False,False,324,501
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,42,Impersonal-Accidental,yes,no,True,False,False,898,884
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,43,Personal-Instrumental,yes,yes,False,False,False,414,471
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,44,Impersonal-Instrumental,yes,yes,False,False,False,613,461
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,45,Personal-Accidental,no,yes,True,False,False,576,389
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,46,Impersonal-Instrumental,yes,no,True,False,False,654,681
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,47,Personal-Instrumental,no,no,False,False,False,754,377
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,48,Impersonal-Instrumental,yes,no,True,False,False,1003,735
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,471,639
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,714,1124
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,,,False,True,485,336
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,651,465
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,1,Personal-Instrumental,yes,yes,False,False,False,483,638
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,2,Impersonal-Accidental,yes,yes,False,False,False,856,720
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,3,Personal-Accidental,yes,yes,False,False,False,667,716
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,4,Impersonal-Accidental,yes,yes,False,False,False,779,729
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,5,Personal-Accidental,yes,yes,False,False,False,492,620
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,6,Impersonal-Accidental,yes,yes,False,False,False,548,590
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,7,Personal-Instrumental,yes,no,True,False,False,446,1229
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,8,Impersonal-Instrumental,yes,no,True,False,False,630,699
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,9,Personal-Instrumental,no,yes,True,False,False,432,676
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,10,Impersonal-Instrumental,yes,no,True,False,False,800,1245
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,11,Personal-Instrumental,yes,yes,False,False,False,412,1247
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,12,Impersonal-Instrumental,yes,no,True,False,False,773,737
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,13,Personal-Instrumental,yes,no,True,False,False,885,610
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,14,Impersonal-Instrumental,yes,yes,False,False,False,770,558
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,15,Personal-Accidental,yes,no,True,False,False,777,722
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,16,Impersonal-Accidental,yes,yes,False,False,False,1079,1167
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,17,Personal-Instrumental,yes,yes,False,False,False,587,572
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,18,Impersonal-Accidental,yes,yes,False,False,False,521,483
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,19,Personal-Instrumental,yes,yes,False,False,False,540,707
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,20,Impersonal-Instrumental,yes,yes,False,False,False,681,626
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,21,Personal-Instrumental,yes,no,True,False,False,455,579
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,22,Impersonal-Instrumental,no,yes,True,False,False,667,716
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,23,Personal-Accidental,yes,yes,False,False,False,635,334
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,24,Impersonal-Accidental,yes,,,False,True,518,1257
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,25,Personal-Instrumental,no,yes,True,False,False,917,449
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,26,Impersonal-Instrumental,yes,yes,False,False,False,630,521
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,27,Personal-Accidental,yes,yes,False,False,False,767,765
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,28,Impersonal-Accidental,yes,yes,False,False,False,592,775
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,29,Personal-Accidental,yes,no,True,False,False,744,806
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,30,Impersonal-Accidental,yes,yes,False,False,False,676,730
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,31,Personal-Instrumental,yes,yes,False,False,False,836,748
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,32,Impersonal-Accidental,yes,yes,False,False,False,607,472
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,33,Personal-Instrumental,yes,no,True,False,False,1013,1000
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,34,Impersonal-Instrumental,yes,no,True,False,False,863,793
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,35,Personal-Instrumental,yes,yes,False,False,False,448,839
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,36,Impersonal-Instrumental,yes,yes,False,False,False,371,612
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,37,Personal-Instrumental,yes,yes,False,False,False,616,886
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,38,Impersonal-Instrumental,yes,yes,False,False,False,705,792
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,39,Personal-Instrumental,yes,yes,False,False,False,517,569
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,40,Impersonal-Accidental,yes,yes,False,False,False,491,669
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,41,Personal-Instrumental,yes,yes,False,False,False,460,517
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,42,Impersonal-Accidental,yes,yes,False,False,False,385,657
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,43,Personal-Instrumental,yes,yes,False,False,False,386,498
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,44,Impersonal-Instrumental,yes,yes,False,False,False,587,700
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,45,Personal-Accidental,yes,no,True,False,False,380,477
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,46,Impersonal-Instrumental,yes,no,True,False,False,490,816
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,47,Personal-Instrumental,no,no,False,False,False,734,746
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,48,Impersonal-Instrumental,no,yes,True,False,False,570,836
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,686,740
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,377,695
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,675,661
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,401,893
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,1,Personal-Instrumental,yes,yes,False,False,False,519,585
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,340,924
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,3,Personal-Accidental,yes,yes,False,False,False,815,600
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,4,Impersonal-Accidental,,,,True,True,1271,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,5,Personal-Accidental,yes,yes,False,False,False,526,466
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,6,Impersonal-Accidental,yes,yes,False,False,False,586,620
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,7,Personal-Instrumental,yes,no,True,False,False,627,1167
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,8,Impersonal-Instrumental,yes,yes,False,False,False,659,774
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,9,Personal-Instrumental,yes,yes,False,False,False,712,735
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,10,Impersonal-Instrumental,no,yes,True,False,False,522,705
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,11,Personal-Instrumental,yes,,,False,True,762,1241
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,12,Impersonal-Instrumental,yes,yes,False,False,False,843,783
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,13,Personal-Instrumental,yes,yes,False,False,False,315,911
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,14,Impersonal-Instrumental,yes,no,True,False,False,658,1151
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,15,Personal-Accidental,yes,yes,False,False,False,712,788
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,16,Impersonal-Accidental,yes,yes,False,False,False,377,690
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,17,Personal-Instrumental,yes,yes,False,False,False,640,638
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,18,Impersonal-Accidental,yes,no,True,False,False,519,715
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,19,Personal-Instrumental,yes,no,True,False,False,461,530
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,20,Impersonal-Instrumental,yes,yes,False,False,False,582,703
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,21,Personal-Instrumental,no,yes,True,False,False,509,466
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,22,Impersonal-Instrumental,yes,yes,False,False,False,634,560
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,23,Personal-Accidental,yes,,,False,True,694,1246
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,24,Impersonal-Accidental,yes,yes,False,False,False,363,1015
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,25,Personal-Instrumental,yes,no,True,False,False,945,831
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,26,Impersonal-Instrumental,yes,yes,False,False,False,677,459
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,27,Personal-Accidental,yes,yes,False,False,False,378,667
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,28,Impersonal-Accidental,yes,yes,False,False,False,566,658
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,29,Personal-Accidental,yes,no,True,False,False,584,780
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,30,Impersonal-Accidental,yes,no,True,False,False,351,490
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,31,Personal-Instrumental,yes,no,True,False,False,441,847
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,32,Impersonal-Accidental,yes,yes,False,False,False,510,309
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,33,Personal-Instrumental,yes,no,True,False,False,747,693
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,34,Impersonal-Instrumental,yes,no,True,False,False,846,494
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,35,Personal-Instrumental,no,yes,True,False,False,794,596
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,36,Impersonal-Instrumental,yes,yes,False,False,False,1034,564
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,37,Personal-Instrumental,yes,no,True,False,False,679,707
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,38,Impersonal-Instrumental,yes,yes,False,False,False,967,918
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,39,Personal-Instrumental,yes,no,True,False,False,992,964
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,267,598
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,41,Personal-Instrumental,yes,yes,False,False,False,395,593
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,42,Impersonal-Accidental,yes,yes,False,False,False,517,854
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,43,Personal-Instrumental,yes,no,True,False,False,627,1186
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,44,Impersonal-Instrumental,yes,yes,False,False,False,407,523
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,45,Personal-Accidental,yes,no,True,False,False,588,451
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,46,Impersonal-Instrumental,,,,True,True,1219,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,47,Personal-Instrumental,no,yes,True,False,False,747,601
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,48,Impersonal-Instrumental,yes,yes,False,False,False,928,610
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),no,yes,True,False,False,384,637
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,449,695
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,397,443
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,495,767
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,1,Personal-Instrumental,yes,no,True,False,False,690,858
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,2,Impersonal-Accidental,yes,yes,False,False,False,758,989
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,3,Personal-Accidental,yes,yes,False,False,False,828,762
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,4,Impersonal-Accidental,yes,,,False,True,750,1259
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,5,Personal-Accidental,yes,yes,False,False,False,475,689
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,6,Impersonal-Accidental,yes,yes,False,False,False,729,681
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,7,Personal-Instrumental,yes,yes,False,False,False,524,748
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,8,Impersonal-Instrumental,yes,no,True,False,False,797,464
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,9,Personal-Instrumental,no,no,False,False,False,368,649
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,10,Impersonal-Instrumental,no,yes,True,False,False,736,681
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,11,Personal-Instrumental,yes,yes,False,False,False,817,868
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,12,Impersonal-Instrumental,yes,yes,False,False,False,712,913
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,13,Personal-Instrumental,yes,no,True,False,False,841,780
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,14,Impersonal-Instrumental,yes,yes,False,False,False,379,909
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,15,Personal-Accidental,yes,no,True,False,False,372,1056
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,16,Impersonal-Accidental,yes,yes,False,False,False,340,887
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,17,Personal-Instrumental,yes,yes,False,False,False,590,529
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,18,Impersonal-Accidental,yes,yes,False,False,False,453,645
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,19,Personal-Instrumental,yes,no,True,False,False,472,740
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,20,Impersonal-Instrumental,yes,yes,False,False,False,853,605
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,21,Personal-Instrumental,yes,yes,False,False,False,481,673
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,22,Impersonal-Instrumental,yes,yes,False,False,False,560,726
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,23,Personal-Accidental,yes,yes,False,False,False,376,461
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,24,Impersonal-Accidental,yes,yes,False,False,False,756,498
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,25,Personal-Instrumental,no,yes,True,False,False,862,583
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,26,Impersonal-Instrumental,yes,yes,False,False,False,500,858
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,27,Personal-Accidental,yes,yes,False,False,False,998,704
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,28,Impersonal-Accidental,yes,yes,False,False,False,675,561
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,29,Personal-Accidental,yes,yes,False,False,False,461,764
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,30,Impersonal-Accidental,no,yes,True,False,False,1023,690
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,31,Personal-Instrumental,yes,no,True,False,False,689,388
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,492,468
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,33,Personal-Instrumental,yes,no,True,False,False,460,573
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,34,Impersonal-Instrumental,yes,no,True,False,False,731,644
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,35,Personal-Instrumental,yes,yes,False,False,False,868,478
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,36,Impersonal-Instrumental,yes,yes,False,False,False,710,520
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,37,Personal-Instrumental,yes,yes,False,False,False,786,846
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,1187,1241
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,39,Personal-Instrumental,yes,yes,False,False,False,399,655
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,40,Impersonal-Accidental,yes,yes,False,False,False,860,544
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,41,Personal-Instrumental,yes,yes,False,False,False,410,486
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,42,Impersonal-Accidental,yes,no,True,False,False,628,559
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,43,Personal-Instrumental,yes,yes,False,False,False,468,839
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,44,Impersonal-Instrumental,yes,yes,False,False,False,490,616
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,45,Personal-Accidental,yes,no,True,False,False,527,397
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,46,Impersonal-Instrumental,yes,no,True,False,False,765,490
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,47,Personal-Instrumental,yes,no,True,False,False,564,612
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,48,Impersonal-Instrumental,no,yes,True,False,False,995,1153
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,830,516
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,692,751
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,419,922
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,744,647
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,1,Personal-Instrumental,yes,yes,False,False,False,510,654
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,2,Impersonal-Accidental,yes,yes,False,False,False,545,785
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,3,Personal-Accidental,yes,no,True,False,False,1154,739
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,4,Impersonal-Accidental,no,yes,True,False,False,741,671
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,5,Personal-Accidental,yes,yes,False,False,False,712,442
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,6,Impersonal-Accidental,yes,no,True,False,False,527,671
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,7,Personal-Instrumental,yes,yes,False,False,False,590,929
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,8,Impersonal-Instrumental,yes,yes,False,False,False,1222,941
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,9,Personal-Instrumental,no,yes,True,False,False,719,970
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,10,Impersonal-Instrumental,no,yes,True,False,False,1071,534
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,11,Personal-Instrumental,yes,yes,False,False,False,472,565
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,12,Impersonal-Instrumental,yes,yes,False,False,False,548,692
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,13,Personal-Instrumental,yes,yes,False,False,False,787,466
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,14,Impersonal-Instrumental,yes,no,True,False,False,563,833
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,15,Personal-Accidental,yes,yes,False,False,False,648,735
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,16,Impersonal-Accidental,yes,yes,False,False,False,842,443
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,17,Personal-Instrumental,yes,yes,False,False,False,440,782
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,18,Impersonal-Accidental,yes,yes,False,False,False,424,499
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,19,Personal-Instrumental,yes,no,True,False,False,411,749
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,20,Impersonal-Instrumental,yes,yes,False,False,False,552,464
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,21,Personal-Instrumental,yes,yes,False,False,False,544,575
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,22,Impersonal-Instrumental,yes,yes,False,False,False,517,656
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,23,Personal-Accidental,yes,,,False,True,602,1295
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,24,Impersonal-Accidental,,,,True,True,1276,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,25,Personal-Instrumental,no,yes,True,False,False,477,645
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,26,Impersonal-Instrumental,yes,no,True,False,False,664,1232
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,27,Personal-Accidental,yes,no,True,False,False,610,589
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,28,Impersonal-Accidental,yes,yes,False,False,False,539,877
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,29,Personal-Accidental,no,yes,True,False,False,563,652
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,30,Impersonal-Accidental,yes,yes,False,False,False,812,466
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,31,Personal-Instrumental,yes,yes,False,False,False,586,762
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,32,Impersonal-Accidental,yes,yes,False,False,False,354,478
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,33,Personal-Instrumental,no,yes,True,False,False,766,584
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,34,Impersonal-Instrumental,yes,yes,False,False,False,451,463
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,35,Personal-Instrumental,yes,yes,False,False,False,319,514
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,36,Impersonal-Instrumental,yes,yes,False,False,False,624,1166
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,37,Personal-Instrumental,yes,yes,False,False,False,704,1137
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,38,Impersonal-Instrumental,yes,yes,False,False,False,690,932
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,39,Personal-Instrumental,yes,no,True,False,False,421,714
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,40,Impersonal-Accidental,yes,yes,False,False,False,538,527
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,41,Personal-Instrumental,yes,yes,False,False,False,775,697
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,42,Impersonal-Accidental,yes,yes,False,False,False,612,469
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,43,Personal-Instrumental,yes,no,True,False,False,533,527
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,44,Impersonal-Instrumental,,,,True,True,1164,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,45,Personal-Accidental,yes,yes,False,False,False,496,417
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,46,Impersonal-Instrumental,yes,yes,False,False,False,580,658
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,47,Personal-Instrumental,no,yes,True,False,False,518,598
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,48,Impersonal-Instrumental,no,yes,True,False,False,705,920
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,551,500
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,405,589
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,342,580
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,553,502
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,1,Personal-Instrumental,yes,no,True,False,False,492,841
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,568,1100
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,3,Personal-Accidental,yes,yes,False,False,False,881,616
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,4,Impersonal-Accidental,,,,True,True,1263,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,5,Personal-Accidental,yes,yes,False,False,False,788,300
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,6,Impersonal-Accidental,yes,yes,False,False,False,867,961
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,7,Personal-Instrumental,yes,yes,False,False,False,660,884
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,8,Impersonal-Instrumental,yes,no,True,False,False,800,922
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,9,Personal-Instrumental,yes,,,False,True,1100,1257
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,10,Impersonal-Instrumental,yes,no,True,False,False,800,736
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,11,Personal-Instrumental,yes,yes,False,False,False,963,850
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,12,Impersonal-Instrumental,,,,True,True,1207,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,13,Personal-Instrumental,yes,yes,False,False,False,666,789
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,14,Impersonal-Instrumental,yes,yes,False,False,False,306,759
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,15,Personal-Accidental,yes,yes,False,False,False,686,987
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,16,Impersonal-Accidental,yes,yes,False,False,False,1008,1014
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,17,Personal-Instrumental,yes,yes,False,False,False,504,611
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,18,Impersonal-Accidental,yes,yes,False,False,False,451,768
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,19,Personal-Instrumental,yes,yes,False,False,False,404,517
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,20,Impersonal-Instrumental,yes,yes,False,False,False,679,510
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,21,Personal-Instrumental,no,no,False,False,False,636,456
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,22,Impersonal-Instrumental,yes,yes,False,False,False,771,608
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,23,Personal-Accidental,yes,yes,False,False,False,535,584
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,24,Impersonal-Accidental,yes,,,False,True,712,1254
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,25,Personal-Instrumental,yes,no,True,False,False,618,625
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,26,Impersonal-Instrumental,yes,yes,False,False,False,688,1010
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,27,Personal-Accidental,yes,yes,False,False,False,770,656
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,28,Impersonal-Accidental,yes,yes,False,False,False,625,888
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,29,Personal-Accidental,yes,no,True,False,False,726,752
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,30,Impersonal-Accidental,yes,yes,False,False,False,414,668
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,31,Personal-Instrumental,yes,yes,False,False,False,395,534
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,32,Impersonal-Accidental,yes,yes,False,False,False,398,431
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,33,Personal-Instrumental,yes,no,True,False,False,877,790
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,34,Impersonal-Instrumental,yes,no,True,False,False,858,630
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,35,Personal-Instrumental,,,,True,True,1206,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,36,Impersonal-Instrumental,yes,yes,False,False,False,892,619
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,37,Personal-Instrumental,yes,yes,False,False,False,820,500
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,38,Impersonal-Instrumental,yes,yes,False,False,False,792,670
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,39,Personal-Instrumental,yes,no,True,False,False,611,1242
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,406,690
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,41,Personal-Instrumental,yes,yes,False,False,False,427,1041
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,42,Impersonal-Accidental,yes,yes,False,False,False,631,920
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,43,Personal-Instrumental,yes,yes,False,False,False,552,429
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,44,Impersonal-Instrumental,yes,yes,False,False,False,371,657
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,45,Personal-Accidental,yes,no,True,False,False,586,670
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,46,Impersonal-Instrumental,yes,no,True,False,False,641,464
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,47,Personal-Instrumental,no,,,False,True,599,1270
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,48,Impersonal-Instrumental,yes,yes,False,False,False,653,880
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,765,804
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,441,690
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,366,831
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,449,544
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,1,Personal-Instrumental,yes,no,True,False,False,866,838
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,2,Impersonal-Accidental,yes,yes,False,False,False,867,538
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,3,Personal-Accidental,yes,no,True,False,False,1098,1144
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,4,Impersonal-Accidental,yes,yes,False,False,False,523,977
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,5,Personal-Accidental,yes,yes,False,False,False,1184,584
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,6,Impersonal-Accidental,yes,no,True,False,False,489,911
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,7,Personal-Instrumental,,,,True,True,1263,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,8,Impersonal-Instrumental,yes,yes,False,False,False,734,710
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,9,Personal-Instrumental,yes,no,True,False,False,656,563
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,10,Impersonal-Instrumental,no,yes,True,False,False,476,663
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,11,Personal-Instrumental,yes,yes,False,False,False,739,724
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,12,Impersonal-Instrumental,yes,yes,False,False,False,456,980
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,13,Personal-Instrumental,yes,yes,False,False,False,633,860
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,14,Impersonal-Instrumental,yes,yes,False,False,False,739,713
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,15,Personal-Accidental,no,yes,True,False,False,210,982
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,16,Impersonal-Accidental,yes,yes,False,False,False,515,435
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,17,Personal-Instrumental,yes,yes,False,False,False,287,533
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,18,Impersonal-Accidental,yes,yes,False,False,False,394,730
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,19,Personal-Instrumental,yes,yes,False,False,False,719,622
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,20,Impersonal-Instrumental,yes,yes,False,False,False,656,902
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,21,Personal-Instrumental,yes,no,True,False,False,640,615
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,22,Impersonal-Instrumental,yes,yes,False,False,False,559,288
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,23,Personal-Accidental,yes,yes,False,False,False,622,1005
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,24,Impersonal-Accidental,yes,yes,False,False,False,874,600
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,25,Personal-Instrumental,yes,no,True,False,False,922,677
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,26,Impersonal-Instrumental,yes,no,True,False,False,656,693
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,27,Personal-Accidental,yes,yes,False,False,False,596,717
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,28,Impersonal-Accidental,yes,yes,False,False,False,852,684
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,29,Personal-Accidental,yes,no,True,False,False,495,687
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,30,Impersonal-Accidental,yes,no,True,False,False,669,556
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,31,Personal-Instrumental,yes,yes,False,False,False,730,620
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,487,547
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,33,Personal-Instrumental,yes,no,True,False,False,954,1094
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,34,Impersonal-Instrumental,yes,no,True,False,False,972,869
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,35,Personal-Instrumental,yes,yes,False,False,False,626,387
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,36,Impersonal-Instrumental,yes,yes,False,False,False,755,1024
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,37,Personal-Instrumental,yes,,,False,True,729,962
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,743,764
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,39,Personal-Instrumental,yes,yes,False,False,False,645,892
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,40,Impersonal-Accidental,yes,yes,False,False,False,634,456
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,41,Personal-Instrumental,yes,yes,False,False,False,212,518
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,42,Impersonal-Accidental,yes,yes,False,False,False,552,892
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,43,Personal-Instrumental,yes,yes,False,False,False,578,823
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,44,Impersonal-Instrumental,yes,yes,False,False,False,549,681
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,45,Personal-Accidental,yes,yes,False,False,False,732,600
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,46,Impersonal-Instrumental,yes,no,True,False,False,751,903
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,47,Personal-Instrumental,no,no,False,False,False,830,403
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,48,Impersonal-Instrumental,,,,True,True,1285,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,424,840
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,1246,775
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,636,644
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,644,286
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,1,Personal-Instrumental,yes,yes,False,False,False,766,534
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,2,Impersonal-Accidental,yes,yes,False,False,False,525,782
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,3,Personal-Accidental,yes,yes,False,False,False,688,533
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,4,Impersonal-Accidental,no,yes,True,False,False,963,792
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,5,Personal-Accidental,yes,yes,False,False,False,580,739
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,6,Impersonal-Accidental,yes,yes,False,False,False,720,538
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,7,Personal-Instrumental,yes,yes,False,False,False,921,1187
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,8,Impersonal-Instrumental,yes,yes,False,False,False,636,1099
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,9,Personal-Instrumental,yes,no,True,False,False,757,717
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,10,Impersonal-Instrumental,yes,no,True,False,False,777,1217
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,11,Personal-Instrumental,yes,yes,False,False,False,554,1021
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,12,Impersonal-Instrumental,yes,yes,False,False,False,557,778
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,13,Personal-Instrumental,yes,no,True,False,False,459,465
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,14,Impersonal-Instrumental,yes,yes,False,False,False,751,742
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,15,Personal-Accidental,yes,yes,False,False,False,522,602
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,16,Impersonal-Accidental,,,,True,True,1272,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,17,Personal-Instrumental,,,,True,True,249,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,18,Impersonal-Accidental,yes,yes,False,False,False,512,386
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,19,Personal-Instrumental,yes,yes,False,False,False,327,722
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,20,Impersonal-Instrumental,yes,yes,False,False,False,826,907
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,21,Personal-Instrumental,no,yes,True,False,False,643,676
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,22,Impersonal-Instrumental,yes,yes,False,False,False,592,714
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,23,Personal-Accidental,yes,no,True,False,False,359,746
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,24,Impersonal-Accidental,yes,yes,False,False,False,1203,929
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,25,Personal-Instrumental,yes,no,True,False,False,461,816
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,26,Impersonal-Instrumental,yes,yes,False,False,False,300,483
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,27,Personal-Accidental,yes,yes,False,False,False,752,872
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,28,Impersonal-Accidental,yes,no,True,False,False,1098,754
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,29,Personal-Accidental,yes,yes,False,False,False,683,988
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,30,Impersonal-Accidental,yes,yes,False,False,False,759,666
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,31,Personal-Instrumental,,,,True,True,1177,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,32,Impersonal-Accidental,yes,,,False,True,534,519
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,33,Personal-Instrumental,yes,no,True,False,False,825,851
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,34,Impersonal-Instrumental,no,yes,True,False,False,693,544
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,35,Personal-Instrumental,yes,no,True,False,False,394,834
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,36,Impersonal-Instrumental,yes,yes,False,False,False,409,791
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,37,Personal-Instrumental,,,,True,True,1315,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,38,Impersonal-Instrumental,yes,yes,False,False,False,449,1038
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,39,Personal-Instrumental,yes,yes,False,False,False,832,690
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,40,Impersonal-Accidental,yes,no,True,False,False,381,772
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,41,Personal-Instrumental,yes,yes,False,False,False,655,782
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,42,Impersonal-Accidental,yes,yes,False,False,False,1019,657
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,43,Personal-Instrumental,yes,yes,False,False,False,617,722
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,44,Impersonal-Instrumental,yes,yes,False,False,False,764,732
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,45,Personal-Accidental,yes,yes,False,False,False,766,654
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,46,Impersonal-Instrumental,yes,no,True,False,False,499,614
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,47,Personal-Instrumental,no,yes,True,False,False,435,534
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,48,Impersonal-Instrumental,no,yes,True,False,False,976,773
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,396,826
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,368,797
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,325,1143
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,,,False,True,493,764
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,1,Personal-Instrumental,yes,yes,False,False,False,383,846
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,440,618
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,3,Personal-Accidental,yes,,,False,True,1126,1296
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,4,Impersonal-Accidental,no,yes,True,False,False,1001,659
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,5,Personal-Accidental,yes,,,False,True,338,1251
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,6,Impersonal-Accidental,yes,yes,False,False,False,1108,725
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,7,Personal-Instrumental,yes,no,True,False,False,524,1038
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,8,Impersonal-Instrumental,yes,yes,False,False,False,641,837
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,9,Personal-Instrumental,no,yes,True,False,False,967,865
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,10,Impersonal-Instrumental,no,yes,True,False,False,839,926
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,11,Personal-Instrumental,yes,yes,False,False,False,712,703
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,12,Impersonal-Instrumental,yes,yes,False,False,False,490,495
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,13,Personal-Instrumental,yes,yes,False,False,False,814,922
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,14,Impersonal-Instrumental,yes,yes,False,False,False,219,643
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,15,Personal-Accidental,no,yes,True,False,False,492,754
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,16,Impersonal-Accidental,yes,yes,False,False,False,451,928
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,17,Personal-Instrumental,yes,yes,False,False,False,731,338
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,18,Impersonal-Accidental,yes,yes,False,False,False,383,1159
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,19,Personal-Instrumental,yes,yes,False,False,False,376,500
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,20,Impersonal-Instrumental,yes,yes,False,False,False,487,285
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,21,Personal-Instrumental,yes,no,True,False,False,484,563
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,22,Impersonal-Instrumental,yes,yes,False,False,False,959,1133
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,23,Personal-Accidental,yes,yes,False,False,False,818,427
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,24,Impersonal-Accidental,yes,yes,False,False,False,405,782
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,25,Personal-Instrumental,yes,no,True,False,False,604,539
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,26,Impersonal-Instrumental,yes,yes,False,False,False,603,954
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,27,Personal-Accidental,yes,yes,False,False,False,458,452
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,28,Impersonal-Accidental,yes,yes,False,False,False,424,1172
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,29,Personal-Accidental,yes,yes,False,False,False,369,713
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,30,Impersonal-Accidental,yes,yes,False,False,False,996,494
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,31,Personal-Instrumental,yes,yes,False,False,False,410,526
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,32,Impersonal-Accidental,yes,yes,False,False,False,339,827
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,33,Personal-Instrumental,yes,no,True,False,False,500,950
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,34,Impersonal-Instrumental,yes,yes,False,False,False,676,558
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,35,Personal-Instrumental,yes,yes,False,False,False,656,708
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,36,Impersonal-Instrumental,yes,no,True,False,False,436,554
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,37,Personal-Instrumental,yes,no,True,False,False,794,789
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,38,Impersonal-Instrumental,yes,yes,False,False,False,610,771
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,39,Personal-Instrumental,yes,yes,False,False,False,533,631
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,886,471
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,41,Personal-Instrumental,yes,yes,False,False,False,499,535
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,42,Impersonal-Accidental,yes,yes,False,False,False,694,1218
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,43,Personal-Instrumental,yes,yes,False,False,False,617,715
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,44,Impersonal-Instrumental,yes,yes,False,False,False,448,681
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,45,Personal-Accidental,yes,yes,False,False,False,668,553
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,46,Impersonal-Instrumental,yes,yes,False,False,False,735,527
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,47,Personal-Instrumental,no,yes,True,False,False,553,647
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,48,Impersonal-Instrumental,yes,no,True,False,False,677,731
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,423,970
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,420,704
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,517,736
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,no,True,False,False,618,962
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,1,Personal-Instrumental,yes,yes,False,False,False,729,815
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,2,Impersonal-Accidental,yes,yes,False,False,False,896,835
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,3,Personal-Accidental,yes,,,False,True,561,1281
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,4,Impersonal-Accidental,,,,True,True,1286,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,5,Personal-Accidental,yes,yes,False,False,False,395,1170
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,6,Impersonal-Accidental,yes,yes,False,False,False,489,612
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,7,Personal-Instrumental,yes,yes,False,False,False,776,896
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,8,Impersonal-Instrumental,no,yes,True,False,False,1022,915
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,9,Personal-Instrumental,no,yes,True,False,False,837,719
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,10,Impersonal-Instrumental,no,yes,True,False,False,1045,743
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,11,Personal-Instrumental,yes,yes,False,False,False,738,591
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,12,Impersonal-Instrumental,yes,yes,False,False,False,545,783
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,13,Personal-Instrumental,yes,yes,False,False,False,520,577
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,14,Impersonal-Instrumental,yes,no,True,False,False,730,822
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,15,Personal-Accidental,yes,,,False,True,350,1247
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,16,Impersonal-Accidental,yes,yes,False,False,False,457,601
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,17,Personal-Instrumental,yes,yes,False,False,False,584,498
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,18,Impersonal-Accidental,yes,yes,False,False,False,481,648
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,19,Personal-Instrumental,yes,yes,False,False,False,801,443
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,20,Impersonal-Instrumental,yes,no,True,False,False,1084,1157
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,21,Personal-Instrumental,no,yes,True,False,False,349,431
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,22,Impersonal-Instrumental,yes,no,True,False,False,481,630
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,23,Personal-Accidental,yes,yes,False,False,False,670,501
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,24,Impersonal-Accidental,yes,yes,False,False,False,493,647
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,25,Personal-Instrumental,no,yes,True,False,False,995,538
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,26,Impersonal-Instrumental,yes,yes,False,False,False,504,767
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,27,Personal-Accidental,yes,yes,False,False,False,728,536
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,28,Impersonal-Accidental,no,yes,True,False,False,761,1161
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,29,Personal-Accidental,yes,no,True,False,False,529,961
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,30,Impersonal-Accidental,yes,yes,False,False,False,486,737
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,31,Personal-Instrumental,yes,yes,False,False,False,526,426
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,388,604
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,33,Personal-Instrumental,yes,no,True,False,False,895,620
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,34,Impersonal-Instrumental,yes,yes,False,False,False,579,722
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,35,Personal-Instrumental,yes,yes,False,False,False,708,562
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,36,Impersonal-Instrumental,yes,yes,False,False,False,330,608
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,37,Personal-Instrumental,yes,yes,False,False,False,583,523
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,858,725
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,39,Personal-Instrumental,yes,no,True,False,False,649,634
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,40,Impersonal-Accidental,yes,yes,False,False,False,633,694
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,41,Personal-Instrumental,yes,yes,False,False,False,404,559
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,42,Impersonal-Accidental,yes,,,False,True,559,1248
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,43,Personal-Instrumental,yes,yes,False,False,False,908,665
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,44,Impersonal-Instrumental,yes,yes,False,False,False,514,736
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,45,Personal-Accidental,yes,no,True,False,False,806,834
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,46,Impersonal-Instrumental,yes,no,True,False,False,901,688
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,47,Personal-Instrumental,yes,no,True,False,False,398,297
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,48,Impersonal-Instrumental,no,yes,True,False,False,1144,867
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,340,485
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,482,1032
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,460,645
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,580,590

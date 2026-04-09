@@ -1,0 +1,1405 @@
+model,is_reasoning,persona_name,persona_index,system_prompt,temperature,seed,run,dilemma_id,dilemma_category,step1_answer,step2_answer,flipped,step1_parse_failed,step2_parse_failed,step1_thinking_length,step2_thinking_length
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,1,Personal-Instrumental,yes,no,True,False,False,700,994
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,2,Impersonal-Accidental,yes,yes,False,False,False,564,748
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,3,Personal-Accidental,yes,yes,False,False,False,817,779
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,4,Impersonal-Accidental,yes,yes,False,False,False,497,695
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,5,Personal-Accidental,yes,yes,False,False,False,592,616
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,6,Impersonal-Accidental,yes,yes,False,False,False,541,447
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,7,Personal-Instrumental,yes,yes,False,False,False,543,408
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,8,Impersonal-Instrumental,yes,yes,False,False,False,721,657
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,9,Personal-Instrumental,yes,yes,False,False,False,691,419
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,10,Impersonal-Instrumental,yes,yes,False,False,False,656,529
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,11,Personal-Instrumental,yes,yes,False,False,False,608,520
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,12,Impersonal-Instrumental,yes,yes,False,False,False,600,442
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,13,Personal-Instrumental,yes,yes,False,False,False,586,741
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,14,Impersonal-Instrumental,yes,yes,False,False,False,846,507
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,15,Personal-Accidental,yes,yes,False,False,False,717,898
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,16,Impersonal-Accidental,yes,yes,False,False,False,525,541
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,17,Personal-Instrumental,yes,yes,False,False,False,781,446
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,18,Impersonal-Accidental,yes,yes,False,False,False,662,605
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,19,Personal-Instrumental,yes,yes,False,False,False,355,562
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,20,Impersonal-Instrumental,yes,yes,False,False,False,472,384
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,21,Personal-Instrumental,yes,yes,False,False,False,632,456
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,22,Impersonal-Instrumental,yes,no,True,False,False,365,442
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,23,Personal-Accidental,yes,yes,False,False,False,528,554
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,24,Impersonal-Accidental,yes,yes,False,False,False,586,735
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,25,Personal-Instrumental,no,no,False,False,False,431,625
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,26,Impersonal-Instrumental,no,,,False,True,792,1267
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,27,Personal-Accidental,yes,yes,False,False,False,545,687
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,28,Impersonal-Accidental,yes,yes,False,False,False,503,637
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,29,Personal-Accidental,yes,yes,False,False,False,553,564
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,30,Impersonal-Accidental,no,yes,True,False,False,527,415
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,31,Personal-Instrumental,yes,yes,False,False,False,509,534
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,32,Impersonal-Accidental,yes,yes,False,False,False,545,595
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,33,Personal-Instrumental,yes,yes,False,False,False,633,473
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,34,Impersonal-Instrumental,yes,yes,False,False,False,619,532
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,35,Personal-Instrumental,yes,yes,False,False,False,459,688
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,36,Impersonal-Instrumental,yes,yes,False,False,False,678,536
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,37,Personal-Instrumental,yes,yes,False,False,False,401,484
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,38,Impersonal-Instrumental,yes,yes,False,False,False,484,318
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,39,Personal-Instrumental,yes,yes,False,False,False,531,440
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,40,Impersonal-Accidental,yes,yes,False,False,False,516,563
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,41,Personal-Instrumental,yes,yes,False,False,False,502,938
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,42,Impersonal-Accidental,yes,yes,False,False,False,767,573
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,43,Personal-Instrumental,yes,yes,False,False,False,755,628
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,44,Impersonal-Instrumental,yes,yes,False,False,False,860,804
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,45,Personal-Accidental,no,yes,True,False,False,904,510
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,46,Impersonal-Instrumental,yes,yes,False,False,False,1035,694
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,47,Personal-Instrumental,no,no,False,False,False,649,823
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,48,Impersonal-Instrumental,yes,no,True,False,False,624,678
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),no,yes,True,False,False,636,492
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,539,597
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,423,641
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,373,534
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,1,Personal-Instrumental,yes,yes,False,False,False,639,415
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,624,618
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,3,Personal-Accidental,yes,,,False,True,1096,1279
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,4,Impersonal-Accidental,,,,True,True,1227,0
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,5,Personal-Accidental,yes,yes,False,False,False,879,759
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,6,Impersonal-Accidental,yes,yes,False,False,False,601,665
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,7,Personal-Instrumental,yes,yes,False,False,False,506,601
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,8,Impersonal-Instrumental,yes,yes,False,False,False,525,513
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,9,Personal-Instrumental,yes,yes,False,False,False,818,412
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,10,Impersonal-Instrumental,yes,yes,False,False,False,648,686
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,11,Personal-Instrumental,yes,yes,False,False,False,797,403
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,12,Impersonal-Instrumental,yes,,,False,True,556,1218
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,13,Personal-Instrumental,yes,yes,False,False,False,619,578
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,14,Impersonal-Instrumental,yes,no,True,False,False,505,670
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,15,Personal-Accidental,,,,True,True,1259,0
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,16,Impersonal-Accidental,yes,yes,False,False,False,505,803
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,17,Personal-Instrumental,yes,yes,False,False,False,504,515
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,18,Impersonal-Accidental,yes,yes,False,False,False,805,525
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,19,Personal-Instrumental,yes,yes,False,False,False,749,693
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,20,Impersonal-Instrumental,yes,yes,False,False,False,632,587
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,21,Personal-Instrumental,yes,yes,False,False,False,448,431
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,22,Impersonal-Instrumental,yes,yes,False,False,False,402,513
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,23,Personal-Accidental,yes,yes,False,False,False,471,580
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,24,Impersonal-Accidental,yes,yes,False,False,False,618,620
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,25,Personal-Instrumental,yes,no,True,False,False,494,752
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,26,Impersonal-Instrumental,,,,True,True,1240,0
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,27,Personal-Accidental,yes,yes,False,False,False,724,661
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,28,Impersonal-Accidental,yes,yes,False,False,False,338,589
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,29,Personal-Accidental,yes,yes,False,False,False,867,813
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,30,Impersonal-Accidental,yes,no,True,False,False,691,465
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,31,Personal-Instrumental,yes,yes,False,False,False,759,639
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,32,Impersonal-Accidental,yes,yes,False,False,False,564,681
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,33,Personal-Instrumental,yes,yes,False,False,False,545,427
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,34,Impersonal-Instrumental,yes,yes,False,False,False,812,573
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,35,Personal-Instrumental,yes,yes,False,False,False,703,415
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,36,Impersonal-Instrumental,yes,yes,False,False,False,300,824
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,37,Personal-Instrumental,yes,yes,False,False,False,584,1170
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,38,Impersonal-Instrumental,yes,yes,False,False,False,350,430
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,39,Personal-Instrumental,yes,yes,False,False,False,657,657
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,502,449
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,41,Personal-Instrumental,yes,yes,False,False,False,672,606
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,42,Impersonal-Accidental,yes,yes,False,False,False,410,409
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,43,Personal-Instrumental,yes,yes,False,False,False,544,481
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,44,Impersonal-Instrumental,yes,yes,False,False,False,582,609
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,45,Personal-Accidental,no,no,False,False,False,753,456
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,46,Impersonal-Instrumental,yes,,,False,True,798,1230
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,47,Personal-Instrumental,no,no,False,False,False,639,602
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,48,Impersonal-Instrumental,yes,yes,False,False,False,561,650
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),no,no,False,False,False,651,893
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,360,598
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,577,309
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,429,689
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,1,Personal-Instrumental,yes,no,True,False,False,693,771
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,2,Impersonal-Accidental,yes,yes,False,False,False,739,706
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,3,Personal-Accidental,yes,yes,False,False,False,707,1040
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,4,Impersonal-Accidental,yes,yes,False,False,False,548,632
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,5,Personal-Accidental,yes,yes,False,False,False,456,589
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,6,Impersonal-Accidental,yes,yes,False,False,False,880,502
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,7,Personal-Instrumental,yes,yes,False,False,False,776,621
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,8,Impersonal-Instrumental,yes,yes,False,False,False,948,528
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,9,Personal-Instrumental,yes,yes,False,False,False,725,489
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,10,Impersonal-Instrumental,yes,yes,False,False,False,620,866
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,11,Personal-Instrumental,yes,yes,False,False,False,533,576
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,12,Impersonal-Instrumental,yes,yes,False,False,False,766,589
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,13,Personal-Instrumental,yes,yes,False,False,False,365,609
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,14,Impersonal-Instrumental,yes,yes,False,False,False,600,448
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,15,Personal-Accidental,yes,yes,False,False,False,401,501
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,16,Impersonal-Accidental,yes,yes,False,False,False,650,561
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,17,Personal-Instrumental,yes,yes,False,False,False,568,560
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,18,Impersonal-Accidental,yes,yes,False,False,False,510,476
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,19,Personal-Instrumental,yes,yes,False,False,False,872,955
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,20,Impersonal-Instrumental,yes,yes,False,False,False,631,1088
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,21,Personal-Instrumental,yes,yes,False,False,False,557,481
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,22,Impersonal-Instrumental,yes,yes,False,False,False,373,484
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,23,Personal-Accidental,yes,yes,False,False,False,676,559
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,24,Impersonal-Accidental,yes,yes,False,False,False,638,554
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,25,Personal-Instrumental,no,yes,True,False,False,580,555
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,26,Impersonal-Instrumental,no,yes,True,False,False,569,979
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,27,Personal-Accidental,yes,yes,False,False,False,753,541
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,28,Impersonal-Accidental,yes,yes,False,False,False,637,733
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,29,Personal-Accidental,no,yes,True,False,False,1110,702
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,30,Impersonal-Accidental,yes,yes,False,False,False,331,1077
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,31,Personal-Instrumental,yes,yes,False,False,False,657,365
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,630,735
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,33,Personal-Instrumental,yes,yes,False,False,False,433,655
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,34,Impersonal-Instrumental,yes,yes,False,False,False,432,521
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,35,Personal-Instrumental,yes,yes,False,False,False,383,522
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,36,Impersonal-Instrumental,yes,yes,False,False,False,771,511
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,37,Personal-Instrumental,yes,yes,False,False,False,398,708
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,541,655
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,39,Personal-Instrumental,yes,yes,False,False,False,427,685
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,40,Impersonal-Accidental,yes,yes,False,False,False,434,500
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,41,Personal-Instrumental,yes,yes,False,False,False,886,549
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,42,Impersonal-Accidental,yes,yes,False,False,False,586,626
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,43,Personal-Instrumental,yes,yes,False,False,False,324,371
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,44,Impersonal-Instrumental,yes,yes,False,False,False,536,672
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,45,Personal-Accidental,yes,no,True,False,False,651,881
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,46,Impersonal-Instrumental,yes,,,False,True,736,1248
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,47,Personal-Instrumental,no,no,False,False,False,730,705
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,48,Impersonal-Instrumental,no,yes,True,False,False,991,510
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),no,no,False,False,False,616,1085
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,554,446
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,363,449
+deepseek-r1-distill-llama-8b,True,empty,1,,0.5,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,338,395
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,1,Personal-Instrumental,yes,yes,False,False,False,573,660
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,2,Impersonal-Accidental,,,,True,True,1228,0
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,3,Personal-Accidental,,,,True,True,1247,0
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,4,Impersonal-Accidental,,,,True,True,1251,0
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,5,Personal-Accidental,yes,yes,False,False,False,501,509
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,6,Impersonal-Accidental,yes,yes,False,False,False,397,635
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,7,Personal-Instrumental,yes,yes,False,False,False,779,614
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,8,Impersonal-Instrumental,yes,yes,False,False,False,844,523
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,9,Personal-Instrumental,yes,yes,False,False,False,669,611
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,10,Impersonal-Instrumental,yes,yes,False,False,False,522,456
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,11,Personal-Instrumental,yes,yes,False,False,False,714,481
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,12,Impersonal-Instrumental,yes,yes,False,False,False,657,531
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,13,Personal-Instrumental,yes,yes,False,False,False,467,648
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,14,Impersonal-Instrumental,yes,yes,False,False,False,887,424
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,15,Personal-Accidental,yes,yes,False,False,False,749,377
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,16,Impersonal-Accidental,yes,yes,False,False,False,621,429
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,17,Personal-Instrumental,yes,yes,False,False,False,453,543
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,18,Impersonal-Accidental,yes,yes,False,False,False,668,564
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,19,Personal-Instrumental,yes,yes,False,False,False,521,514
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,20,Impersonal-Instrumental,yes,yes,False,False,False,541,637
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,21,Personal-Instrumental,yes,no,True,False,False,795,634
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,22,Impersonal-Instrumental,yes,yes,False,False,False,362,485
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,23,Personal-Accidental,yes,yes,False,False,False,736,633
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,24,Impersonal-Accidental,yes,yes,False,False,False,657,1006
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,25,Personal-Instrumental,no,no,False,False,False,819,645
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,26,Impersonal-Instrumental,yes,yes,False,False,False,922,635
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,27,Personal-Accidental,yes,yes,False,False,False,840,563
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,28,Impersonal-Accidental,yes,yes,False,False,False,702,680
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,29,Personal-Accidental,yes,no,True,False,False,649,615
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,30,Impersonal-Accidental,yes,yes,False,False,False,594,560
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,31,Personal-Instrumental,yes,yes,False,False,False,553,444
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,32,Impersonal-Accidental,yes,yes,False,False,False,330,620
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,33,Personal-Instrumental,yes,yes,False,False,False,695,954
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,34,Impersonal-Instrumental,yes,yes,False,False,False,676,618
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,35,Personal-Instrumental,yes,yes,False,False,False,395,464
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,36,Impersonal-Instrumental,yes,yes,False,False,False,586,752
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,37,Personal-Instrumental,yes,yes,False,False,False,577,843
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,38,Impersonal-Instrumental,yes,yes,False,False,False,647,611
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,39,Personal-Instrumental,yes,yes,False,False,False,531,564
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,40,Impersonal-Accidental,yes,yes,False,False,False,676,550
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,41,Personal-Instrumental,yes,yes,False,False,False,622,597
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,42,Impersonal-Accidental,yes,yes,False,False,False,479,805
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,43,Personal-Instrumental,yes,yes,False,False,False,438,1187
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,44,Impersonal-Instrumental,yes,yes,False,False,False,677,467
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,45,Personal-Accidental,no,yes,True,False,False,710,639
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,46,Impersonal-Instrumental,yes,yes,False,False,False,1072,626
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,47,Personal-Instrumental,no,no,False,False,False,483,618
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,48,Impersonal-Instrumental,yes,no,True,False,False,724,811
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),no,no,False,False,False,547,575
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,545,672
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,438,718
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,614,557
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,1,Personal-Instrumental,yes,yes,False,False,False,709,504
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,615,542
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,3,Personal-Accidental,yes,,,False,True,498,1249
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,4,Impersonal-Accidental,yes,yes,False,False,False,992,655
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,5,Personal-Accidental,yes,yes,False,False,False,538,634
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,6,Impersonal-Accidental,yes,yes,False,False,False,416,1185
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,7,Personal-Instrumental,yes,yes,False,False,False,431,476
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,8,Impersonal-Instrumental,yes,yes,False,False,False,464,366
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,9,Personal-Instrumental,yes,yes,False,False,False,691,758
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,10,Impersonal-Instrumental,yes,no,True,False,False,437,1157
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,11,Personal-Instrumental,yes,yes,False,False,False,700,605
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,12,Impersonal-Instrumental,yes,yes,False,False,False,430,545
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,13,Personal-Instrumental,yes,yes,False,False,False,818,1125
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,14,Impersonal-Instrumental,yes,yes,False,False,False,793,434
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,15,Personal-Accidental,yes,yes,False,False,False,1172,587
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,16,Impersonal-Accidental,yes,yes,False,False,False,527,643
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,17,Personal-Instrumental,yes,yes,False,False,False,500,650
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,18,Impersonal-Accidental,yes,yes,False,False,False,478,691
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,19,Personal-Instrumental,yes,yes,False,False,False,569,441
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,20,Impersonal-Instrumental,yes,yes,False,False,False,443,671
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,21,Personal-Instrumental,yes,no,True,False,False,631,585
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,22,Impersonal-Instrumental,yes,yes,False,False,False,521,766
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,23,Personal-Accidental,yes,,,False,True,610,863
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,24,Impersonal-Accidental,yes,yes,False,False,False,686,588
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,25,Personal-Instrumental,no,no,False,False,False,576,509
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,26,Impersonal-Instrumental,,,,True,True,1302,0
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,27,Personal-Accidental,yes,yes,False,False,False,434,522
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,28,Impersonal-Accidental,yes,yes,False,False,False,442,698
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,29,Personal-Accidental,yes,yes,False,False,False,479,424
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,30,Impersonal-Accidental,no,yes,True,False,False,410,606
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,31,Personal-Instrumental,yes,yes,False,False,False,806,753
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,32,Impersonal-Accidental,yes,yes,False,False,False,413,432
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,33,Personal-Instrumental,yes,no,True,False,False,543,517
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,34,Impersonal-Instrumental,yes,yes,False,False,False,627,838
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,35,Personal-Instrumental,yes,yes,False,False,False,563,406
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,36,Impersonal-Instrumental,yes,yes,False,False,False,756,512
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,37,Personal-Instrumental,yes,yes,False,False,False,650,330
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,38,Impersonal-Instrumental,yes,yes,False,False,False,446,389
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,39,Personal-Instrumental,yes,yes,False,False,False,679,741
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,451,639
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,41,Personal-Instrumental,yes,yes,False,False,False,505,609
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,42,Impersonal-Accidental,yes,yes,False,False,False,505,468
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,43,Personal-Instrumental,yes,yes,False,False,False,622,563
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,44,Impersonal-Instrumental,yes,,,False,True,493,1213
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,45,Personal-Accidental,yes,,,False,True,457,1237
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,46,Impersonal-Instrumental,yes,yes,False,False,False,651,637
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,47,Personal-Instrumental,no,,,False,True,595,822
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,48,Impersonal-Instrumental,yes,yes,False,False,False,573,793
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,692,803
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,664,1037
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,435,381
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,427,652
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,1,Personal-Instrumental,yes,yes,False,False,False,809,1095
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,2,Impersonal-Accidental,yes,yes,False,False,False,790,765
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,3,Personal-Accidental,yes,yes,False,False,False,662,894
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,4,Impersonal-Accidental,yes,yes,False,False,False,771,1144
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,5,Personal-Accidental,yes,yes,False,False,False,573,527
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,6,Impersonal-Accidental,yes,yes,False,False,False,990,459
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,7,Personal-Instrumental,yes,yes,False,False,False,645,613
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,8,Impersonal-Instrumental,yes,yes,False,False,False,865,462
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,9,Personal-Instrumental,yes,no,True,False,False,686,614
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,10,Impersonal-Instrumental,yes,yes,False,False,False,615,826
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,11,Personal-Instrumental,yes,yes,False,False,False,493,478
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,12,Impersonal-Instrumental,yes,yes,False,False,False,653,927
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,13,Personal-Instrumental,yes,yes,False,False,False,343,624
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,14,Impersonal-Instrumental,yes,yes,False,False,False,465,721
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,15,Personal-Accidental,yes,yes,False,False,False,880,803
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,16,Impersonal-Accidental,yes,no,True,False,False,587,895
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,17,Personal-Instrumental,yes,yes,False,False,False,454,500
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,18,Impersonal-Accidental,yes,yes,False,False,False,596,600
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,19,Personal-Instrumental,yes,yes,False,False,False,549,713
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,20,Impersonal-Instrumental,yes,yes,False,False,False,553,512
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,21,Personal-Instrumental,yes,yes,False,False,False,555,701
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,22,Impersonal-Instrumental,yes,yes,False,False,False,328,434
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,23,Personal-Accidental,yes,yes,False,False,False,580,729
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,24,Impersonal-Accidental,yes,yes,False,False,False,680,945
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,25,Personal-Instrumental,no,yes,True,False,False,667,485
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,26,Impersonal-Instrumental,yes,no,True,False,False,597,958
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,27,Personal-Accidental,yes,yes,False,False,False,522,513
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,28,Impersonal-Accidental,yes,yes,False,False,False,719,594
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,29,Personal-Accidental,yes,no,True,False,False,793,676
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,30,Impersonal-Accidental,yes,yes,False,False,False,301,486
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,31,Personal-Instrumental,yes,yes,False,False,False,559,479
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,600,719
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,33,Personal-Instrumental,yes,yes,False,False,False,594,706
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,34,Impersonal-Instrumental,yes,yes,False,False,False,743,525
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,35,Personal-Instrumental,yes,yes,False,False,False,560,376
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,36,Impersonal-Instrumental,yes,yes,False,False,False,541,569
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,37,Personal-Instrumental,yes,yes,False,False,False,333,962
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,602,471
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,39,Personal-Instrumental,yes,yes,False,False,False,383,785
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,40,Impersonal-Accidental,yes,yes,False,False,False,374,860
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,41,Personal-Instrumental,yes,yes,False,False,False,504,606
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,42,Impersonal-Accidental,yes,yes,False,False,False,764,721
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,43,Personal-Instrumental,yes,yes,False,False,False,356,573
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,44,Impersonal-Instrumental,yes,yes,False,False,False,465,577
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,45,Personal-Accidental,no,,,False,True,493,564
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,46,Impersonal-Instrumental,yes,yes,False,False,False,1196,809
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,47,Personal-Instrumental,yes,no,True,False,False,516,515
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,48,Impersonal-Instrumental,no,yes,True,False,False,559,950
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),no,no,False,False,False,570,497
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,495,581
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,497,382
+deepseek-r1-distill-llama-8b,True,empty,1,,0.6,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,446,395
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,1,Personal-Instrumental,yes,yes,False,False,False,532,731
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,2,Impersonal-Accidental,yes,yes,False,False,False,588,555
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,3,Personal-Accidental,yes,yes,False,False,False,485,622
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,4,Impersonal-Accidental,,,,True,True,1204,0
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,5,Personal-Accidental,yes,yes,False,False,False,568,663
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,6,Impersonal-Accidental,yes,yes,False,False,False,578,774
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,7,Personal-Instrumental,yes,yes,False,False,False,624,448
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,8,Impersonal-Instrumental,yes,yes,False,False,False,1021,518
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,9,Personal-Instrumental,yes,yes,False,False,False,533,737
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,10,Impersonal-Instrumental,yes,yes,False,False,False,570,588
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,11,Personal-Instrumental,yes,yes,False,False,False,521,698
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,12,Impersonal-Instrumental,yes,yes,False,False,False,586,550
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,13,Personal-Instrumental,yes,yes,False,False,False,1129,532
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,14,Impersonal-Instrumental,yes,yes,False,False,False,511,936
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,15,Personal-Accidental,yes,yes,False,False,False,1180,450
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,16,Impersonal-Accidental,yes,yes,False,False,False,725,440
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,17,Personal-Instrumental,yes,yes,False,False,False,440,535
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,18,Impersonal-Accidental,yes,yes,False,False,False,756,885
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,19,Personal-Instrumental,yes,yes,False,False,False,511,423
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,20,Impersonal-Instrumental,yes,yes,False,False,False,647,801
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,21,Personal-Instrumental,yes,no,True,False,False,445,569
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,22,Impersonal-Instrumental,yes,yes,False,False,False,466,533
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,23,Personal-Accidental,yes,yes,False,False,False,704,919
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,24,Impersonal-Accidental,yes,yes,False,False,False,879,528
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,25,Personal-Instrumental,no,,,False,True,692,1272
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,26,Impersonal-Instrumental,no,no,False,False,False,1049,606
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,27,Personal-Accidental,yes,yes,False,False,False,705,489
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,28,Impersonal-Accidental,yes,yes,False,False,False,727,547
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,29,Personal-Accidental,yes,yes,False,False,False,999,435
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,30,Impersonal-Accidental,yes,yes,False,False,False,423,578
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,31,Personal-Instrumental,yes,yes,False,False,False,612,471
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,32,Impersonal-Accidental,yes,yes,False,False,False,457,485
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,33,Personal-Instrumental,yes,yes,False,False,False,1156,724
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,34,Impersonal-Instrumental,yes,yes,False,False,False,509,442
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,35,Personal-Instrumental,yes,yes,False,False,False,445,588
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,36,Impersonal-Instrumental,yes,yes,False,False,False,768,598
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,37,Personal-Instrumental,yes,yes,False,False,False,502,496
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,38,Impersonal-Instrumental,yes,yes,False,False,False,548,573
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,39,Personal-Instrumental,yes,yes,False,False,False,484,675
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,40,Impersonal-Accidental,yes,yes,False,False,False,467,698
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,41,Personal-Instrumental,yes,yes,False,False,False,744,923
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,42,Impersonal-Accidental,yes,yes,False,False,False,608,481
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,43,Personal-Instrumental,yes,yes,False,False,False,467,529
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,44,Impersonal-Instrumental,yes,yes,False,False,False,394,565
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,45,Personal-Accidental,no,yes,True,False,False,738,885
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,46,Impersonal-Instrumental,yes,yes,False,False,False,715,893
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,47,Personal-Instrumental,no,no,False,False,False,465,552
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,48,Impersonal-Instrumental,yes,yes,False,False,False,598,569
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,687,813
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,503,737
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,388,470
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,580,410
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,1,Personal-Instrumental,yes,yes,False,False,False,703,603
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,505,575
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,3,Personal-Accidental,yes,,,False,True,495,1233
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,4,Impersonal-Accidental,yes,yes,False,False,False,836,646
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,5,Personal-Accidental,yes,yes,False,False,False,437,1080
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,6,Impersonal-Accidental,yes,yes,False,False,False,571,754
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,7,Personal-Instrumental,yes,yes,False,False,False,466,863
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,8,Impersonal-Instrumental,yes,no,True,False,False,534,988
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,9,Personal-Instrumental,yes,,,False,True,858,538
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,10,Impersonal-Instrumental,yes,yes,False,False,False,798,653
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,11,Personal-Instrumental,yes,yes,False,False,False,648,936
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,12,Impersonal-Instrumental,yes,yes,False,False,False,558,618
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,13,Personal-Instrumental,yes,yes,False,False,False,523,428
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,14,Impersonal-Instrumental,yes,yes,False,False,False,606,394
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,15,Personal-Accidental,yes,,,False,True,479,1251
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,16,Impersonal-Accidental,yes,yes,False,False,False,530,549
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,17,Personal-Instrumental,yes,yes,False,False,False,750,370
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,18,Impersonal-Accidental,yes,yes,False,False,False,627,886
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,19,Personal-Instrumental,yes,yes,False,False,False,651,535
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,20,Impersonal-Instrumental,yes,yes,False,False,False,652,500
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,21,Personal-Instrumental,yes,yes,False,False,False,955,431
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,22,Impersonal-Instrumental,yes,yes,False,False,False,420,438
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,23,Personal-Accidental,yes,yes,False,False,False,560,779
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,24,Impersonal-Accidental,yes,yes,False,False,False,687,466
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,25,Personal-Instrumental,yes,no,True,False,False,788,797
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,26,Impersonal-Instrumental,no,yes,True,False,False,1058,787
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,27,Personal-Accidental,yes,yes,False,False,False,565,398
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,28,Impersonal-Accidental,yes,yes,False,False,False,619,620
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,29,Personal-Accidental,yes,,,False,True,360,1306
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,30,Impersonal-Accidental,yes,yes,False,False,False,827,655
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,31,Personal-Instrumental,yes,yes,False,False,False,636,536
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,32,Impersonal-Accidental,yes,yes,False,False,False,444,638
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,33,Personal-Instrumental,yes,yes,False,False,False,595,392
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,34,Impersonal-Instrumental,yes,no,True,False,False,667,988
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,35,Personal-Instrumental,yes,yes,False,False,False,433,495
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,36,Impersonal-Instrumental,yes,yes,False,False,False,702,746
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,37,Personal-Instrumental,yes,yes,False,False,False,792,319
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,38,Impersonal-Instrumental,yes,yes,False,False,False,504,632
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,39,Personal-Instrumental,yes,yes,False,False,False,581,747
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,568,540
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,41,Personal-Instrumental,yes,yes,False,False,False,650,743
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,42,Impersonal-Accidental,yes,yes,False,False,False,884,451
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,43,Personal-Instrumental,yes,yes,False,False,False,469,524
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,44,Impersonal-Instrumental,,,,True,True,1180,0
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,45,Personal-Accidental,no,no,False,False,False,922,676
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,46,Impersonal-Instrumental,yes,no,True,False,False,790,826
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,47,Personal-Instrumental,no,no,False,False,False,738,975
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,48,Impersonal-Instrumental,yes,yes,False,False,False,585,591
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,384,576
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,658,820
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,485,409
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,563,503
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,1,Personal-Instrumental,yes,no,True,False,False,765,563
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,2,Impersonal-Accidental,yes,yes,False,False,False,383,745
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,3,Personal-Accidental,yes,yes,False,False,False,547,572
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,4,Impersonal-Accidental,yes,yes,False,False,False,566,1034
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,5,Personal-Accidental,yes,no,True,False,False,846,580
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,6,Impersonal-Accidental,yes,yes,False,False,False,458,769
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,7,Personal-Instrumental,yes,yes,False,False,False,912,422
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,8,Impersonal-Instrumental,yes,yes,False,False,False,691,999
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,9,Personal-Instrumental,no,yes,True,False,False,678,550
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,10,Impersonal-Instrumental,yes,yes,False,False,False,603,701
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,11,Personal-Instrumental,yes,yes,False,False,False,518,505
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,12,Impersonal-Instrumental,yes,yes,False,False,False,660,922
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,13,Personal-Instrumental,yes,yes,False,False,False,688,718
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,14,Impersonal-Instrumental,yes,yes,False,False,False,580,606
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,15,Personal-Accidental,yes,yes,False,False,False,807,675
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,16,Impersonal-Accidental,yes,yes,False,False,False,760,777
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,17,Personal-Instrumental,yes,yes,False,False,False,577,499
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,18,Impersonal-Accidental,yes,yes,False,False,False,399,423
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,19,Personal-Instrumental,yes,yes,False,False,False,573,687
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,20,Impersonal-Instrumental,yes,yes,False,False,False,809,631
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,21,Personal-Instrumental,no,yes,True,False,False,534,802
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,22,Impersonal-Instrumental,yes,yes,False,False,False,524,300
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,23,Personal-Accidental,yes,yes,False,False,False,505,719
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,24,Impersonal-Accidental,yes,,,False,True,578,1246
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,25,Personal-Instrumental,no,yes,True,False,False,524,721
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,26,Impersonal-Instrumental,yes,no,True,False,False,668,753
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,27,Personal-Accidental,yes,yes,False,False,False,317,483
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,28,Impersonal-Accidental,yes,yes,False,False,False,621,454
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,29,Personal-Accidental,yes,yes,False,False,False,578,405
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,30,Impersonal-Accidental,yes,yes,False,False,False,502,378
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,31,Personal-Instrumental,yes,yes,False,False,False,529,482
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,416,469
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,33,Personal-Instrumental,yes,yes,False,False,False,581,550
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,34,Impersonal-Instrumental,yes,yes,False,False,False,709,802
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,35,Personal-Instrumental,yes,yes,False,False,False,325,429
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,36,Impersonal-Instrumental,yes,yes,False,False,False,421,567
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,37,Personal-Instrumental,yes,yes,False,False,False,362,465
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,384,441
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,39,Personal-Instrumental,yes,yes,False,False,False,620,638
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,40,Impersonal-Accidental,,,,True,True,1259,0
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,41,Personal-Instrumental,yes,yes,False,False,False,577,1136
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,42,Impersonal-Accidental,yes,yes,False,False,False,556,593
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,43,Personal-Instrumental,yes,yes,False,False,False,318,543
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,44,Impersonal-Instrumental,yes,,,False,True,549,1253
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,45,Personal-Accidental,yes,,,False,True,459,875
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,46,Impersonal-Instrumental,yes,yes,False,False,False,1013,628
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,47,Personal-Instrumental,no,no,False,False,False,566,506
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,48,Impersonal-Instrumental,yes,yes,False,False,False,666,403
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,504,639
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,516,671
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,473,469
+deepseek-r1-distill-llama-8b,True,empty,1,,0.7,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,408,474
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,1,Personal-Instrumental,yes,yes,False,False,False,408,830
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,2,Impersonal-Accidental,yes,yes,False,False,False,736,710
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,3,Personal-Accidental,,,,True,True,1237,0
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,4,Impersonal-Accidental,yes,,,False,True,683,1252
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,5,Personal-Accidental,yes,yes,False,False,False,733,633
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,6,Impersonal-Accidental,yes,yes,False,False,False,620,887
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,7,Personal-Instrumental,yes,yes,False,False,False,652,476
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,8,Impersonal-Instrumental,yes,no,True,False,False,1164,496
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,9,Personal-Instrumental,yes,no,True,False,False,530,542
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,10,Impersonal-Instrumental,yes,yes,False,False,False,514,793
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,11,Personal-Instrumental,yes,yes,False,False,False,735,673
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,12,Impersonal-Instrumental,yes,yes,False,False,False,696,659
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,13,Personal-Instrumental,yes,yes,False,False,False,484,676
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,14,Impersonal-Instrumental,yes,yes,False,False,False,358,566
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,15,Personal-Accidental,yes,yes,False,False,False,631,492
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,16,Impersonal-Accidental,yes,yes,False,False,False,489,566
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,17,Personal-Instrumental,yes,yes,False,False,False,363,771
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,18,Impersonal-Accidental,yes,yes,False,False,False,559,982
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,19,Personal-Instrumental,yes,yes,False,False,False,813,575
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,20,Impersonal-Instrumental,yes,yes,False,False,False,421,297
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,21,Personal-Instrumental,yes,yes,False,False,False,573,663
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,22,Impersonal-Instrumental,yes,no,True,False,False,706,841
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,23,Personal-Accidental,yes,yes,False,False,False,365,647
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,24,Impersonal-Accidental,yes,yes,False,False,False,539,610
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,25,Personal-Instrumental,no,no,False,False,False,720,757
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,26,Impersonal-Instrumental,yes,no,True,False,False,1188,765
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,27,Personal-Accidental,yes,yes,False,False,False,563,582
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,28,Impersonal-Accidental,yes,yes,False,False,False,578,708
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,29,Personal-Accidental,yes,yes,False,False,False,609,267
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,30,Impersonal-Accidental,yes,yes,False,False,False,443,444
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,31,Personal-Instrumental,yes,yes,False,False,False,368,318
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,32,Impersonal-Accidental,yes,yes,False,False,False,284,510
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,33,Personal-Instrumental,yes,no,True,False,False,423,541
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,34,Impersonal-Instrumental,yes,no,True,False,False,547,513
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,35,Personal-Instrumental,yes,yes,False,False,False,428,603
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,36,Impersonal-Instrumental,yes,yes,False,False,False,554,547
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,37,Personal-Instrumental,yes,yes,False,False,False,396,600
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,38,Impersonal-Instrumental,yes,yes,False,False,False,552,631
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,39,Personal-Instrumental,yes,yes,False,False,False,396,692
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,40,Impersonal-Accidental,yes,yes,False,False,False,718,551
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,41,Personal-Instrumental,yes,yes,False,False,False,806,565
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,42,Impersonal-Accidental,yes,yes,False,False,False,423,659
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,43,Personal-Instrumental,yes,yes,False,False,False,466,490
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,44,Impersonal-Instrumental,yes,yes,False,False,False,509,380
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,45,Personal-Accidental,yes,,,False,True,584,728
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,46,Impersonal-Instrumental,,,,True,True,1224,0
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,47,Personal-Instrumental,yes,no,True,False,False,658,463
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,48,Impersonal-Instrumental,yes,yes,False,False,False,639,484
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,646,514
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,644,552
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,418,501
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,428,401
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,1,Personal-Instrumental,yes,no,True,False,False,636,530
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,451,944
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,3,Personal-Accidental,yes,yes,False,False,False,506,561
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,4,Impersonal-Accidental,yes,yes,False,False,False,1035,465
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,5,Personal-Accidental,yes,yes,False,False,False,628,774
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,6,Impersonal-Accidental,yes,yes,False,False,False,420,449
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,7,Personal-Instrumental,yes,yes,False,False,False,508,540
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,8,Impersonal-Instrumental,yes,yes,False,False,False,474,550
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,9,Personal-Instrumental,,,,True,True,554,0
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,10,Impersonal-Instrumental,yes,no,True,False,False,769,518
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,11,Personal-Instrumental,yes,yes,False,False,False,494,470
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,12,Impersonal-Instrumental,yes,yes,False,False,False,542,694
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,13,Personal-Instrumental,yes,yes,False,False,False,673,525
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,14,Impersonal-Instrumental,yes,yes,False,False,False,605,501
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,15,Personal-Accidental,yes,yes,False,False,False,1106,567
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,16,Impersonal-Accidental,yes,yes,False,False,False,686,622
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,17,Personal-Instrumental,yes,yes,False,False,False,512,429
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,18,Impersonal-Accidental,yes,yes,False,False,False,479,487
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,19,Personal-Instrumental,yes,yes,False,False,False,596,749
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,20,Impersonal-Instrumental,yes,yes,False,False,False,477,453
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,21,Personal-Instrumental,yes,yes,False,False,False,428,381
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,22,Impersonal-Instrumental,yes,yes,False,False,False,530,419
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,23,Personal-Accidental,yes,yes,False,False,False,539,564
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,24,Impersonal-Accidental,yes,yes,False,False,False,788,881
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,25,Personal-Instrumental,no,yes,True,False,False,891,391
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,26,Impersonal-Instrumental,yes,no,True,False,False,681,567
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,27,Personal-Accidental,yes,yes,False,False,False,649,511
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,28,Impersonal-Accidental,yes,yes,False,False,False,383,825
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,29,Personal-Accidental,yes,yes,False,False,False,520,437
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,30,Impersonal-Accidental,yes,yes,False,False,False,917,317
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,31,Personal-Instrumental,yes,yes,False,False,False,645,555
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,32,Impersonal-Accidental,yes,yes,False,False,False,597,392
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,33,Personal-Instrumental,yes,yes,False,False,False,486,622
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,34,Impersonal-Instrumental,yes,yes,False,False,False,766,469
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,35,Personal-Instrumental,yes,yes,False,False,False,674,505
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,36,Impersonal-Instrumental,yes,yes,False,False,False,646,537
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,37,Personal-Instrumental,yes,yes,False,False,False,414,698
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,38,Impersonal-Instrumental,yes,yes,False,False,False,521,562
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,39,Personal-Instrumental,yes,yes,False,False,False,576,532
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,676,533
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,41,Personal-Instrumental,yes,yes,False,False,False,622,464
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,42,Impersonal-Accidental,yes,yes,False,False,False,524,478
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,43,Personal-Instrumental,yes,yes,False,False,False,500,483
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,44,Impersonal-Instrumental,yes,yes,False,False,False,509,888
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,45,Personal-Accidental,yes,no,True,False,False,774,1233
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,46,Impersonal-Instrumental,,,,True,True,1243,0
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,47,Personal-Instrumental,yes,no,True,False,False,688,775
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,48,Impersonal-Instrumental,yes,yes,False,False,False,568,684
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),yes,,,False,True,603,444
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,496,544
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,655,461
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,430,542
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,1,Personal-Instrumental,yes,yes,False,False,False,497,588
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,2,Impersonal-Accidental,yes,yes,False,False,False,476,658
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,3,Personal-Accidental,yes,yes,False,False,False,1080,969
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,4,Impersonal-Accidental,yes,yes,False,False,False,835,518
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,5,Personal-Accidental,yes,yes,False,False,False,561,425
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,6,Impersonal-Accidental,yes,yes,False,False,False,426,547
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,7,Personal-Instrumental,yes,yes,False,False,False,864,620
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,8,Impersonal-Instrumental,yes,yes,False,False,False,600,417
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,9,Personal-Instrumental,yes,no,True,False,False,553,437
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,10,Impersonal-Instrumental,yes,yes,False,False,False,560,498
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,11,Personal-Instrumental,yes,yes,False,False,False,417,647
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,12,Impersonal-Instrumental,yes,yes,False,False,False,551,452
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,13,Personal-Instrumental,yes,no,True,False,False,534,849
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,14,Impersonal-Instrumental,yes,yes,False,False,False,1025,610
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,15,Personal-Accidental,yes,yes,False,False,False,578,493
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,16,Impersonal-Accidental,yes,yes,False,False,False,573,403
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,17,Personal-Instrumental,yes,yes,False,False,False,501,488
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,18,Impersonal-Accidental,yes,yes,False,False,False,444,475
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,19,Personal-Instrumental,yes,yes,False,False,False,773,635
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,20,Impersonal-Instrumental,yes,yes,False,False,False,817,754
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,21,Personal-Instrumental,no,yes,True,False,False,644,528
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,22,Impersonal-Instrumental,yes,yes,False,False,False,614,579
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,23,Personal-Accidental,yes,yes,False,False,False,577,719
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,24,Impersonal-Accidental,yes,yes,False,False,False,572,619
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,25,Personal-Instrumental,no,no,False,False,False,536,584
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,26,Impersonal-Instrumental,no,yes,True,False,False,425,486
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,27,Personal-Accidental,yes,yes,False,False,False,557,639
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,28,Impersonal-Accidental,yes,yes,False,False,False,452,523
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,29,Personal-Accidental,yes,yes,False,False,False,715,428
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,30,Impersonal-Accidental,yes,yes,False,False,False,478,580
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,31,Personal-Instrumental,yes,yes,False,False,False,357,408
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,421,693
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,33,Personal-Instrumental,yes,yes,False,False,False,538,654
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,34,Impersonal-Instrumental,yes,yes,False,False,False,537,562
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,35,Personal-Instrumental,yes,yes,False,False,False,543,486
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,36,Impersonal-Instrumental,yes,yes,False,False,False,506,506
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,37,Personal-Instrumental,yes,yes,False,False,False,439,402
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,385,558
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,39,Personal-Instrumental,yes,yes,False,False,False,397,762
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,40,Impersonal-Accidental,yes,yes,False,False,False,468,515
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,41,Personal-Instrumental,yes,yes,False,False,False,562,565
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,42,Impersonal-Accidental,yes,yes,False,False,False,631,492
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,43,Personal-Instrumental,yes,yes,False,False,False,517,495
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,44,Impersonal-Instrumental,yes,yes,False,False,False,511,712
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,45,Personal-Accidental,yes,no,True,False,False,513,976
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,46,Impersonal-Instrumental,yes,no,True,False,False,719,726
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,47,Personal-Instrumental,no,no,False,False,False,591,557
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,48,Impersonal-Instrumental,yes,no,True,False,False,536,1104
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,552,548
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,484,543
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,466,516
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.5,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,321,393
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,1,Personal-Instrumental,yes,yes,False,False,False,424,718
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,2,Impersonal-Accidental,yes,yes,False,False,False,878,764
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,3,Personal-Accidental,yes,yes,False,False,False,468,624
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,4,Impersonal-Accidental,yes,yes,False,False,False,967,412
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,5,Personal-Accidental,yes,yes,False,False,False,434,586
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,6,Impersonal-Accidental,yes,yes,False,False,False,405,705
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,7,Personal-Instrumental,yes,yes,False,False,False,496,448
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,8,Impersonal-Instrumental,yes,yes,False,False,False,551,357
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,9,Personal-Instrumental,yes,yes,False,False,False,834,754
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,10,Impersonal-Instrumental,yes,yes,False,False,False,459,692
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,11,Personal-Instrumental,yes,yes,False,False,False,741,657
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,12,Impersonal-Instrumental,yes,yes,False,False,False,596,361
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,13,Personal-Instrumental,yes,yes,False,False,False,565,1053
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,14,Impersonal-Instrumental,yes,yes,False,False,False,496,559
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,15,Personal-Accidental,yes,yes,False,False,False,586,590
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,16,Impersonal-Accidental,yes,yes,False,False,False,909,508
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,17,Personal-Instrumental,yes,yes,False,False,False,584,655
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,18,Impersonal-Accidental,yes,yes,False,False,False,663,542
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,19,Personal-Instrumental,yes,yes,False,False,False,791,484
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,20,Impersonal-Instrumental,yes,yes,False,False,False,437,557
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,21,Personal-Instrumental,no,yes,True,False,False,780,348
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,22,Impersonal-Instrumental,yes,yes,False,False,False,943,565
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,23,Personal-Accidental,yes,yes,False,False,False,620,645
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,24,Impersonal-Accidental,yes,yes,False,False,False,557,552
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,25,Personal-Instrumental,no,no,False,False,False,606,805
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,26,Impersonal-Instrumental,no,no,False,False,False,790,1066
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,27,Personal-Accidental,yes,yes,False,False,False,648,517
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,28,Impersonal-Accidental,yes,yes,False,False,False,462,645
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,29,Personal-Accidental,yes,yes,False,False,False,560,402
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,30,Impersonal-Accidental,yes,yes,False,False,False,767,555
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,31,Personal-Instrumental,yes,yes,False,False,False,497,534
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,32,Impersonal-Accidental,yes,yes,False,False,False,357,544
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,33,Personal-Instrumental,yes,yes,False,False,False,748,585
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,34,Impersonal-Instrumental,yes,,,False,True,531,541
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,35,Personal-Instrumental,yes,yes,False,False,False,378,585
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,36,Impersonal-Instrumental,yes,yes,False,False,False,621,792
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,37,Personal-Instrumental,yes,yes,False,False,False,410,694
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,38,Impersonal-Instrumental,yes,yes,False,False,False,550,422
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,39,Personal-Instrumental,yes,yes,False,False,False,504,999
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,40,Impersonal-Accidental,yes,yes,False,False,False,492,671
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,41,Personal-Instrumental,yes,yes,False,False,False,411,565
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,42,Impersonal-Accidental,yes,yes,False,False,False,558,585
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,43,Personal-Instrumental,yes,yes,False,False,False,479,404
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,44,Impersonal-Instrumental,yes,yes,False,False,False,708,714
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,45,Personal-Accidental,yes,no,True,False,False,743,831
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,46,Impersonal-Instrumental,yes,yes,False,False,False,948,780
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,47,Personal-Instrumental,no,no,False,False,False,977,638
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,48,Impersonal-Instrumental,yes,yes,False,False,False,429,855
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),no,no,False,False,False,520,655
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,587,882
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,459,382
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,390,463
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,1,Personal-Instrumental,yes,no,True,False,False,946,695
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,553,665
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,3,Personal-Accidental,yes,yes,False,False,False,498,607
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,4,Impersonal-Accidental,yes,yes,False,False,False,1151,546
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,5,Personal-Accidental,yes,yes,False,False,False,673,762
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,6,Impersonal-Accidental,yes,yes,False,False,False,602,641
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,7,Personal-Instrumental,yes,yes,False,False,False,1026,599
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,8,Impersonal-Instrumental,yes,yes,False,False,False,559,513
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,9,Personal-Instrumental,yes,yes,False,False,False,619,907
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,10,Impersonal-Instrumental,yes,yes,False,False,False,422,456
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,11,Personal-Instrumental,yes,yes,False,False,False,646,633
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,12,Impersonal-Instrumental,yes,yes,False,False,False,394,545
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,13,Personal-Instrumental,yes,yes,False,False,False,1171,507
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,14,Impersonal-Instrumental,yes,yes,False,False,False,701,755
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,15,Personal-Accidental,yes,yes,False,False,False,436,533
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,16,Impersonal-Accidental,yes,yes,False,False,False,632,641
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,17,Personal-Instrumental,yes,yes,False,False,False,439,482
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,18,Impersonal-Accidental,yes,yes,False,False,False,868,497
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,19,Personal-Instrumental,yes,yes,False,False,False,546,802
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,20,Impersonal-Instrumental,yes,yes,False,False,False,422,394
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,21,Personal-Instrumental,no,no,False,False,False,559,493
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,22,Impersonal-Instrumental,yes,yes,False,False,False,416,759
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,23,Personal-Accidental,yes,yes,False,False,False,842,489
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,24,Impersonal-Accidental,yes,no,True,False,False,801,793
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,25,Personal-Instrumental,no,no,False,False,False,671,649
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,26,Impersonal-Instrumental,no,yes,True,False,False,678,765
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,27,Personal-Accidental,yes,yes,False,False,False,507,447
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,28,Impersonal-Accidental,yes,yes,False,False,False,619,487
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,29,Personal-Accidental,yes,yes,False,False,False,451,593
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,30,Impersonal-Accidental,yes,yes,False,False,False,462,671
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,31,Personal-Instrumental,yes,yes,False,False,False,594,777
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,32,Impersonal-Accidental,,,,True,True,1259,0
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,33,Personal-Instrumental,yes,no,True,False,False,398,473
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,34,Impersonal-Instrumental,yes,yes,False,False,False,849,714
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,35,Personal-Instrumental,yes,yes,False,False,False,361,614
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,36,Impersonal-Instrumental,yes,yes,False,False,False,585,670
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,37,Personal-Instrumental,yes,yes,False,False,False,604,851
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,38,Impersonal-Instrumental,yes,yes,False,False,False,516,308
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,39,Personal-Instrumental,yes,yes,False,False,False,851,659
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,647,555
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,41,Personal-Instrumental,yes,yes,False,False,False,502,652
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,42,Impersonal-Accidental,yes,yes,False,False,False,623,364
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,43,Personal-Instrumental,yes,yes,False,False,False,461,672
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,44,Impersonal-Instrumental,yes,yes,False,False,False,539,634
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,45,Personal-Accidental,yes,no,True,False,False,474,840
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,46,Impersonal-Instrumental,yes,yes,False,False,False,731,1108
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,47,Personal-Instrumental,yes,no,True,False,False,792,616
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,48,Impersonal-Instrumental,yes,yes,False,False,False,756,505
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),no,no,False,False,False,479,588
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,485,861
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,509,499
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,463,450
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,1,Personal-Instrumental,yes,yes,False,False,False,802,704
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,2,Impersonal-Accidental,yes,yes,False,False,False,626,531
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,3,Personal-Accidental,yes,yes,False,False,False,798,957
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,4,Impersonal-Accidental,yes,,,False,True,511,1237
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,5,Personal-Accidental,yes,yes,False,False,False,477,365
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,6,Impersonal-Accidental,yes,yes,False,False,False,467,700
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,7,Personal-Instrumental,yes,yes,False,False,False,913,743
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,8,Impersonal-Instrumental,yes,yes,False,False,False,620,580
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,9,Personal-Instrumental,yes,yes,False,False,False,416,554
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,10,Impersonal-Instrumental,yes,yes,False,False,False,734,667
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,11,Personal-Instrumental,yes,yes,False,False,False,855,629
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,12,Impersonal-Instrumental,yes,yes,False,False,False,450,505
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,13,Personal-Instrumental,yes,yes,False,False,False,808,612
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,14,Impersonal-Instrumental,yes,yes,False,False,False,828,443
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,15,Personal-Accidental,yes,yes,False,False,False,544,427
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,16,Impersonal-Accidental,yes,yes,False,False,False,513,415
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,17,Personal-Instrumental,yes,yes,False,False,False,490,343
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,18,Impersonal-Accidental,yes,yes,False,False,False,601,451
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,19,Personal-Instrumental,yes,yes,False,False,False,694,542
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,20,Impersonal-Instrumental,yes,yes,False,False,False,499,552
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,21,Personal-Instrumental,no,yes,True,False,False,459,739
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,22,Impersonal-Instrumental,yes,yes,False,False,False,451,787
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,23,Personal-Accidental,yes,yes,False,False,False,393,610
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,24,Impersonal-Accidental,yes,yes,False,False,False,439,477
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,25,Personal-Instrumental,yes,no,True,False,False,512,977
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,26,Impersonal-Instrumental,,,,True,True,1287,0
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,27,Personal-Accidental,yes,yes,False,False,False,773,441
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,28,Impersonal-Accidental,yes,yes,False,False,False,557,574
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,29,Personal-Accidental,no,yes,True,False,False,683,417
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,30,Impersonal-Accidental,yes,no,True,False,False,294,455
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,31,Personal-Instrumental,yes,yes,False,False,False,702,524
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,278,360
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,33,Personal-Instrumental,yes,yes,False,False,False,498,534
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,34,Impersonal-Instrumental,yes,yes,False,False,False,536,912
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,35,Personal-Instrumental,yes,yes,False,False,False,523,633
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,36,Impersonal-Instrumental,yes,yes,False,False,False,403,560
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,37,Personal-Instrumental,yes,yes,False,False,False,572,566
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,502,544
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,39,Personal-Instrumental,yes,yes,False,False,False,463,578
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,40,Impersonal-Accidental,yes,yes,False,False,False,453,358
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,41,Personal-Instrumental,yes,yes,False,False,False,579,569
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,42,Impersonal-Accidental,yes,yes,False,False,False,516,517
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,43,Personal-Instrumental,yes,yes,False,False,False,551,416
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,44,Impersonal-Instrumental,yes,yes,False,False,False,438,519
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,45,Personal-Accidental,yes,yes,False,False,False,573,469
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,46,Impersonal-Instrumental,yes,yes,False,False,False,896,841
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,47,Personal-Instrumental,no,yes,True,False,False,633,425
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,48,Impersonal-Instrumental,yes,no,True,False,False,608,969
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,817,922
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,550,766
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,387,383
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.6,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,607,355
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,1,Personal-Instrumental,yes,yes,False,False,False,903,734
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,2,Impersonal-Accidental,yes,no,True,False,False,603,912
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,3,Personal-Accidental,yes,yes,False,False,False,852,710
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,4,Impersonal-Accidental,yes,,,False,True,850,1259
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,5,Personal-Accidental,yes,yes,False,False,False,862,550
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,6,Impersonal-Accidental,yes,yes,False,False,False,828,526
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,7,Personal-Instrumental,yes,no,True,False,False,503,655
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,8,Impersonal-Instrumental,yes,yes,False,False,False,813,423
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,9,Personal-Instrumental,no,yes,True,False,False,488,610
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,10,Impersonal-Instrumental,yes,no,True,False,False,789,703
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,11,Personal-Instrumental,yes,yes,False,False,False,504,779
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,12,Impersonal-Instrumental,yes,yes,False,False,False,807,262
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,13,Personal-Instrumental,yes,yes,False,False,False,737,482
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,14,Impersonal-Instrumental,yes,yes,False,False,False,528,696
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,15,Personal-Accidental,yes,yes,False,False,False,467,859
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,16,Impersonal-Accidental,yes,yes,False,False,False,949,353
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,17,Personal-Instrumental,yes,yes,False,False,False,481,607
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,18,Impersonal-Accidental,yes,yes,False,False,False,585,499
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,19,Personal-Instrumental,yes,yes,False,False,False,620,422
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,20,Impersonal-Instrumental,yes,yes,False,False,False,497,536
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,21,Personal-Instrumental,yes,yes,False,False,False,929,513
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,22,Impersonal-Instrumental,yes,yes,False,False,False,669,707
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,23,Personal-Accidental,yes,yes,False,False,False,518,653
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,24,Impersonal-Accidental,yes,yes,False,False,False,576,620
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,25,Personal-Instrumental,no,no,False,False,False,919,481
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,26,Impersonal-Instrumental,no,no,False,False,False,750,845
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,27,Personal-Accidental,yes,yes,False,False,False,641,633
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,28,Impersonal-Accidental,yes,yes,False,False,False,465,548
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,29,Personal-Accidental,yes,yes,False,False,False,431,515
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,30,Impersonal-Accidental,yes,yes,False,False,False,435,585
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,31,Personal-Instrumental,yes,yes,False,False,False,396,611
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,32,Impersonal-Accidental,yes,yes,False,False,False,561,570
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,33,Personal-Instrumental,yes,yes,False,False,False,648,614
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,34,Impersonal-Instrumental,yes,yes,False,False,False,612,479
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,35,Personal-Instrumental,yes,yes,False,False,False,429,498
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,36,Impersonal-Instrumental,yes,yes,False,False,False,858,852
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,37,Personal-Instrumental,yes,,,False,True,351,701
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,38,Impersonal-Instrumental,yes,yes,False,False,False,462,507
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,39,Personal-Instrumental,yes,yes,False,False,False,384,950
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,40,Impersonal-Accidental,yes,yes,False,False,False,458,627
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,41,Personal-Instrumental,yes,yes,False,False,False,653,432
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,42,Impersonal-Accidental,yes,yes,False,False,False,462,395
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,43,Personal-Instrumental,yes,yes,False,False,False,328,464
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,44,Impersonal-Instrumental,yes,yes,False,False,False,545,621
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,45,Personal-Accidental,yes,yes,False,False,False,1096,533
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,46,Impersonal-Instrumental,yes,yes,False,False,False,864,1009
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,47,Personal-Instrumental,no,yes,True,False,False,620,950
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,48,Impersonal-Instrumental,yes,yes,False,False,False,733,641
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,748,587
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,622,466
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,499,474
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,461,960
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,1,Personal-Instrumental,yes,yes,False,False,False,1138,565
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,555,508
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,3,Personal-Accidental,,,,True,True,1264,0
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,4,Impersonal-Accidental,,,,True,True,1231,0
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,5,Personal-Accidental,yes,,,False,True,878,1253
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,6,Impersonal-Accidental,yes,yes,False,False,False,588,492
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,7,Personal-Instrumental,yes,yes,False,False,False,742,520
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,8,Impersonal-Instrumental,yes,yes,False,False,False,674,507
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,9,Personal-Instrumental,yes,yes,False,False,False,651,718
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,10,Impersonal-Instrumental,yes,no,True,False,False,477,501
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,11,Personal-Instrumental,yes,yes,False,False,False,577,886
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,12,Impersonal-Instrumental,yes,yes,False,False,False,359,527
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,13,Personal-Instrumental,yes,yes,False,False,False,908,575
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,14,Impersonal-Instrumental,yes,yes,False,False,False,855,1144
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,15,Personal-Accidental,yes,yes,False,False,False,576,354
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,16,Impersonal-Accidental,yes,yes,False,False,False,541,906
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,17,Personal-Instrumental,yes,yes,False,False,False,408,696
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,18,Impersonal-Accidental,yes,yes,False,False,False,794,650
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,19,Personal-Instrumental,yes,yes,False,False,False,444,559
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,20,Impersonal-Instrumental,yes,yes,False,False,False,666,609
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,21,Personal-Instrumental,yes,yes,False,False,False,698,379
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,22,Impersonal-Instrumental,yes,yes,False,False,False,457,863
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,23,Personal-Accidental,yes,yes,False,False,False,627,520
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,24,Impersonal-Accidental,yes,yes,False,False,False,606,581
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,25,Personal-Instrumental,no,no,False,False,False,1037,516
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,26,Impersonal-Instrumental,yes,no,True,False,False,539,948
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,27,Personal-Accidental,yes,yes,False,False,False,637,707
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,28,Impersonal-Accidental,yes,yes,False,False,False,658,578
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,29,Personal-Accidental,no,yes,True,False,False,783,432
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,30,Impersonal-Accidental,yes,yes,False,False,False,400,591
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,31,Personal-Instrumental,yes,yes,False,False,False,517,541
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,32,Impersonal-Accidental,yes,yes,False,False,False,398,466
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,33,Personal-Instrumental,yes,yes,False,False,False,416,461
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,34,Impersonal-Instrumental,yes,no,True,False,False,606,427
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,35,Personal-Instrumental,yes,yes,False,False,False,570,643
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,36,Impersonal-Instrumental,yes,yes,False,False,False,472,481
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,37,Personal-Instrumental,yes,yes,False,False,False,375,416
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,38,Impersonal-Instrumental,yes,yes,False,False,False,396,576
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,39,Personal-Instrumental,yes,yes,False,False,False,555,629
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,423,441
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,41,Personal-Instrumental,yes,yes,False,False,False,809,774
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,42,Impersonal-Accidental,yes,yes,False,False,False,983,527
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,43,Personal-Instrumental,yes,yes,False,False,False,667,801
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,44,Impersonal-Instrumental,yes,yes,False,False,False,588,595
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,45,Personal-Accidental,yes,no,True,False,False,331,781
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,46,Impersonal-Instrumental,yes,yes,False,False,False,1150,477
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,47,Personal-Instrumental,no,no,False,False,False,986,568
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,48,Impersonal-Instrumental,yes,yes,False,False,False,634,686
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),no,no,False,False,False,761,531
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,542,551
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,218,539
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,349,316
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,1,Personal-Instrumental,no,yes,True,False,False,1065,542
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,2,Impersonal-Accidental,yes,yes,False,False,False,609,592
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,3,Personal-Accidental,yes,yes,False,False,False,866,809
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,4,Impersonal-Accidental,yes,yes,False,False,False,884,1180
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,5,Personal-Accidental,yes,yes,False,False,False,735,374
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,6,Impersonal-Accidental,,,,True,True,1237,0
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,7,Personal-Instrumental,yes,no,True,False,False,910,861
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,8,Impersonal-Instrumental,yes,yes,False,False,False,499,628
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,9,Personal-Instrumental,yes,yes,False,False,False,419,675
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,10,Impersonal-Instrumental,yes,yes,False,False,False,709,563
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,11,Personal-Instrumental,yes,yes,False,False,False,599,593
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,12,Impersonal-Instrumental,yes,yes,False,False,False,287,461
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,13,Personal-Instrumental,yes,yes,False,False,False,646,429
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,14,Impersonal-Instrumental,yes,yes,False,False,False,818,524
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,15,Personal-Accidental,yes,yes,False,False,False,800,812
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,16,Impersonal-Accidental,yes,yes,False,False,False,454,676
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,17,Personal-Instrumental,yes,yes,False,False,False,584,367
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,18,Impersonal-Accidental,yes,yes,False,False,False,479,476
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,19,Personal-Instrumental,yes,yes,False,False,False,569,690
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,20,Impersonal-Instrumental,yes,yes,False,False,False,542,518
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,21,Personal-Instrumental,yes,yes,False,False,False,418,495
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,22,Impersonal-Instrumental,yes,yes,False,False,False,737,653
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,23,Personal-Accidental,yes,yes,False,False,False,454,687
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,24,Impersonal-Accidental,yes,yes,False,False,False,631,745
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,25,Personal-Instrumental,no,no,False,False,False,769,745
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,26,Impersonal-Instrumental,yes,no,True,False,False,615,501
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,27,Personal-Accidental,yes,yes,False,False,False,675,922
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,28,Impersonal-Accidental,yes,yes,False,False,False,372,508
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,29,Personal-Accidental,yes,yes,False,False,False,431,554
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,30,Impersonal-Accidental,yes,,,False,True,297,1266
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,31,Personal-Instrumental,yes,yes,False,False,False,894,610
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,515,373
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,33,Personal-Instrumental,yes,yes,False,False,False,539,772
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,34,Impersonal-Instrumental,yes,yes,False,False,False,467,619
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,35,Personal-Instrumental,yes,yes,False,False,False,492,443
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,36,Impersonal-Instrumental,yes,yes,False,False,False,706,485
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,37,Personal-Instrumental,yes,yes,False,False,False,623,432
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,551,369
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,39,Personal-Instrumental,yes,yes,False,False,False,793,534
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,40,Impersonal-Accidental,yes,yes,False,False,False,741,282
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,41,Personal-Instrumental,yes,yes,False,False,False,366,528
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,42,Impersonal-Accidental,yes,yes,False,False,False,469,539
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,43,Personal-Instrumental,yes,yes,False,False,False,405,413
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,44,Impersonal-Instrumental,yes,yes,False,False,False,506,592
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,45,Personal-Accidental,,,,True,True,519,0
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,46,Impersonal-Instrumental,yes,,,False,True,989,1231
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,47,Personal-Instrumental,no,no,False,False,False,715,422
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,48,Impersonal-Instrumental,yes,yes,False,False,False,552,841
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,714,412
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,468,500
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,508,367
+deepseek-r1-distill-llama-8b,True,helpful,2,You are a helpful assistant.,0.7,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,363,512
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,1,Personal-Instrumental,yes,no,True,False,False,626,567
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,2,Impersonal-Accidental,yes,yes,False,False,False,715,831
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,3,Personal-Accidental,yes,yes,False,False,False,432,454
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,4,Impersonal-Accidental,yes,no,True,False,False,479,823
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,5,Personal-Accidental,yes,yes,False,False,False,522,589
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,6,Impersonal-Accidental,yes,yes,False,False,False,523,498
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,7,Personal-Instrumental,yes,,,False,True,508,1264
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,8,Impersonal-Instrumental,yes,yes,False,False,False,796,565
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,9,Personal-Instrumental,yes,yes,False,False,False,442,556
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,10,Impersonal-Instrumental,yes,yes,False,False,False,645,859
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,11,Personal-Instrumental,yes,yes,False,False,False,696,431
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,12,Impersonal-Instrumental,yes,yes,False,False,False,339,522
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,13,Personal-Instrumental,yes,yes,False,False,False,713,297
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,14,Impersonal-Instrumental,yes,yes,False,False,False,434,681
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,15,Personal-Accidental,yes,yes,False,False,False,766,707
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,16,Impersonal-Accidental,,,,True,True,1268,0
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,17,Personal-Instrumental,yes,yes,False,False,False,491,553
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,18,Impersonal-Accidental,yes,yes,False,False,False,492,665
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,19,Personal-Instrumental,yes,yes,False,False,False,307,606
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,20,Impersonal-Instrumental,yes,yes,False,False,False,605,671
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,21,Personal-Instrumental,yes,yes,False,False,False,436,503
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,22,Impersonal-Instrumental,yes,yes,False,False,False,427,434
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,23,Personal-Accidental,yes,yes,False,False,False,550,557
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,24,Impersonal-Accidental,yes,yes,False,False,False,552,765
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,25,Personal-Instrumental,no,no,False,False,False,766,483
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,26,Impersonal-Instrumental,no,,,False,True,901,622
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,27,Personal-Accidental,yes,yes,False,False,False,625,329
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,28,Impersonal-Accidental,yes,yes,False,False,False,441,688
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,29,Personal-Accidental,yes,no,True,False,False,585,628
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,30,Impersonal-Accidental,yes,no,True,False,False,302,926
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,31,Personal-Instrumental,yes,yes,False,False,False,524,403
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,32,Impersonal-Accidental,yes,yes,False,False,False,591,461
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,33,Personal-Instrumental,yes,yes,False,False,False,550,620
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,34,Impersonal-Instrumental,yes,yes,False,False,False,703,554
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,35,Personal-Instrumental,yes,yes,False,False,False,336,355
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,36,Impersonal-Instrumental,yes,yes,False,False,False,363,591
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,37,Personal-Instrumental,yes,yes,False,False,False,552,627
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,38,Impersonal-Instrumental,yes,yes,False,False,False,408,493
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,39,Personal-Instrumental,yes,yes,False,False,False,599,568
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,40,Impersonal-Accidental,yes,yes,False,False,False,504,410
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,41,Personal-Instrumental,yes,yes,False,False,False,420,492
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,42,Impersonal-Accidental,yes,yes,False,False,False,328,716
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,43,Personal-Instrumental,yes,yes,False,False,False,473,582
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,44,Impersonal-Instrumental,yes,yes,False,False,False,434,511
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,45,Personal-Accidental,no,yes,True,False,False,785,798
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,46,Impersonal-Instrumental,,,,True,True,1222,0
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,47,Personal-Instrumental,yes,no,True,False,False,613,730
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,48,Impersonal-Instrumental,no,yes,True,False,False,851,740
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),no,no,False,False,False,662,531
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,523,496
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,531,489
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,398,319
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,1,Personal-Instrumental,,,,True,True,1273,0
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,541,458
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,3,Personal-Accidental,yes,no,True,False,False,1109,924
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,4,Impersonal-Accidental,yes,yes,False,False,False,685,890
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,5,Personal-Accidental,yes,yes,False,False,False,650,676
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,6,Impersonal-Accidental,yes,yes,False,False,False,402,644
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,7,Personal-Instrumental,yes,yes,False,False,False,610,659
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,8,Impersonal-Instrumental,yes,yes,False,False,False,696,564
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,9,Personal-Instrumental,yes,yes,False,False,False,589,652
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,10,Impersonal-Instrumental,yes,yes,False,False,False,594,422
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,11,Personal-Instrumental,yes,yes,False,False,False,532,1040
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,12,Impersonal-Instrumental,yes,yes,False,False,False,424,601
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,13,Personal-Instrumental,yes,yes,False,False,False,610,495
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,14,Impersonal-Instrumental,yes,yes,False,False,False,559,388
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,15,Personal-Accidental,yes,no,True,False,False,776,745
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,16,Impersonal-Accidental,yes,yes,False,False,False,976,615
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,17,Personal-Instrumental,yes,yes,False,False,False,479,632
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,18,Impersonal-Accidental,yes,yes,False,False,False,425,403
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,19,Personal-Instrumental,yes,yes,False,False,False,812,738
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,20,Impersonal-Instrumental,yes,yes,False,False,False,357,397
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,21,Personal-Instrumental,yes,no,True,False,False,701,599
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,22,Impersonal-Instrumental,yes,yes,False,False,False,590,405
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,23,Personal-Accidental,yes,yes,False,False,False,455,438
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,24,Impersonal-Accidental,yes,yes,False,False,False,761,757
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,25,Personal-Instrumental,yes,no,True,False,False,452,456
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,26,Impersonal-Instrumental,no,yes,True,False,False,737,662
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,27,Personal-Accidental,yes,yes,False,False,False,531,461
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,28,Impersonal-Accidental,yes,yes,False,False,False,487,584
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,29,Personal-Accidental,yes,yes,False,False,False,469,1176
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,30,Impersonal-Accidental,yes,yes,False,False,False,436,588
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,31,Personal-Instrumental,yes,yes,False,False,False,579,597
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,32,Impersonal-Accidental,yes,yes,False,False,False,464,411
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,33,Personal-Instrumental,yes,yes,False,False,False,520,511
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,34,Impersonal-Instrumental,yes,yes,False,False,False,597,491
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,35,Personal-Instrumental,yes,yes,False,False,False,424,454
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,36,Impersonal-Instrumental,yes,yes,False,False,False,731,545
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,37,Personal-Instrumental,yes,yes,False,False,False,472,294
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,38,Impersonal-Instrumental,yes,yes,False,False,False,611,483
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,39,Personal-Instrumental,yes,yes,False,False,False,388,534
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,535,447
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,41,Personal-Instrumental,yes,yes,False,False,False,604,377
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,42,Impersonal-Accidental,yes,yes,False,False,False,657,324
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,43,Personal-Instrumental,yes,yes,False,False,False,353,593
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,44,Impersonal-Instrumental,yes,yes,False,False,False,839,560
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,45,Personal-Accidental,no,yes,True,False,False,776,532
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,46,Impersonal-Instrumental,yes,yes,False,False,False,790,1022
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,47,Personal-Instrumental,yes,no,True,False,False,571,898
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,48,Impersonal-Instrumental,yes,yes,False,False,False,813,422
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,414,461
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,599,616
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,488,332
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,485,534
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,1,Personal-Instrumental,yes,yes,False,False,False,575,733
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,2,Impersonal-Accidental,,,,True,True,533,0
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,3,Personal-Accidental,yes,yes,False,False,False,747,641
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,4,Impersonal-Accidental,,,,True,True,1256,0
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,5,Personal-Accidental,yes,yes,False,False,False,493,354
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,6,Impersonal-Accidental,yes,yes,False,False,False,757,534
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,7,Personal-Instrumental,yes,yes,False,False,False,511,507
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,8,Impersonal-Instrumental,yes,yes,False,False,False,714,377
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,9,Personal-Instrumental,yes,no,True,False,False,630,474
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,10,Impersonal-Instrumental,yes,yes,False,False,False,729,764
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,11,Personal-Instrumental,yes,yes,False,False,False,605,586
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,12,Impersonal-Instrumental,yes,yes,False,False,False,693,773
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,13,Personal-Instrumental,yes,no,True,False,False,733,705
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,14,Impersonal-Instrumental,yes,yes,False,False,False,720,490
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,15,Personal-Accidental,yes,yes,False,False,False,384,698
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,16,Impersonal-Accidental,yes,yes,False,False,False,711,575
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,17,Personal-Instrumental,yes,yes,False,False,False,560,687
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,18,Impersonal-Accidental,yes,yes,False,False,False,425,462
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,19,Personal-Instrumental,yes,yes,False,False,False,497,657
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,20,Impersonal-Instrumental,yes,yes,False,False,False,503,463
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,21,Personal-Instrumental,yes,yes,False,False,False,522,485
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,22,Impersonal-Instrumental,yes,no,True,False,False,437,617
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,23,Personal-Accidental,yes,yes,False,False,False,658,540
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,24,Impersonal-Accidental,yes,yes,False,False,False,668,861
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,25,Personal-Instrumental,no,yes,True,False,False,928,589
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,26,Impersonal-Instrumental,no,no,False,False,False,800,661
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,27,Personal-Accidental,yes,yes,False,False,False,546,663
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,28,Impersonal-Accidental,yes,yes,False,False,False,607,442
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,29,Personal-Accidental,yes,yes,False,False,False,529,523
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,30,Impersonal-Accidental,yes,yes,False,False,False,260,516
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,31,Personal-Instrumental,yes,yes,False,False,False,691,479
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,433,493
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,33,Personal-Instrumental,no,yes,True,False,False,717,577
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,34,Impersonal-Instrumental,yes,yes,False,False,False,677,759
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,35,Personal-Instrumental,yes,yes,False,False,False,469,521
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,36,Impersonal-Instrumental,yes,yes,False,False,False,435,509
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,37,Personal-Instrumental,yes,yes,False,False,False,451,697
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,302,835
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,39,Personal-Instrumental,yes,no,True,False,False,381,554
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,40,Impersonal-Accidental,yes,yes,False,False,False,480,487
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,41,Personal-Instrumental,yes,yes,False,False,False,530,466
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,42,Impersonal-Accidental,yes,yes,False,False,False,612,658
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,43,Personal-Instrumental,yes,yes,False,False,False,438,346
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,44,Impersonal-Instrumental,yes,yes,False,False,False,522,699
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,45,Personal-Accidental,,,,True,True,1237,0
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,46,Impersonal-Instrumental,yes,yes,False,False,False,1056,595
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,47,Personal-Instrumental,no,no,False,False,False,538,627
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,48,Impersonal-Instrumental,yes,no,True,False,False,663,982
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,585,413
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,540,521
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,320,461
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.5,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,419,544
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,1,Personal-Instrumental,yes,yes,False,False,False,598,913
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,2,Impersonal-Accidental,yes,yes,False,False,False,1190,517
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,3,Personal-Accidental,yes,yes,False,False,False,443,905
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,4,Impersonal-Accidental,yes,yes,False,False,False,689,825
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,5,Personal-Accidental,yes,yes,False,False,False,641,823
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,6,Impersonal-Accidental,yes,yes,False,False,False,548,496
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,7,Personal-Instrumental,yes,yes,False,False,False,859,428
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,8,Impersonal-Instrumental,,,,True,True,1224,0
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,9,Personal-Instrumental,yes,yes,False,False,False,904,443
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,10,Impersonal-Instrumental,yes,yes,False,False,False,489,561
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,11,Personal-Instrumental,yes,yes,False,False,False,893,555
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,12,Impersonal-Instrumental,yes,yes,False,False,False,596,486
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,13,Personal-Instrumental,no,yes,True,False,False,1053,356
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,14,Impersonal-Instrumental,yes,yes,False,False,False,665,427
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,15,Personal-Accidental,yes,yes,False,False,False,665,434
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,16,Impersonal-Accidental,yes,yes,False,False,False,542,772
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,17,Personal-Instrumental,yes,yes,False,False,False,363,334
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,18,Impersonal-Accidental,yes,yes,False,False,False,583,523
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,19,Personal-Instrumental,yes,yes,False,False,False,359,542
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,20,Impersonal-Instrumental,yes,yes,False,False,False,495,763
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,21,Personal-Instrumental,yes,no,True,False,False,540,786
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,22,Impersonal-Instrumental,yes,yes,False,False,False,507,907
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,23,Personal-Accidental,yes,yes,False,False,False,503,564
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,24,Impersonal-Accidental,yes,yes,False,False,False,1035,695
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,25,Personal-Instrumental,no,no,False,False,False,690,489
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,26,Impersonal-Instrumental,,,,True,True,1258,0
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,27,Personal-Accidental,yes,yes,False,False,False,586,329
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,28,Impersonal-Accidental,yes,yes,False,False,False,385,514
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,29,Personal-Accidental,yes,no,True,False,False,674,649
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,30,Impersonal-Accidental,yes,yes,False,False,False,410,693
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,31,Personal-Instrumental,yes,yes,False,False,False,412,500
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,32,Impersonal-Accidental,yes,yes,False,False,False,397,519
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,33,Personal-Instrumental,yes,no,True,False,False,509,744
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,34,Impersonal-Instrumental,yes,yes,False,False,False,490,420
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,35,Personal-Instrumental,yes,yes,False,False,False,482,415
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,36,Impersonal-Instrumental,yes,yes,False,False,False,646,379
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,37,Personal-Instrumental,yes,yes,False,False,False,497,474
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,38,Impersonal-Instrumental,yes,yes,False,False,False,399,916
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,39,Personal-Instrumental,yes,yes,False,False,False,565,398
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,40,Impersonal-Accidental,yes,yes,False,False,False,543,579
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,41,Personal-Instrumental,yes,yes,False,False,False,571,500
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,42,Impersonal-Accidental,yes,yes,False,False,False,737,759
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,43,Personal-Instrumental,yes,yes,False,False,False,499,446
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,44,Impersonal-Instrumental,yes,yes,False,False,False,457,824
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,45,Personal-Accidental,no,no,False,False,False,693,1060
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,46,Impersonal-Instrumental,yes,yes,False,False,False,1155,806
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,47,Personal-Instrumental,no,no,False,False,False,927,792
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,48,Impersonal-Instrumental,yes,yes,False,False,False,707,1027
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),no,no,False,False,False,590,695
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,561,609
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,495,690
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,415,414
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,1,Personal-Instrumental,yes,no,True,False,False,710,685
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,649,421
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,3,Personal-Accidental,yes,,,False,True,464,1275
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,4,Impersonal-Accidental,,,,True,True,1249,0
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,5,Personal-Accidental,yes,yes,False,False,False,486,575
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,6,Impersonal-Accidental,yes,yes,False,False,False,532,929
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,7,Personal-Instrumental,yes,yes,False,False,False,693,448
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,8,Impersonal-Instrumental,yes,yes,False,False,False,444,553
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,9,Personal-Instrumental,yes,no,True,False,False,587,409
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,10,Impersonal-Instrumental,yes,no,True,False,False,389,587
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,11,Personal-Instrumental,yes,yes,False,False,False,597,548
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,12,Impersonal-Instrumental,yes,yes,False,False,False,425,579
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,13,Personal-Instrumental,yes,yes,False,False,False,550,600
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,14,Impersonal-Instrumental,yes,yes,False,False,False,522,851
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,15,Personal-Accidental,,,,True,True,1248,0
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,16,Impersonal-Accidental,yes,yes,False,False,False,687,542
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,17,Personal-Instrumental,yes,no,True,False,False,491,541
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,18,Impersonal-Accidental,yes,yes,False,False,False,618,460
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,19,Personal-Instrumental,yes,yes,False,False,False,840,563
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,20,Impersonal-Instrumental,yes,yes,False,False,False,731,628
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,21,Personal-Instrumental,yes,yes,False,False,False,425,363
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,22,Impersonal-Instrumental,yes,yes,False,False,False,517,631
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,23,Personal-Accidental,yes,yes,False,False,False,612,375
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,24,Impersonal-Accidental,yes,yes,False,False,False,504,623
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,25,Personal-Instrumental,no,no,False,False,False,785,652
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,26,Impersonal-Instrumental,no,yes,True,False,False,915,509
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,27,Personal-Accidental,yes,yes,False,False,False,341,366
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,28,Impersonal-Accidental,yes,yes,False,False,False,601,605
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,29,Personal-Accidental,yes,yes,False,False,False,379,554
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,30,Impersonal-Accidental,yes,yes,False,False,False,493,591
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,31,Personal-Instrumental,yes,yes,False,False,False,636,533
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,32,Impersonal-Accidental,yes,yes,False,False,False,572,540
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,33,Personal-Instrumental,yes,yes,False,False,False,696,404
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,34,Impersonal-Instrumental,yes,yes,False,False,False,635,620
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,35,Personal-Instrumental,yes,yes,False,False,False,550,519
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,36,Impersonal-Instrumental,yes,no,True,False,False,318,817
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,37,Personal-Instrumental,yes,yes,False,False,False,426,882
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,38,Impersonal-Instrumental,yes,yes,False,False,False,345,314
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,39,Personal-Instrumental,yes,no,True,False,False,390,818
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,623,787
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,41,Personal-Instrumental,yes,yes,False,False,False,588,485
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,42,Impersonal-Accidental,yes,yes,False,False,False,809,313
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,43,Personal-Instrumental,yes,yes,False,False,False,800,464
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,44,Impersonal-Instrumental,yes,yes,False,False,False,430,421
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,45,Personal-Accidental,yes,no,True,False,False,670,751
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,46,Impersonal-Instrumental,yes,no,True,False,False,555,502
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,47,Personal-Instrumental,no,yes,True,False,False,874,562
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,48,Impersonal-Instrumental,yes,yes,False,False,False,519,781
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,505,494
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,427,489
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,493,335
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,493,536
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,1,Personal-Instrumental,yes,yes,False,False,False,634,604
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,2,Impersonal-Accidental,yes,yes,False,False,False,458,559
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,3,Personal-Accidental,yes,yes,False,False,False,644,803
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,4,Impersonal-Accidental,yes,yes,False,False,False,1105,796
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,5,Personal-Accidental,yes,yes,False,False,False,521,432
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,6,Impersonal-Accidental,yes,yes,False,False,False,407,576
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,7,Personal-Instrumental,yes,yes,False,False,False,495,860
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,8,Impersonal-Instrumental,yes,yes,False,False,False,808,450
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,9,Personal-Instrumental,yes,no,True,False,False,574,362
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,10,Impersonal-Instrumental,yes,yes,False,False,False,511,484
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,11,Personal-Instrumental,yes,yes,False,False,False,448,497
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,12,Impersonal-Instrumental,yes,yes,False,False,False,494,504
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,13,Personal-Instrumental,yes,yes,False,False,False,578,513
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,14,Impersonal-Instrumental,yes,,,False,True,416,921
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,15,Personal-Accidental,yes,yes,False,False,False,773,359
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,16,Impersonal-Accidental,yes,yes,False,False,False,417,637
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,17,Personal-Instrumental,yes,yes,False,False,False,564,695
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,18,Impersonal-Accidental,yes,yes,False,False,False,459,560
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,19,Personal-Instrumental,yes,yes,False,False,False,504,463
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,20,Impersonal-Instrumental,yes,yes,False,False,False,396,558
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,21,Personal-Instrumental,no,yes,True,False,False,543,791
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,22,Impersonal-Instrumental,yes,no,True,False,False,423,825
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,23,Personal-Accidental,yes,yes,False,False,False,769,657
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,24,Impersonal-Accidental,yes,yes,False,False,False,976,566
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,25,Personal-Instrumental,no,no,False,False,False,535,485
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,26,Impersonal-Instrumental,,,,True,True,1268,0
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,27,Personal-Accidental,yes,yes,False,False,False,475,428
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,28,Impersonal-Accidental,yes,yes,False,False,False,454,739
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,29,Personal-Accidental,yes,no,True,False,False,741,963
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,30,Impersonal-Accidental,yes,yes,False,False,False,307,399
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,31,Personal-Instrumental,yes,yes,False,False,False,576,523
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,553,526
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,33,Personal-Instrumental,yes,no,True,False,False,706,832
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,34,Impersonal-Instrumental,yes,yes,False,False,False,444,444
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,35,Personal-Instrumental,yes,yes,False,False,False,432,457
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,36,Impersonal-Instrumental,yes,yes,False,False,False,589,381
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,37,Personal-Instrumental,yes,yes,False,False,False,371,556
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,527,443
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,39,Personal-Instrumental,yes,yes,False,False,False,745,615
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,40,Impersonal-Accidental,yes,yes,False,False,False,395,476
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,41,Personal-Instrumental,yes,yes,False,False,False,543,492
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,42,Impersonal-Accidental,yes,yes,False,False,False,514,487
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,43,Personal-Instrumental,yes,yes,False,False,False,335,405
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,44,Impersonal-Instrumental,yes,yes,False,False,False,1059,550
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,45,Personal-Accidental,no,no,False,False,False,661,502
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,46,Impersonal-Instrumental,yes,yes,False,False,False,1243,737
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,47,Personal-Instrumental,yes,no,True,False,False,535,949
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,48,Impersonal-Instrumental,yes,,,False,True,852,1259
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,627,655
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,437,494
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,596,603
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.6,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,559,573
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,1,Personal-Instrumental,yes,yes,False,False,False,464,680
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,2,Impersonal-Accidental,yes,yes,False,False,False,751,928
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,3,Personal-Accidental,yes,yes,False,False,False,516,513
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,4,Impersonal-Accidental,yes,yes,False,False,False,1204,706
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,5,Personal-Accidental,yes,yes,False,False,False,454,665
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,6,Impersonal-Accidental,yes,yes,False,False,False,790,461
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,7,Personal-Instrumental,yes,yes,False,False,False,602,681
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,8,Impersonal-Instrumental,yes,yes,False,False,False,1250,384
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,9,Personal-Instrumental,yes,yes,False,False,False,653,611
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,10,Impersonal-Instrumental,yes,yes,False,False,False,382,427
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,11,Personal-Instrumental,yes,yes,False,False,False,581,749
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,12,Impersonal-Instrumental,yes,yes,False,False,False,562,603
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,13,Personal-Instrumental,yes,yes,False,False,False,988,420
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,14,Impersonal-Instrumental,yes,yes,False,False,False,608,497
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,15,Personal-Accidental,yes,yes,False,False,False,579,464
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,16,Impersonal-Accidental,yes,yes,False,False,False,594,425
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,17,Personal-Instrumental,yes,yes,False,False,False,474,382
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,18,Impersonal-Accidental,yes,yes,False,False,False,671,550
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,19,Personal-Instrumental,yes,yes,False,False,False,428,519
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,20,Impersonal-Instrumental,yes,,,False,True,428,1252
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,21,Personal-Instrumental,yes,yes,False,False,False,454,531
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,22,Impersonal-Instrumental,yes,yes,False,False,False,390,518
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,23,Personal-Accidental,yes,yes,False,False,False,771,434
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,24,Impersonal-Accidental,yes,yes,False,False,False,782,700
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,25,Personal-Instrumental,yes,no,True,False,False,957,965
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,26,Impersonal-Instrumental,no,yes,True,False,False,593,915
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,27,Personal-Accidental,yes,yes,False,False,False,597,411
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,28,Impersonal-Accidental,yes,yes,False,False,False,757,426
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,29,Personal-Accidental,yes,yes,False,False,False,565,534
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,30,Impersonal-Accidental,yes,yes,False,False,False,467,369
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,31,Personal-Instrumental,yes,yes,False,False,False,565,526
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,32,Impersonal-Accidental,yes,no,True,False,False,289,695
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,33,Personal-Instrumental,yes,no,True,False,False,634,719
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,34,Impersonal-Instrumental,yes,yes,False,False,False,444,308
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,35,Personal-Instrumental,yes,yes,False,False,False,359,436
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,36,Impersonal-Instrumental,yes,yes,False,False,False,565,506
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,37,Personal-Instrumental,yes,yes,False,False,False,425,642
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,38,Impersonal-Instrumental,yes,yes,False,False,False,389,383
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,39,Personal-Instrumental,yes,yes,False,False,False,445,616
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,40,Impersonal-Accidental,yes,yes,False,False,False,370,889
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,41,Personal-Instrumental,yes,yes,False,False,False,877,472
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,42,Impersonal-Accidental,yes,yes,False,False,False,604,818
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,43,Personal-Instrumental,yes,yes,False,False,False,503,469
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,44,Impersonal-Instrumental,yes,yes,False,False,False,422,469
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,45,Personal-Accidental,no,yes,True,False,False,515,1153
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,46,Impersonal-Instrumental,no,yes,True,False,False,708,1239
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,47,Personal-Instrumental,no,yes,True,False,False,495,794
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,48,Impersonal-Instrumental,yes,no,True,False,False,827,851
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,49,Personal-Others Beneficial-Inevitable (instrumental),yes,no,True,False,False,666,1043
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,567,890
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,463,606
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,42,1,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,379,621
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,1,Personal-Instrumental,yes,yes,False,False,False,819,551
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,2,Impersonal-Accidental,yes,yes,False,False,False,631,845
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,3,Personal-Accidental,yes,yes,False,False,False,670,646
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,4,Impersonal-Accidental,yes,yes,False,False,False,1056,612
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,5,Personal-Accidental,yes,yes,False,False,False,606,617
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,6,Impersonal-Accidental,yes,,,False,True,341,1193
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,7,Personal-Instrumental,,,,True,True,1248,0
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,8,Impersonal-Instrumental,yes,yes,False,False,False,724,687
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,9,Personal-Instrumental,yes,yes,False,False,False,575,677
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,10,Impersonal-Instrumental,yes,no,True,False,False,775,565
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,11,Personal-Instrumental,yes,yes,False,False,False,606,724
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,12,Impersonal-Instrumental,yes,yes,False,False,False,380,617
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,13,Personal-Instrumental,yes,yes,False,False,False,869,647
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,14,Impersonal-Instrumental,yes,yes,False,False,False,496,861
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,15,Personal-Accidental,yes,yes,False,False,False,402,579
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,16,Impersonal-Accidental,yes,yes,False,False,False,463,604
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,17,Personal-Instrumental,yes,yes,False,False,False,540,521
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,18,Impersonal-Accidental,yes,yes,False,False,False,318,517
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,19,Personal-Instrumental,yes,yes,False,False,False,625,667
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,20,Impersonal-Instrumental,yes,yes,False,False,False,435,523
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,21,Personal-Instrumental,yes,yes,False,False,False,924,391
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,22,Impersonal-Instrumental,yes,yes,False,False,False,366,500
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,23,Personal-Accidental,yes,yes,False,False,False,468,436
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,24,Impersonal-Accidental,yes,yes,False,False,False,507,542
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,25,Personal-Instrumental,no,yes,True,False,False,497,920
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,26,Impersonal-Instrumental,no,,,False,True,920,1277
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,27,Personal-Accidental,yes,yes,False,False,False,460,582
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,28,Impersonal-Accidental,yes,yes,False,False,False,467,1115
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,29,Personal-Accidental,yes,no,True,False,False,413,406
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,30,Impersonal-Accidental,yes,yes,False,False,False,572,598
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,31,Personal-Instrumental,yes,yes,False,False,False,487,491
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,32,Impersonal-Accidental,yes,yes,False,False,False,552,350
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,33,Personal-Instrumental,no,yes,True,False,False,957,388
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,34,Impersonal-Instrumental,yes,yes,False,False,False,687,562
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,35,Personal-Instrumental,yes,yes,False,False,False,528,535
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,36,Impersonal-Instrumental,yes,yes,False,False,False,466,604
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,37,Personal-Instrumental,yes,yes,False,False,False,614,565
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,38,Impersonal-Instrumental,yes,yes,False,False,False,351,553
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,39,Personal-Instrumental,yes,yes,False,False,False,619,476
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,40,Impersonal-Accidental,yes,yes,False,False,False,666,492
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,41,Personal-Instrumental,yes,yes,False,False,False,367,568
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,42,Impersonal-Accidental,yes,yes,False,False,False,367,356
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,43,Personal-Instrumental,yes,yes,False,False,False,528,481
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,44,Impersonal-Instrumental,yes,yes,False,False,False,689,394
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,45,Personal-Accidental,yes,no,True,False,False,570,891
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,46,Impersonal-Instrumental,yes,,,False,True,415,529
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,47,Personal-Instrumental,no,no,False,False,False,513,699
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,48,Impersonal-Instrumental,yes,yes,False,False,False,438,611
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,997,418
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,50,Impersonal-Others Beneficial-Inevitable (instrumental),no,yes,True,False,False,542,686
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,471,504
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,123,2,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,455,437
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,1,Personal-Instrumental,yes,yes,False,False,False,926,424
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,2,Impersonal-Accidental,yes,yes,False,False,False,617,426
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,3,Personal-Accidental,yes,yes,False,False,False,600,525
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,4,Impersonal-Accidental,yes,yes,False,False,False,1002,736
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,5,Personal-Accidental,yes,yes,False,False,False,581,671
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,6,Impersonal-Accidental,yes,yes,False,False,False,700,403
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,7,Personal-Instrumental,yes,yes,False,False,False,649,556
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,8,Impersonal-Instrumental,yes,yes,False,False,False,614,374
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,9,Personal-Instrumental,yes,no,True,False,False,680,711
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,10,Impersonal-Instrumental,yes,yes,False,False,False,444,645
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,11,Personal-Instrumental,yes,yes,False,False,False,873,633
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,12,Impersonal-Instrumental,yes,,,False,True,366,599
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,13,Personal-Instrumental,yes,yes,False,False,False,842,612
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,14,Impersonal-Instrumental,yes,yes,False,False,False,491,557
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,15,Personal-Accidental,yes,yes,False,False,False,629,1244
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,16,Impersonal-Accidental,yes,no,True,False,False,777,771
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,17,Personal-Instrumental,yes,yes,False,False,False,411,495
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,18,Impersonal-Accidental,yes,yes,False,False,False,663,453
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,19,Personal-Instrumental,yes,yes,False,False,False,626,1225
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,20,Impersonal-Instrumental,yes,yes,False,False,False,580,445
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,21,Personal-Instrumental,no,no,False,False,False,586,565
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,22,Impersonal-Instrumental,yes,yes,False,False,False,472,773
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,23,Personal-Accidental,yes,yes,False,False,False,560,544
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,24,Impersonal-Accidental,yes,yes,False,False,False,1041,697
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,25,Personal-Instrumental,no,no,False,False,False,708,747
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,26,Impersonal-Instrumental,no,yes,True,False,False,973,629
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,27,Personal-Accidental,yes,yes,False,False,False,354,451
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,28,Impersonal-Accidental,yes,yes,False,False,False,550,452
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,29,Personal-Accidental,yes,yes,False,False,False,391,647
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,30,Impersonal-Accidental,yes,yes,False,False,False,239,672
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,31,Personal-Instrumental,yes,yes,False,False,False,450,579
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,32,Impersonal-Accidental,yes,yes,False,False,False,456,722
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,33,Personal-Instrumental,yes,yes,False,False,False,609,677
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,34,Impersonal-Instrumental,yes,yes,False,False,False,501,627
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,35,Personal-Instrumental,yes,yes,False,False,False,580,478
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,36,Impersonal-Instrumental,yes,yes,False,False,False,383,563
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,37,Personal-Instrumental,yes,yes,False,False,False,294,569
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,38,Impersonal-Instrumental,yes,yes,False,False,False,456,331
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,39,Personal-Instrumental,yes,yes,False,False,False,748,722
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,40,Impersonal-Accidental,yes,yes,False,False,False,365,346
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,41,Personal-Instrumental,yes,yes,False,False,False,686,502
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,42,Impersonal-Accidental,yes,yes,False,False,False,625,854
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,43,Personal-Instrumental,yes,yes,False,False,False,399,601
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,44,Impersonal-Instrumental,yes,yes,False,False,False,963,502
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,45,Personal-Accidental,yes,no,True,False,False,651,389
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,46,Impersonal-Instrumental,yes,yes,False,False,False,822,927
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,47,Personal-Instrumental,yes,no,True,False,False,585,548
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,48,Impersonal-Instrumental,yes,yes,False,False,False,690,627
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,49,Personal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,494,650
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,50,Impersonal-Others Beneficial-Inevitable (instrumental),yes,yes,False,False,False,630,553
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,51,Personal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,386,644
+deepseek-r1-distill-llama-8b,True,respond,3,Respond to the instructions.,0.7,456,3,52,Impersonal-Others Beneficial-Avoidable (instrumental),yes,yes,False,False,False,597,373

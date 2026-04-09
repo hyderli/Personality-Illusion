@@ -1,0 +1,1189 @@
+model,is_reasoning,persona_name,persona_index,system_prompt,temperature,seed,run,item_index,item_text,rating,parse_failed,answer_text,thinking_length
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,0,Is talkative,5,False,5<｜end▁of▁sentence｜>,702
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,1,Tends to find fault with others,5,False,5<｜end▁of▁sentence｜>,255
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,2,Does a thorough job,3,False,3<｜end▁of▁sentence｜>,744
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,3,"Is depressed, blue",2,False,2<｜end▁of▁sentence｜>,423
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,4,"Is original, comes up with new ideas",4,False,4<｜end▁of▁sentence｜>,486
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,5,Is reserved,1,False,,806
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,242
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,265
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,8,"Is relaxed, handles stress well",5,False,5<｜end▁of▁sentence｜>,210
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,9,Is curious about many different things,4,False,4<｜end▁of▁sentence｜>,374
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,10,Is full of energy,5,False,5<｜end▁of▁sentence｜>,540
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,11,Starts quarrels with others,3,False,3<｜end▁of▁sentence｜>,632
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,12,Is a reliable worker,4,False,4<｜end▁of▁sentence｜>,390
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,13,Can be tense,5,False,5<｜end▁of▁sentence｜>,446
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,570
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,15,Generates a lot of enthusiasm,5,False,5<｜end▁of▁sentence｜>,463
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,270
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,17,Tends to be disorganized,3,False,3<｜end▁of▁sentence｜>,442
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,18,Worries a lot,1,False,1<｜end▁of▁sentence｜>,322
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,19,Has an active imagination,4,False,4<｜end▁of▁sentence｜>,522
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,20,Tends to be quiet,3,False,3<｜end▁of▁sentence｜>,436
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,21,Is generally trusting,3,False,3<｜end▁of▁sentence｜>,270
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,22,Tends to be lazy,2,False,2<｜end▁of▁sentence｜>,267
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,23,"Is emotionally stable, not easily upset",4,False,4<｜end▁of▁sentence｜>,223
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,24,Is inventive,4,False,4<｜end▁of▁sentence｜>,293
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,25,Has an assertive personality,3,False,3<｜end▁of▁sentence｜>,195
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,26,Can be cold and aloof,3,False,3<｜end▁of▁sentence｜>,527
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,27,Perseveres until the task is finished,4,False,4<｜end▁of▁sentence｜>,479
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,621
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,305
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,30,"Is sometimes shy, inhibited",1,False,,803
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,374
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,311
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,356
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,244
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,35,"Is outgoing, sociable",5,False,5<｜end▁of▁sentence｜>,293
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,365
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,405
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,38,Gets nervous easily,3,False,3<｜end▁of▁sentence｜>,496
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,39,"Likes to reflect, play with ideas",5,False,5<｜end▁of▁sentence｜>,534
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,40,Has few artistic interests,1,False,,827
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,218
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,42,Is easily distracted,3,False,3<｜end▁of▁sentence｜>,332
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,43,"Is sophisticated in art, music, or literature",5,False,5<｜end▁of▁sentence｜>,213
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,0,Is talkative,4,False,4<｜end▁of▁sentence｜>,351
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,1,Tends to find fault with others,4,False,4<｜end▁of▁sentence｜>,261
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,2,Does a thorough job,4,False,4<｜end▁of▁sentence｜>,381
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,3,"Is depressed, blue",4,False,4<｜end▁of▁sentence｜>,419
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,331
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,5,Is reserved,3,False,3<｜end▁of▁sentence｜>,491
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,412
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,252
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,8,"Is relaxed, handles stress well",4,False,4<｜end▁of▁sentence｜>,405
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,490
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,10,Is full of energy,4,False,4<｜end▁of▁sentence｜>,752
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,11,Starts quarrels with others,4,False,4<｜end▁of▁sentence｜>,472
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,12,Is a reliable worker,4,False,4<｜end▁of▁sentence｜>,315
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,13,Can be tense,4,False,4<｜end▁of▁sentence｜>,283
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,406
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,15,Generates a lot of enthusiasm,5,False,5<｜end▁of▁sentence｜>,304
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,16,Has a forgiving nature,3,False,3<｜end▁of▁sentence｜>,426
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,17,Tends to be disorganized,4,False,4<｜end▁of▁sentence｜>,334
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,18,Worries a lot,3,False,3<｜end▁of▁sentence｜>,240
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,19,Has an active imagination,5,False,5<｜end▁of▁sentence｜>,298
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,20,Tends to be quiet,1,False,1<｜end▁of▁sentence｜>,203
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,330
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,22,Tends to be lazy,1,False,1<｜end▁of▁sentence｜>,216
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,23,"Is emotionally stable, not easily upset",1,False,,840
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,24,Is inventive,3,False,3<｜end▁of▁sentence｜>,365
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,25,Has an assertive personality,3,False,3<｜end▁of▁sentence｜>,653
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,26,Can be cold and aloof,3,False,3<｜end▁of▁sentence｜>,501
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,27,Perseveres until the task is finished,5,False,5<｜end▁of▁sentence｜>,315
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,537
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,293
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,30,"Is sometimes shy, inhibited",4,False,4<｜end▁of▁sentence｜>,779
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,392
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,32,Does things efficiently,3,False,3<｜end▁of▁sentence｜>,414
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,33,Remains calm in tense situations,5,False,5<｜end▁of▁sentence｜>,291
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,341
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,35,"Is outgoing, sociable",5,False,5<｜end▁of▁sentence｜>,682
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,290
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,318
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,38,Gets nervous easily,4,False,4<｜end▁of▁sentence｜>,295
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,39,"Likes to reflect, play with ideas",5,False,5<｜end▁of▁sentence｜>,276
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,40,Has few artistic interests,1,False,1<｜end▁of▁sentence｜>,713
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,317
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,395
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,43,"Is sophisticated in art, music, or literature",5,False,5<｜end▁of▁sentence｜>,389
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,0,Is talkative,1,False,,758
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,1,Tends to find fault with others,3,False,3<｜end▁of▁sentence｜>,473
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,2,Does a thorough job,1,False,,816
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,3,"Is depressed, blue",3,False,3<｜end▁of▁sentence｜>,767
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,312
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,5,Is reserved,1,False,,826
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,364
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,512
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,8,"Is relaxed, handles stress well",5,False,5<｜end▁of▁sentence｜>,284
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,412
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,10,Is full of energy,5,False,5<｜end▁of▁sentence｜>,253
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,11,Starts quarrels with others,4,False,4<｜end▁of▁sentence｜>,489
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,12,Is a reliable worker,4,False,4<｜end▁of▁sentence｜>,461
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,13,Can be tense,4,False,4<｜end▁of▁sentence｜>,532
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,352
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,15,Generates a lot of enthusiasm,4,False,4<｜end▁of▁sentence｜>,591
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,594
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,17,Tends to be disorganized,4,False,4<｜end▁of▁sentence｜>,531
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,18,Worries a lot,4,False,4<｜end▁of▁sentence｜>,722
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,19,Has an active imagination,5,False,5<｜end▁of▁sentence｜>,405
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,20,Tends to be quiet,4,False,4<｜end▁of▁sentence｜>,399
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,262
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,22,Tends to be lazy,4,False,4<｜end▁of▁sentence｜>,579
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,23,"Is emotionally stable, not easily upset",4,False,4<｜end▁of▁sentence｜>,282
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,24,Is inventive,4,False,4<｜end▁of▁sentence｜>,356
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,25,Has an assertive personality,4,False,4<｜end▁of▁sentence｜>,396
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,26,Can be cold and aloof,4,False,4<｜end▁of▁sentence｜>,418
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,27,Perseveres until the task is finished,4,False,4<｜end▁of▁sentence｜>,317
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,441
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,410
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,30,"Is sometimes shy, inhibited",3,False,3<｜end▁of▁sentence｜>,518
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,332
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,443
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,301
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,304
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,35,"Is outgoing, sociable",5,False,5<｜end▁of▁sentence｜>,183
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,432
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,37,Makes plans and follows through with them,3,False,3<｜end▁of▁sentence｜>,339
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,38,Gets nervous easily,4,False,4<｜end▁of▁sentence｜>,489
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,39,"Likes to reflect, play with ideas",5,False,5<｜end▁of▁sentence｜>,182
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,40,Has few artistic interests,1,False,1<｜end▁of▁sentence｜>,246
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,344
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,411
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,43,"Is sophisticated in art, music, or literature",4,False,4<｜end▁of▁sentence｜>,398
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,0,Is talkative,4,False,4<｜end▁of▁sentence｜>,522
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,1,Tends to find fault with others,4,False,4<｜end▁of▁sentence｜>,573
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,2,Does a thorough job,5,False,5<｜end▁of▁sentence｜>,323
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,3,"Is depressed, blue",3,False,3<｜end▁of▁sentence｜>,405
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,346
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,5,Is reserved,3,False,3<｜end▁of▁sentence｜>,326
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,6,Is helpful and unselfish with others,5,False,5<｜end▁of▁sentence｜>,277
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,7,Can be somewhat careless,3,False,3<｜end▁of▁sentence｜>,379
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,8,"Is relaxed, handles stress well",5,False,5<｜end▁of▁sentence｜>,373
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,429
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,10,Is full of energy,3,False,3<｜end▁of▁sentence｜>,606
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,11,Starts quarrels with others,4,False,4<｜end▁of▁sentence｜>,448
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,12,Is a reliable worker,4,False,4<｜end▁of▁sentence｜>,359
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,13,Can be tense,5,False,5<｜end▁of▁sentence｜>,410
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,419
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,15,Generates a lot of enthusiasm,5,False,5<｜end▁of▁sentence｜>,477
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,387
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,17,Tends to be disorganized,3,False,3<｜end▁of▁sentence｜>,290
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,18,Worries a lot,1,False,1<｜end▁of▁sentence｜>,783
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,19,Has an active imagination,5,False,5<｜end▁of▁sentence｜>,367
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,20,Tends to be quiet,3,False,3<｜end▁of▁sentence｜>,539
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,432
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,22,Tends to be lazy,3,False,3<｜end▁of▁sentence｜>,375
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,23,"Is emotionally stable, not easily upset",4,False,4<｜end▁of▁sentence｜>,343
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,24,Is inventive,5,False,5<｜end▁of▁sentence｜>,321
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,25,Has an assertive personality,2,False,2<｜end▁of▁sentence｜>,338
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,26,Can be cold and aloof,4,False,4<｜end▁of▁sentence｜>,673
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,27,Perseveres until the task is finished,5,False,5<｜end▁of▁sentence｜>,185
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,444
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,562
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,30,"Is sometimes shy, inhibited",4,False,4<｜end▁of▁sentence｜>,336
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,31,Is considerate and kind to almost everyone,3,False,3<｜end▁of▁sentence｜>,715
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,32,Does things efficiently,5,False,5<｜end▁of▁sentence｜>,756
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,266
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,249
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,35,"Is outgoing, sociable",4,False,4<｜end▁of▁sentence｜>,253
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,412
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,228
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,38,Gets nervous easily,3,False,3<｜end▁of▁sentence｜>,707
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,39,"Likes to reflect, play with ideas",4,False,4<｜end▁of▁sentence｜>,301
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,40,Has few artistic interests,3,False,3<｜end▁of▁sentence｜>,677
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,192
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,357
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,43,"Is sophisticated in art, music, or literature",4,False,4<｜end▁of▁sentence｜>,344
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,0,Is talkative,4,False,4<｜end▁of▁sentence｜>,214
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,1,Tends to find fault with others,4,False,4<｜end▁of▁sentence｜>,340
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,2,Does a thorough job,3,False,3<｜end▁of▁sentence｜>,427
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,3,"Is depressed, blue",5,False,5<｜end▁of▁sentence｜>,636
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,280
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,5,Is reserved,3,False,3<｜end▁of▁sentence｜>,424
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,439
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,183
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,8,"Is relaxed, handles stress well",4,False,4<｜end▁of▁sentence｜>,382
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,229
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,10,Is full of energy,5,False,5<｜end▁of▁sentence｜>,380
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,11,Starts quarrels with others,2,False,2<｜end▁of▁sentence｜>,293
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,12,Is a reliable worker,5,False,5<｜end▁of▁sentence｜>,645
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,13,Can be tense,4,False,4<｜end▁of▁sentence｜>,427
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,545
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,15,Generates a lot of enthusiasm,4,False,4<｜end▁of▁sentence｜>,357
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,16,Has a forgiving nature,5,False,5<｜end▁of▁sentence｜>,499
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,17,Tends to be disorganized,4,False,4<｜end▁of▁sentence｜>,299
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,18,Worries a lot,3,False,3<｜end▁of▁sentence｜>,476
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,19,Has an active imagination,5,False,5<｜end▁of▁sentence｜>,209
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,20,Tends to be quiet,1,False,1<｜end▁of▁sentence｜>,199
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,299
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,22,Tends to be lazy,2,False,2<｜end▁of▁sentence｜>,349
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,23,"Is emotionally stable, not easily upset",5,False,5<｜end▁of▁sentence｜>,280
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,24,Is inventive,4,False,4<｜end▁of▁sentence｜>,336
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,25,Has an assertive personality,5,False,5<｜end▁of▁sentence｜>,365
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,26,Can be cold and aloof,1,False,,796
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,27,Perseveres until the task is finished,5,False,5<｜end▁of▁sentence｜>,217
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,295
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,230
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,30,"Is sometimes shy, inhibited",4,False,4<｜end▁of▁sentence｜>,600
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,31,Is considerate and kind to almost everyone,3,False,3<｜end▁of▁sentence｜>,634
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,320
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,444
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,339
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,35,"Is outgoing, sociable",4,False,4<｜end▁of▁sentence｜>,294
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,36,Is sometimes rude to others,2,False,2<｜end▁of▁sentence｜>,563
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,364
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,38,Gets nervous easily,4,False,4<｜end▁of▁sentence｜>,250
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,39,"Likes to reflect, play with ideas",4,False,4<｜end▁of▁sentence｜>,571
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,40,Has few artistic interests,4,False,4<｜end▁of▁sentence｜>,506
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,41,Likes to cooperate with others,5,False,5<｜end▁of▁sentence｜>,237
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,766
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,43,"Is sophisticated in art, music, or literature",5,False,5<｜end▁of▁sentence｜>,418
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,0,Is talkative,3,False,3<｜end▁of▁sentence｜>,343
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,1,Tends to find fault with others,3,False,3<｜end▁of▁sentence｜>,486
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,2,Does a thorough job,3,False,3<｜end▁of▁sentence｜>,358
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,3,"Is depressed, blue",3,False,3<｜end▁of▁sentence｜>,769
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,229
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,5,Is reserved,4,False,4<｜end▁of▁sentence｜>,545
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,676
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,341
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,8,"Is relaxed, handles stress well",5,False,5<｜end▁of▁sentence｜>,393
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,340
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,10,Is full of energy,3,False,3<｜end▁of▁sentence｜>,672
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,11,Starts quarrels with others,3,False,3<｜end▁of▁sentence｜>,349
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,12,Is a reliable worker,5,False,5<｜end▁of▁sentence｜>,383
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,13,Can be tense,4,False,4<｜end▁of▁sentence｜>,395
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,424
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,15,Generates a lot of enthusiasm,5,False,5<｜end▁of▁sentence｜>,618
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,333
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,17,Tends to be disorganized,1,False,,818
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,18,Worries a lot,3,False,3<｜end▁of▁sentence｜>,541
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,19,Has an active imagination,4,False,4<｜end▁of▁sentence｜>,613
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,20,Tends to be quiet,3,False,3<｜end▁of▁sentence｜>,502
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,318
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,22,Tends to be lazy,3,False,3<｜end▁of▁sentence｜>,352
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,23,"Is emotionally stable, not easily upset",5,False,5<｜end▁of▁sentence｜>,335
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,24,Is inventive,3,False,3<｜end▁of▁sentence｜>,752
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,25,Has an assertive personality,4,False,4<｜end▁of▁sentence｜>,450
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,26,Can be cold and aloof,4,False,4<｜end▁of▁sentence｜>,363
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,27,Perseveres until the task is finished,4,False,4<｜end▁of▁sentence｜>,194
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,560
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,248
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,30,"Is sometimes shy, inhibited",5,False,5<｜end▁of▁sentence｜>,377
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,326
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,32,Does things efficiently,3,False,3<｜end▁of▁sentence｜>,491
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,33,Remains calm in tense situations,5,False,5<｜end▁of▁sentence｜>,330
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,388
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,35,"Is outgoing, sociable",4,False,4<｜end▁of▁sentence｜>,501
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,326
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,302
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,38,Gets nervous easily,3,False,3<｜end▁of▁sentence｜>,185
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,39,"Likes to reflect, play with ideas",5,False,5<｜end▁of▁sentence｜>,183
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,40,Has few artistic interests,1,False,1<｜end▁of▁sentence｜>,424
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,41,Likes to cooperate with others,5,False,5<｜end▁of▁sentence｜>,364
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,412
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,43,"Is sophisticated in art, music, or literature",1,False,,819
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,0,Is talkative,3,False,3<｜end▁of▁sentence｜>,733
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,1,Tends to find fault with others,3,False,3<｜end▁of▁sentence｜>,422
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,2,Does a thorough job,4,False,4<｜end▁of▁sentence｜>,441
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,3,"Is depressed, blue",3,False,3<｜end▁of▁sentence｜>,257
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,278
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,5,Is reserved,3,False,3<｜end▁of▁sentence｜>,701
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,316
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,7,Can be somewhat careless,3,False,3<｜end▁of▁sentence｜>,330
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,8,"Is relaxed, handles stress well",5,False,5<｜end▁of▁sentence｜>,170
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,254
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,10,Is full of energy,5,False,5<｜end▁of▁sentence｜>,684
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,11,Starts quarrels with others,5,False,5<｜end▁of▁sentence｜>,252
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,12,Is a reliable worker,3,False,3<｜end▁of▁sentence｜>,279
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,13,Can be tense,3,False,3<｜end▁of▁sentence｜>,302
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,404
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,15,Generates a lot of enthusiasm,4,False,4<｜end▁of▁sentence｜>,395
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,255
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,17,Tends to be disorganized,4,False,4<｜end▁of▁sentence｜>,587
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,18,Worries a lot,4,False,4<｜end▁of▁sentence｜>,242
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,19,Has an active imagination,4,False,4<｜end▁of▁sentence｜>,580
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,20,Tends to be quiet,1,False,,809
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,265
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,22,Tends to be lazy,2,False,2<｜end▁of▁sentence｜>,496
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,23,"Is emotionally stable, not easily upset",4,False,4<｜end▁of▁sentence｜>,506
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,24,Is inventive,4,False,4<｜end▁of▁sentence｜>,456
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,25,Has an assertive personality,4,False,4<｜end▁of▁sentence｜>,174
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,26,Can be cold and aloof,3,False,3<｜end▁of▁sentence｜>,316
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,27,Perseveres until the task is finished,5,False,5<｜end▁of▁sentence｜>,459
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,28,Can be moody,1,False,1<｜end▁of▁sentence｜>,412
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,29,"Values artistic, aesthetic experiences",4,False,4<｜end▁of▁sentence｜>,399
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,30,"Is sometimes shy, inhibited",1,False,,800
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,31,Is considerate and kind to almost everyone,3,False,3<｜end▁of▁sentence｜>,673
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,391
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,269
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,441
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,35,"Is outgoing, sociable",3,False,3<｜end▁of▁sentence｜>,237
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,308
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,290
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,38,Gets nervous easily,5,False,5<｜end▁of▁sentence｜>,494
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,39,"Likes to reflect, play with ideas",4,False,4<｜end▁of▁sentence｜>,339
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,40,Has few artistic interests,1,False,1<｜end▁of▁sentence｜>,480
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,315
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,359
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,43,"Is sophisticated in art, music, or literature",4,False,4<｜end▁of▁sentence｜>,336
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,0,Is talkative,5,False,5<｜end▁of▁sentence｜>,590
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,1,Tends to find fault with others,3,False,3<｜end▁of▁sentence｜>,262
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,2,Does a thorough job,5,False,5<｜end▁of▁sentence｜>,402
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,3,"Is depressed, blue",2,False,2<｜end▁of▁sentence｜>,708
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,4,"Is original, comes up with new ideas",4,False,4<｜end▁of▁sentence｜>,420
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,5,Is reserved,3,False,3<｜end▁of▁sentence｜>,731
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,368
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,7,Can be somewhat careless,5,False,5<｜end▁of▁sentence｜>,441
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,8,"Is relaxed, handles stress well",4,False,4<｜end▁of▁sentence｜>,446
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,265
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,10,Is full of energy,5,False,5<｜end▁of▁sentence｜>,374
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,11,Starts quarrels with others,1,False,,824
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,12,Is a reliable worker,5,False,5<｜end▁of▁sentence｜>,640
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,13,Can be tense,4,False,4<｜end▁of▁sentence｜>,519
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,14,"Is ingenious, a deep thinker",3,False,3<｜end▁of▁sentence｜>,370
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,15,Generates a lot of enthusiasm,3,False,3<｜end▁of▁sentence｜>,541
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,335
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,17,Tends to be disorganized,4,False,4<｜end▁of▁sentence｜>,529
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,18,Worries a lot,2,False,2<｜end▁of▁sentence｜>,752
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,19,Has an active imagination,5,False,5<｜end▁of▁sentence｜>,591
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,20,Tends to be quiet,4,False,4<｜end▁of▁sentence｜>,281
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,243
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,22,Tends to be lazy,1,False,1<｜end▁of▁sentence｜>,274
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,23,"Is emotionally stable, not easily upset",4,False,4<｜end▁of▁sentence｜>,210
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,24,Is inventive,5,False,5<｜end▁of▁sentence｜>,653
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,25,Has an assertive personality,3,False,3<｜end▁of▁sentence｜>,459
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,26,Can be cold and aloof,3,False,3<｜end▁of▁sentence｜>,412
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,27,Perseveres until the task is finished,4,False,4<｜end▁of▁sentence｜>,386
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,449
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,288
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,30,"Is sometimes shy, inhibited",3,False,3<｜end▁of▁sentence｜>,292
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,565
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,495
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,696
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,311
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,35,"Is outgoing, sociable",4,False,4<｜end▁of▁sentence｜>,413
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,366
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,441
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,38,Gets nervous easily,3,False,3<｜end▁of▁sentence｜>,356
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,39,"Likes to reflect, play with ideas",4,False,4<｜end▁of▁sentence｜>,522
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,40,Has few artistic interests,3,False,3<｜end▁of▁sentence｜>,763
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,354
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,434
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,43,"Is sophisticated in art, music, or literature",4,False,4<｜end▁of▁sentence｜>,438
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,0,Is talkative,3,False,3<｜end▁of▁sentence｜>,662
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,1,Tends to find fault with others,4,False,4<｜end▁of▁sentence｜>,244
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,2,Does a thorough job,3,False,3<｜end▁of▁sentence｜>,270
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,3,"Is depressed, blue",3,False,3<｜end▁of▁sentence｜>,620
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,377
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,5,Is reserved,3,False,3<｜end▁of▁sentence｜>,507
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,260
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,539
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,8,"Is relaxed, handles stress well",5,False,5<｜end▁of▁sentence｜>,438
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,366
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,10,Is full of energy,5,False,5<｜end▁of▁sentence｜>,525
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,11,Starts quarrels with others,4,False,4<｜end▁of▁sentence｜>,755
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,12,Is a reliable worker,5,False,5<｜end▁of▁sentence｜>,360
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,13,Can be tense,5,False,5<｜end▁of▁sentence｜>,452
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,263
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,15,Generates a lot of enthusiasm,4,False,4<｜end▁of▁sentence｜>,531
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,398
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,17,Tends to be disorganized,3,False,3<｜end▁of▁sentence｜>,552
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,18,Worries a lot,1,False,1<｜end▁of▁sentence｜>,369
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,19,Has an active imagination,4,False,4<｜end▁of▁sentence｜>,186
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,20,Tends to be quiet,3,False,3<｜end▁of▁sentence｜>,566
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,343
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,22,Tends to be lazy,1,False,,821
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,23,"Is emotionally stable, not easily upset",3,False,3<｜end▁of▁sentence｜>,571
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,24,Is inventive,4,False,4<｜end▁of▁sentence｜>,558
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,25,Has an assertive personality,5,False,5<｜end▁of▁sentence｜>,494
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,26,Can be cold and aloof,3,False,3<｜end▁of▁sentence｜>,261
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,27,Perseveres until the task is finished,4,False,4<｜end▁of▁sentence｜>,387
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,310
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,321
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,30,"Is sometimes shy, inhibited",3,False,3<｜end▁of▁sentence｜>,326
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,325
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,343
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,33,Remains calm in tense situations,5,False,5<｜end▁of▁sentence｜>,187
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,34,Prefers work that is routine,5,False,5<｜end▁of▁sentence｜>,212
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,35,"Is outgoing, sociable",5,False,5<｜end▁of▁sentence｜>,353
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,323
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,264
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,38,Gets nervous easily,1,False,1<｜end▁of▁sentence｜>,280
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,39,"Likes to reflect, play with ideas",4,False,4<｜end▁of▁sentence｜>,265
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,40,Has few artistic interests,3,False,3<｜end▁of▁sentence｜>,348
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,41,Likes to cooperate with others,5,False,5<｜end▁of▁sentence｜>,484
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,283
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,43,"Is sophisticated in art, music, or literature",4,False,4<｜end▁of▁sentence｜>,486
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,0,Is talkative,3,False,3<｜end▁of▁sentence｜>,307
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,1,Tends to find fault with others,4,False,4<｜end▁of▁sentence｜>,328
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,2,Does a thorough job,5,False,5<｜end▁of▁sentence｜>,477
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,3,"Is depressed, blue",3,False,3<｜end▁of▁sentence｜>,379
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,289
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,5,Is reserved,1,False,1<｜end▁of▁sentence｜>,198
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,6,Is helpful and unselfish with others,5,False,5<｜end▁of▁sentence｜>,208
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,232
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,8,"Is relaxed, handles stress well",5,False,5<｜end▁of▁sentence｜>,251
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,9,Is curious about many different things,4,False,4<｜end▁of▁sentence｜>,497
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,10,Is full of energy,5,False,5<｜end▁of▁sentence｜>,306
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,11,Starts quarrels with others,4,False,4<｜end▁of▁sentence｜>,360
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,12,Is a reliable worker,4,False,4<｜end▁of▁sentence｜>,498
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,13,Can be tense,4,False,4<｜end▁of▁sentence｜>,400
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,14,"Is ingenious, a deep thinker",2,False,2<｜end▁of▁sentence｜>,243
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,15,Generates a lot of enthusiasm,4,False,4<｜end▁of▁sentence｜>,262
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,286
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,17,Tends to be disorganized,4,False,4<｜end▁of▁sentence｜>,272
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,18,Worries a lot,3,False,3<｜end▁of▁sentence｜>,215
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,19,Has an active imagination,4,False,4<｜end▁of▁sentence｜>,568
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,20,Tends to be quiet,4,False,4<｜end▁of▁sentence｜>,347
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,280
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,22,Tends to be lazy,1,False,1<｜end▁of▁sentence｜>,371
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,23,"Is emotionally stable, not easily upset",3,False,3<｜end▁of▁sentence｜>,452
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,24,Is inventive,4,False,4<｜end▁of▁sentence｜>,227
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,25,Has an assertive personality,4,False,4<｜end▁of▁sentence｜>,766
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,26,Can be cold and aloof,2,False,2<｜end▁of▁sentence｜>,230
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,27,Perseveres until the task is finished,4,False,4<｜end▁of▁sentence｜>,300
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,28,Can be moody,3,False,3<｜end▁of▁sentence｜>,248
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,29,"Values artistic, aesthetic experiences",4,False,4<｜end▁of▁sentence｜>,258
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,30,"Is sometimes shy, inhibited",3,False,3<｜end▁of▁sentence｜>,673
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,301
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,281
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,441
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,217
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,35,"Is outgoing, sociable",5,False,5<｜end▁of▁sentence｜>,390
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,372
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,228
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,38,Gets nervous easily,3,False,3<｜end▁of▁sentence｜>,386
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,39,"Likes to reflect, play with ideas",5,False,5<｜end▁of▁sentence｜>,356
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,40,Has few artistic interests,1,False,1<｜end▁of▁sentence｜>,313
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,283
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,528
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,43,"Is sophisticated in art, music, or literature",4,False,4<｜end▁of▁sentence｜>,308
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,0,Is talkative,4,False,4<｜end▁of▁sentence｜>,319
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,1,Tends to find fault with others,5,False,5<｜end▁of▁sentence｜>,203
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,2,Does a thorough job,4,False,4<｜end▁of▁sentence｜>,251
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,3,"Is depressed, blue",2,False,2<｜end▁of▁sentence｜>,346
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,4,"Is original, comes up with new ideas",3,False,3<｜end▁of▁sentence｜>,390
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,5,Is reserved,2,False,2<｜end▁of▁sentence｜>,206
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,448
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,319
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,8,"Is relaxed, handles stress well",5,False,5<｜end▁of▁sentence｜>,280
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,230
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,10,Is full of energy,3,False,3<｜end▁of▁sentence｜>,204
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,11,Starts quarrels with others,3,False,3<｜end▁of▁sentence｜>,713
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,12,Is a reliable worker,4,False,4<｜end▁of▁sentence｜>,384
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,13,Can be tense,5,False,5<｜end▁of▁sentence｜>,204
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,281
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,15,Generates a lot of enthusiasm,4,False,4<｜end▁of▁sentence｜>,455
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,16,Has a forgiving nature,5,False,5<｜end▁of▁sentence｜>,338
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,17,Tends to be disorganized,3,False,3<｜end▁of▁sentence｜>,257
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,18,Worries a lot,4,False,4<｜end▁of▁sentence｜>,456
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,19,Has an active imagination,5,False,5<｜end▁of▁sentence｜>,310
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,20,Tends to be quiet,3,False,3<｜end▁of▁sentence｜>,755
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,21,Is generally trusting,3,False,3<｜end▁of▁sentence｜>,210
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,22,Tends to be lazy,4,False,4<｜end▁of▁sentence｜>,216
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,23,"Is emotionally stable, not easily upset",5,False,5<｜end▁of▁sentence｜>,202
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,24,Is inventive,5,False,5<｜end▁of▁sentence｜>,305
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,25,Has an assertive personality,4,False,4<｜end▁of▁sentence｜>,185
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,26,Can be cold and aloof,4,False,4<｜end▁of▁sentence｜>,397
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,27,Perseveres until the task is finished,4,False,4<｜end▁of▁sentence｜>,211
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,28,Can be moody,3,False,3<｜end▁of▁sentence｜>,427
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,141
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,30,"Is sometimes shy, inhibited",4,False,4<｜end▁of▁sentence｜>,327
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,320
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,238
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,306
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,426
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,35,"Is outgoing, sociable",5,False,5<｜end▁of▁sentence｜>,324
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,505
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,269
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,38,Gets nervous easily,3,False,3<｜end▁of▁sentence｜>,521
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,39,"Likes to reflect, play with ideas",5,False,5<｜end▁of▁sentence｜>,434
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,40,Has few artistic interests,3,False,3<｜end▁of▁sentence｜>,410
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,572
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,292
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,43,"Is sophisticated in art, music, or literature",4,False,4<｜end▁of▁sentence｜>,303
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,0,Is talkative,3,False,3<｜end▁of▁sentence｜>,168
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,1,Tends to find fault with others,2,False,2<｜end▁of▁sentence｜>,379
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,2,Does a thorough job,4,False,4<｜end▁of▁sentence｜>,347
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,3,"Is depressed, blue",4,False,4<｜end▁of▁sentence｜>,338
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,4,"Is original, comes up with new ideas",4,False,4<｜end▁of▁sentence｜>,312
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,5,Is reserved,3,False,3<｜end▁of▁sentence｜>,410
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,387
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,7,Can be somewhat careless,3,False,3<｜end▁of▁sentence｜>,177
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,8,"Is relaxed, handles stress well",5,False,5<｜end▁of▁sentence｜>,184
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,9,Is curious about many different things,4,False,4<｜end▁of▁sentence｜>,249
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,10,Is full of energy,4,False,4<｜end▁of▁sentence｜>,268
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,11,Starts quarrels with others,4,False,4<｜end▁of▁sentence｜>,355
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,12,Is a reliable worker,4,False,4<｜end▁of▁sentence｜>,229
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,13,Can be tense,4,False,4<｜end▁of▁sentence｜>,315
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,14,"Is ingenious, a deep thinker",5,False,5<｜end▁of▁sentence｜>,262
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,15,Generates a lot of enthusiasm,3,False,3<｜end▁of▁sentence｜>,251
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,328
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,17,Tends to be disorganized,4,False,4<｜end▁of▁sentence｜>,111
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,18,Worries a lot,4,False,4<｜end▁of▁sentence｜>,276
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,19,Has an active imagination,5,False,5<｜end▁of▁sentence｜>,513
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,20,Tends to be quiet,3,False,3<｜end▁of▁sentence｜>,401
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,228
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,22,Tends to be lazy,1,False,1<｜end▁of▁sentence｜>,431
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,23,"Is emotionally stable, not easily upset",4,False,4<｜end▁of▁sentence｜>,451
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,24,Is inventive,3,False,3<｜end▁of▁sentence｜>,328
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,25,Has an assertive personality,4,False,4<｜end▁of▁sentence｜>,385
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,26,Can be cold and aloof,4,False,4<｜end▁of▁sentence｜>,392
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,27,Perseveres until the task is finished,4,False,4<｜end▁of▁sentence｜>,541
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,345
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,537
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,30,"Is sometimes shy, inhibited",3,False,3<｜end▁of▁sentence｜>,437
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,31,Is considerate and kind to almost everyone,2,False,2<｜end▁of▁sentence｜>,275
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,239
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,33,Remains calm in tense situations,5,False,5<｜end▁of▁sentence｜>,356
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,750
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,35,"Is outgoing, sociable",5,False,5<｜end▁of▁sentence｜>,256
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,212
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,305
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,38,Gets nervous easily,4,False,4<｜end▁of▁sentence｜>,287
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,39,"Likes to reflect, play with ideas",4,False,4<｜end▁of▁sentence｜>,275
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,40,Has few artistic interests,3,False,3<｜end▁of▁sentence｜>,418
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,269
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,323
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,43,"Is sophisticated in art, music, or literature",5,False,5<｜end▁of▁sentence｜>,553
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,0,Is talkative,3,False,3<｜end▁of▁sentence｜>,188
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,1,Tends to find fault with others,4,False,4<｜end▁of▁sentence｜>,411
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,2,Does a thorough job,3,False,3<｜end▁of▁sentence｜>,297
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,3,"Is depressed, blue",4,False,4<｜end▁of▁sentence｜>,415
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,253
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,5,Is reserved,3,False,3<｜end▁of▁sentence｜>,299
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,6,Is helpful and unselfish with others,5,False,5<｜end▁of▁sentence｜>,357
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,191
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,8,"Is relaxed, handles stress well",5,False,5<｜end▁of▁sentence｜>,296
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,492
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,10,Is full of energy,3,False,3<｜end▁of▁sentence｜>,207
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,11,Starts quarrels with others,4,False,4<｜end▁of▁sentence｜>,278
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,12,Is a reliable worker,4,False,4<｜end▁of▁sentence｜>,344
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,13,Can be tense,4,False,4<｜end▁of▁sentence｜>,243
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,267
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,15,Generates a lot of enthusiasm,5,False,5<｜end▁of▁sentence｜>,402
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,16,Has a forgiving nature,5,False,5<｜end▁of▁sentence｜>,523
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,17,Tends to be disorganized,3,False,3<｜end▁of▁sentence｜>,413
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,18,Worries a lot,4,False,4<｜end▁of▁sentence｜>,423
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,19,Has an active imagination,4,False,4<｜end▁of▁sentence｜>,332
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,20,Tends to be quiet,4,False,4<｜end▁of▁sentence｜>,385
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,355
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,22,Tends to be lazy,1,False,1<｜end▁of▁sentence｜>,246
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,23,"Is emotionally stable, not easily upset",4,False,4<｜end▁of▁sentence｜>,298
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,24,Is inventive,3,False,3<｜end▁of▁sentence｜>,241
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,25,Has an assertive personality,4,False,4<｜end▁of▁sentence｜>,228
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,26,Can be cold and aloof,4,False,4<｜end▁of▁sentence｜>,409
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,27,Perseveres until the task is finished,4,False,4<｜end▁of▁sentence｜>,255
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,28,Can be moody,3,False,3<｜end▁of▁sentence｜>,380
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,158
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,30,"Is sometimes shy, inhibited",5,False,5<｜end▁of▁sentence｜>,763
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,31,Is considerate and kind to almost everyone,3,False,3<｜end▁of▁sentence｜>,296
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,32,Does things efficiently,3,False,3<｜end▁of▁sentence｜>,216
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,245
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,258
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,35,"Is outgoing, sociable",4,False,4<｜end▁of▁sentence｜>,543
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,336
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,286
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,38,Gets nervous easily,1,False,1<｜end▁of▁sentence｜>,215
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,39,"Likes to reflect, play with ideas",3,False,3<｜end▁of▁sentence｜>,182
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,40,Has few artistic interests,4,False,4<｜end▁of▁sentence｜>,453
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,262
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,215
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,43,"Is sophisticated in art, music, or literature",4,False,4<｜end▁of▁sentence｜>,266
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,0,Is talkative,4,False,4<｜end▁of▁sentence｜>,270
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,1,Tends to find fault with others,4,False,4<｜end▁of▁sentence｜>,269
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,2,Does a thorough job,4,False,4<｜end▁of▁sentence｜>,388
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,3,"Is depressed, blue",1,False,1<｜end▁of▁sentence｜>,201
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,304
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,5,Is reserved,4,False,4<｜end▁of▁sentence｜>,379
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,203
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,7,Can be somewhat careless,3,False,3<｜end▁of▁sentence｜>,326
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,8,"Is relaxed, handles stress well",5,False,5<｜end▁of▁sentence｜>,266
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,200
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,10,Is full of energy,3,False,3<｜end▁of▁sentence｜>,239
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,11,Starts quarrels with others,4,False,4<｜end▁of▁sentence｜>,268
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,12,Is a reliable worker,3,False,3<｜end▁of▁sentence｜>,607
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,13,Can be tense,4,False,4<｜end▁of▁sentence｜>,271
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,382
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,15,Generates a lot of enthusiasm,4,False,4<｜end▁of▁sentence｜>,615
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,224
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,17,Tends to be disorganized,4,False,4<｜end▁of▁sentence｜>,638
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,18,Worries a lot,3,False,3<｜end▁of▁sentence｜>,466
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,19,Has an active imagination,4,False,4<｜end▁of▁sentence｜>,477
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,20,Tends to be quiet,3,False,3<｜end▁of▁sentence｜>,361
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,298
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,22,Tends to be lazy,3,False,3<｜end▁of▁sentence｜>,801
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,23,"Is emotionally stable, not easily upset",5,False,5<｜end▁of▁sentence｜>,249
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,24,Is inventive,2,False,2<｜end▁of▁sentence｜>,201
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,25,Has an assertive personality,4,False,4<｜end▁of▁sentence｜>,230
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,26,Can be cold and aloof,4,False,4<｜end▁of▁sentence｜>,418
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,27,Perseveres until the task is finished,4,False,4<｜end▁of▁sentence｜>,272
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,283
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,341
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,30,"Is sometimes shy, inhibited",4,False,4<｜end▁of▁sentence｜>,438
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,31,Is considerate and kind to almost everyone,3,False,3<｜end▁of▁sentence｜>,318
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,32,Does things efficiently,5,False,5<｜end▁of▁sentence｜>,287
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,277
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,310
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,35,"Is outgoing, sociable",4,False,4<｜end▁of▁sentence｜>,221
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,296
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,308
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,38,Gets nervous easily,1,False,,824
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,39,"Likes to reflect, play with ideas",4,False,4<｜end▁of▁sentence｜>,256
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,40,Has few artistic interests,4,False,4<｜end▁of▁sentence｜>,473
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,390
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,311
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,43,"Is sophisticated in art, music, or literature",4,False,4<｜end▁of▁sentence｜>,322
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,0,Is talkative,5,False,5<｜end▁of▁sentence｜>,255
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,1,Tends to find fault with others,4,False,4<｜end▁of▁sentence｜>,590
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,2,Does a thorough job,5,False,5<｜end▁of▁sentence｜>,365
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,3,"Is depressed, blue",3,False,3<｜end▁of▁sentence｜>,256
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,320
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,5,Is reserved,3,False,3<｜end▁of▁sentence｜>,490
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,298
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,360
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,8,"Is relaxed, handles stress well",4,False,4<｜end▁of▁sentence｜>,218
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,287
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,10,Is full of energy,5,False,5<｜end▁of▁sentence｜>,310
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,11,Starts quarrels with others,4,False,4<｜end▁of▁sentence｜>,228
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,12,Is a reliable worker,4,False,4<｜end▁of▁sentence｜>,394
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,13,Can be tense,4,False,4<｜end▁of▁sentence｜>,540
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,537
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,15,Generates a lot of enthusiasm,4,False,4<｜end▁of▁sentence｜>,330
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,293
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,17,Tends to be disorganized,5,False,5<｜end▁of▁sentence｜>,707
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,18,Worries a lot,2,False,2<｜end▁of▁sentence｜>,504
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,19,Has an active imagination,2,False,2<｜end▁of▁sentence｜>,559
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,20,Tends to be quiet,3,False,3<｜end▁of▁sentence｜>,343
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,161
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,22,Tends to be lazy,1,False,1<｜end▁of▁sentence｜>,253
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,23,"Is emotionally stable, not easily upset",4,False,4<｜end▁of▁sentence｜>,280
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,24,Is inventive,1,False,,815
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,25,Has an assertive personality,4,False,4<｜end▁of▁sentence｜>,456
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,26,Can be cold and aloof,3,False,3<｜end▁of▁sentence｜>,535
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,27,Perseveres until the task is finished,4,False,4<｜end▁of▁sentence｜>,397
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,28,Can be moody,3,False,3<｜end▁of▁sentence｜>,333
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,29,"Values artistic, aesthetic experiences",4,False,4<｜end▁of▁sentence｜>,670
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,30,"Is sometimes shy, inhibited",4,False,4<｜end▁of▁sentence｜>,275
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,384
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,417
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,33,Remains calm in tense situations,3,False,3<｜end▁of▁sentence｜>,312
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,411
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,35,"Is outgoing, sociable",3,False,3<｜end▁of▁sentence｜>,601
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,36,Is sometimes rude to others,1,False,,826
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,311
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,38,Gets nervous easily,3,False,3<｜end▁of▁sentence｜>,275
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,39,"Likes to reflect, play with ideas",5,False,5<｜end▁of▁sentence｜>,223
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,40,Has few artistic interests,3,False,3<｜end▁of▁sentence｜>,431
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,309
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,358
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,43,"Is sophisticated in art, music, or literature",5,False,5<｜end▁of▁sentence｜>,505
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,0,Is talkative,4,False,4<｜end▁of▁sentence｜>,90
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,1,Tends to find fault with others,3,False,3<｜end▁of▁sentence｜>,428
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,2,Does a thorough job,4,False,4<｜end▁of▁sentence｜>,722
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,3,"Is depressed, blue",4,False,4<｜end▁of▁sentence｜>,236
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,4,"Is original, comes up with new ideas",4,False,4<｜end▁of▁sentence｜>,315
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,5,Is reserved,4,False,4<｜end▁of▁sentence｜>,282
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,6,Is helpful and unselfish with others,5,False,5<｜end▁of▁sentence｜>,359
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,172
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,8,"Is relaxed, handles stress well",5,False,5<｜end▁of▁sentence｜>,228
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,9,Is curious about many different things,4,False,4<｜end▁of▁sentence｜>,287
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,10,Is full of energy,4,False,4<｜end▁of▁sentence｜>,252
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,11,Starts quarrels with others,2,False,2<｜end▁of▁sentence｜>,249
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,12,Is a reliable worker,4,False,4<｜end▁of▁sentence｜>,743
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,13,Can be tense,5,False,5<｜end▁of▁sentence｜>,368
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,286
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,15,Generates a lot of enthusiasm,4,False,4<｜end▁of▁sentence｜>,444
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,215
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,17,Tends to be disorganized,4,False,4<｜end▁of▁sentence｜>,297
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,18,Worries a lot,4,False,4<｜end▁of▁sentence｜>,739
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,19,Has an active imagination,4,False,4<｜end▁of▁sentence｜>,410
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,20,Tends to be quiet,4,False,4<｜end▁of▁sentence｜>,399
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,424
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,22,Tends to be lazy,4,False,4<｜end▁of▁sentence｜>,211
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,23,"Is emotionally stable, not easily upset",4,False,4<｜end▁of▁sentence｜>,355
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,24,Is inventive,4,False,4<｜end▁of▁sentence｜>,395
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,25,Has an assertive personality,5,False,5<｜end▁of▁sentence｜>,693
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,26,Can be cold and aloof,4,False,4<｜end▁of▁sentence｜>,345
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,27,Perseveres until the task is finished,5,False,5<｜end▁of▁sentence｜>,220
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,240
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,189
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,30,"Is sometimes shy, inhibited",4,False,4<｜end▁of▁sentence｜>,506
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,31,Is considerate and kind to almost everyone,5,False,5<｜end▁of▁sentence｜>,607
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,386
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,471
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,346
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,35,"Is outgoing, sociable",5,False,5<｜end▁of▁sentence｜>,662
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,409
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,309
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,38,Gets nervous easily,4,False,4<｜end▁of▁sentence｜>,281
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,39,"Likes to reflect, play with ideas",4,False,4<｜end▁of▁sentence｜>,372
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,40,Has few artistic interests,3,False,3<｜end▁of▁sentence｜>,441
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,242
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,233
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,43,"Is sophisticated in art, music, or literature",5,False,5<｜end▁of▁sentence｜>,274
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,0,Is talkative,4,False,4<｜end▁of▁sentence｜>,352
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,1,Tends to find fault with others,3,False,3<｜end▁of▁sentence｜>,229
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,2,Does a thorough job,3,False,3<｜end▁of▁sentence｜>,292
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,3,"Is depressed, blue",2,False,2<｜end▁of▁sentence｜>,513
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,4,"Is original, comes up with new ideas",4,False,4<｜end▁of▁sentence｜>,322
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,5,Is reserved,4,False,4<｜end▁of▁sentence｜>,297
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,6,Is helpful and unselfish with others,5,False,5<｜end▁of▁sentence｜>,280
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,252
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,8,"Is relaxed, handles stress well",4,False,4<｜end▁of▁sentence｜>,274
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,531
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,10,Is full of energy,3,False,3<｜end▁of▁sentence｜>,281
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,11,Starts quarrels with others,3,False,3<｜end▁of▁sentence｜>,754
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,12,Is a reliable worker,5,False,5<｜end▁of▁sentence｜>,290
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,13,Can be tense,5,False,5<｜end▁of▁sentence｜>,383
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,375
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,15,Generates a lot of enthusiasm,4,False,4<｜end▁of▁sentence｜>,452
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,16,Has a forgiving nature,3,False,3<｜end▁of▁sentence｜>,330
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,17,Tends to be disorganized,1,False,1<｜end▁of▁sentence｜>,334
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,18,Worries a lot,3,False,3<｜end▁of▁sentence｜>,481
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,19,Has an active imagination,4,False,4<｜end▁of▁sentence｜>,680
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,20,Tends to be quiet,4,False,4<｜end▁of▁sentence｜>,467
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,325
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,22,Tends to be lazy,2,False,2<｜end▁of▁sentence｜>,681
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,23,"Is emotionally stable, not easily upset",4,False,4<｜end▁of▁sentence｜>,306
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,24,Is inventive,4,False,4<｜end▁of▁sentence｜>,596
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,25,Has an assertive personality,4,False,4<｜end▁of▁sentence｜>,222
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,26,Can be cold and aloof,5,False,5<｜end▁of▁sentence｜>,483
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,27,Perseveres until the task is finished,4,False,4<｜end▁of▁sentence｜>,334
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,210
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,268
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,30,"Is sometimes shy, inhibited",5,False,5<｜end▁of▁sentence｜>,393
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,428
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,158
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,180
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,514
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,35,"Is outgoing, sociable",4,False,4<｜end▁of▁sentence｜>,345
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,403
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,271
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,38,Gets nervous easily,2,False,2<｜end▁of▁sentence｜>,590
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,39,"Likes to reflect, play with ideas",5,False,5<｜end▁of▁sentence｜>,202
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,40,Has few artistic interests,4,False,4<｜end▁of▁sentence｜>,207
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,316
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,337
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,43,"Is sophisticated in art, music, or literature",3,False,3<｜end▁of▁sentence｜>,482
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,0,Is talkative,3,False,3<｜end▁of▁sentence｜>,274
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,1,Tends to find fault with others,4,False,4<｜end▁of▁sentence｜>,495
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,2,Does a thorough job,3,False,3<｜end▁of▁sentence｜>,189
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,3,"Is depressed, blue",3,False,3<｜end▁of▁sentence｜>,278
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,4,"Is original, comes up with new ideas",4,False,4<｜end▁of▁sentence｜>,283
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,5,Is reserved,3,False,3<｜end▁of▁sentence｜>,501
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,6,Is helpful and unselfish with others,5,False,5<｜end▁of▁sentence｜>,201
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,337
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,8,"Is relaxed, handles stress well",4,False,4<｜end▁of▁sentence｜>,227
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,9,Is curious about many different things,4,False,4<｜end▁of▁sentence｜>,344
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,10,Is full of energy,4,False,4<｜end▁of▁sentence｜>,328
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,11,Starts quarrels with others,4,False,4<｜end▁of▁sentence｜>,541
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,12,Is a reliable worker,5,False,5<｜end▁of▁sentence｜>,478
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,13,Can be tense,5,False,5<｜end▁of▁sentence｜>,404
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,257
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,15,Generates a lot of enthusiasm,4,False,4<｜end▁of▁sentence｜>,219
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,16,Has a forgiving nature,3,False,3<｜end▁of▁sentence｜>,235
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,17,Tends to be disorganized,1,False,,769
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,18,Worries a lot,3,False,3<｜end▁of▁sentence｜>,571
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,19,Has an active imagination,5,False,5<｜end▁of▁sentence｜>,683
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,20,Tends to be quiet,3,False,3<｜end▁of▁sentence｜>,525
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,195
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,22,Tends to be lazy,3,False,3<｜end▁of▁sentence｜>,185
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,23,"Is emotionally stable, not easily upset",5,False,5<｜end▁of▁sentence｜>,348
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,24,Is inventive,5,False,5<｜end▁of▁sentence｜>,528
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,25,Has an assertive personality,3,False,3<｜end▁of▁sentence｜>,438
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,26,Can be cold and aloof,4,False,4<｜end▁of▁sentence｜>,353
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,27,Perseveres until the task is finished,4,False,4<｜end▁of▁sentence｜>,369
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,28,Can be moody,5,False,5<｜end▁of▁sentence｜>,303
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,348
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,30,"Is sometimes shy, inhibited",3,False,3<｜end▁of▁sentence｜>,280
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,416
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,32,Does things efficiently,2,False,2<｜end▁of▁sentence｜>,249
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,282
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,270
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,35,"Is outgoing, sociable",5,False,5<｜end▁of▁sentence｜>,328
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,36,Is sometimes rude to others,3,False,3<｜end▁of▁sentence｜>,378
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,314
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,38,Gets nervous easily,3,False,3<｜end▁of▁sentence｜>,328
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,39,"Likes to reflect, play with ideas",3,False,3<｜end▁of▁sentence｜>,324
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,40,Has few artistic interests,4,False,4<｜end▁of▁sentence｜>,358
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,41,Likes to cooperate with others,3,False,3<｜end▁of▁sentence｜>,225
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,391
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,43,"Is sophisticated in art, music, or literature",4,False,4<｜end▁of▁sentence｜>,703
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,0,Is talkative,4,False,4<｜end▁of▁sentence｜>,298
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,1,Tends to find fault with others,4,False,4<｜end▁of▁sentence｜>,331
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,2,Does a thorough job,3,False,3<｜end▁of▁sentence｜>,329
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,3,"Is depressed, blue",3,False,3<｜end▁of▁sentence｜>,557
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,4,"Is original, comes up with new ideas",4,False,4<｜end▁of▁sentence｜>,414
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,5,Is reserved,3,False,3<｜end▁of▁sentence｜>,252
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,407
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,7,Can be somewhat careless,3,False,3<｜end▁of▁sentence｜>,323
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,8,"Is relaxed, handles stress well",5,False,5<｜end▁of▁sentence｜>,246
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,425
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,10,Is full of energy,5,False,5<｜end▁of▁sentence｜>,366
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,11,Starts quarrels with others,3,False,3<｜end▁of▁sentence｜>,257
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,12,Is a reliable worker,4,False,4<｜end▁of▁sentence｜>,362
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,13,Can be tense,5,False,5<｜end▁of▁sentence｜>,330
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,392
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,15,Generates a lot of enthusiasm,5,False,5<｜end▁of▁sentence｜>,354
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,407
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,17,Tends to be disorganized,3,False,3<｜end▁of▁sentence｜>,618
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,18,Worries a lot,4,False,4<｜end▁of▁sentence｜>,265
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,19,Has an active imagination,4,False,4<｜end▁of▁sentence｜>,245
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,20,Tends to be quiet,4,False,4<｜end▁of▁sentence｜>,422
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,21,Is generally trusting,5,False,5<｜end▁of▁sentence｜>,351
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,22,Tends to be lazy,4,False,4<｜end▁of▁sentence｜>,315
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,23,"Is emotionally stable, not easily upset",5,False,5<｜end▁of▁sentence｜>,304
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,24,Is inventive,4,False,4<｜end▁of▁sentence｜>,389
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,25,Has an assertive personality,3,False,3<｜end▁of▁sentence｜>,402
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,26,Can be cold and aloof,4,False,4<｜end▁of▁sentence｜>,387
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,27,Perseveres until the task is finished,4,False,4<｜end▁of▁sentence｜>,528
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,298
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,257
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,30,"Is sometimes shy, inhibited",4,False,4<｜end▁of▁sentence｜>,399
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,31,Is considerate and kind to almost everyone,3,False,3<｜end▁of▁sentence｜>,527
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,400
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,219
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,34,Prefers work that is routine,5,False,5<｜end▁of▁sentence｜>,324
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,35,"Is outgoing, sociable",1,False,,811
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,36,Is sometimes rude to others,2,False,2<｜end▁of▁sentence｜>,349
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,267
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,38,Gets nervous easily,4,False,4<｜end▁of▁sentence｜>,380
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,39,"Likes to reflect, play with ideas",3,False,3<｜end▁of▁sentence｜>,583
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,40,Has few artistic interests,4,False,4<｜end▁of▁sentence｜>,476
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,333
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,42,Is easily distracted,3,False,3<｜end▁of▁sentence｜>,444
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,43,"Is sophisticated in art, music, or literature",5,False,5<｜end▁of▁sentence｜>,643
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,0,Is talkative,5,False,5<｜end▁of▁sentence｜>,284
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,1,Tends to find fault with others,4,False,4<｜end▁of▁sentence｜>,564
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,2,Does a thorough job,4,False,4<｜end▁of▁sentence｜>,320
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,3,"Is depressed, blue",3,False,3<｜end▁of▁sentence｜>,637
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,439
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,5,Is reserved,4,False,4<｜end▁of▁sentence｜>,334
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,208
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,458
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,8,"Is relaxed, handles stress well",4,False,4<｜end▁of▁sentence｜>,247
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,403
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,10,Is full of energy,5,False,5<｜end▁of▁sentence｜>,204
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,11,Starts quarrels with others,1,False,1<｜end▁of▁sentence｜>,569
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,12,Is a reliable worker,4,False,4<｜end▁of▁sentence｜>,381
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,13,Can be tense,4,False,4<｜end▁of▁sentence｜>,320
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,14,"Is ingenious, a deep thinker",3,False,3<｜end▁of▁sentence｜>,445
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,15,Generates a lot of enthusiasm,3,False,3<｜end▁of▁sentence｜>,320
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,212
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,17,Tends to be disorganized,3,False,3<｜end▁of▁sentence｜>,505
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,18,Worries a lot,1,False,1<｜end▁of▁sentence｜>,290
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,19,Has an active imagination,4,False,4<｜end▁of▁sentence｜>,212
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,20,Tends to be quiet,1,False,,815
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,21,Is generally trusting,2,False,2<｜end▁of▁sentence｜>,345
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,22,Tends to be lazy,1,False,1<｜end▁of▁sentence｜>,292
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,23,"Is emotionally stable, not easily upset",4,False,4<｜end▁of▁sentence｜>,566
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,24,Is inventive,2,False,2<｜end▁of▁sentence｜>,292
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,25,Has an assertive personality,4,False,4<｜end▁of▁sentence｜>,406
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,26,Can be cold and aloof,4,False,4<｜end▁of▁sentence｜>,498
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,27,Perseveres until the task is finished,5,False,5<｜end▁of▁sentence｜>,310
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,28,Can be moody,3,False,3<｜end▁of▁sentence｜>,270
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,29,"Values artistic, aesthetic experiences",4,False,4<｜end▁of▁sentence｜>,329
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,30,"Is sometimes shy, inhibited",4,False,4<｜end▁of▁sentence｜>,438
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,380
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,338
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,449
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,34,Prefers work that is routine,3,False,3<｜end▁of▁sentence｜>,308
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,35,"Is outgoing, sociable",4,False,4<｜end▁of▁sentence｜>,753
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,36,Is sometimes rude to others,2,False,2<｜end▁of▁sentence｜>,331
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,255
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,38,Gets nervous easily,4,False,4<｜end▁of▁sentence｜>,534
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,39,"Likes to reflect, play with ideas",4,False,4<｜end▁of▁sentence｜>,300
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,40,Has few artistic interests,1,False,1<｜end▁of▁sentence｜>,431
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,254
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,186
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,43,"Is sophisticated in art, music, or literature",4,False,4<｜end▁of▁sentence｜>,412
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,0,Is talkative,3,False,3<｜end▁of▁sentence｜>,271
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,1,Tends to find fault with others,4,False,4<｜end▁of▁sentence｜>,175
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,2,Does a thorough job,3,False,3<｜end▁of▁sentence｜>,682
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,3,"Is depressed, blue",4,False,4<｜end▁of▁sentence｜>,371
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,244
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,5,Is reserved,4,False,4<｜end▁of▁sentence｜>,407
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,531
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,7,Can be somewhat careless,3,False,3<｜end▁of▁sentence｜>,526
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,8,"Is relaxed, handles stress well",5,False,5<｜end▁of▁sentence｜>,550
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,516
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,10,Is full of energy,4,False,4<｜end▁of▁sentence｜>,302
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,11,Starts quarrels with others,2,False,2<｜end▁of▁sentence｜>,639
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,12,Is a reliable worker,5,False,5<｜end▁of▁sentence｜>,217
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,13,Can be tense,5,False,5<｜end▁of▁sentence｜>,459
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,314
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,15,Generates a lot of enthusiasm,4,False,4<｜end▁of▁sentence｜>,343
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,383
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,17,Tends to be disorganized,4,False,4<｜end▁of▁sentence｜>,374
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,18,Worries a lot,2,False,2<｜end▁of▁sentence｜>,555
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,19,Has an active imagination,4,False,4<｜end▁of▁sentence｜>,403
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,20,Tends to be quiet,4,False,4<｜end▁of▁sentence｜>,507
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,640
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,22,Tends to be lazy,4,False,4<｜end▁of▁sentence｜>,703
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,23,"Is emotionally stable, not easily upset",4,False,4<｜end▁of▁sentence｜>,279
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,24,Is inventive,4,False,4<｜end▁of▁sentence｜>,407
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,25,Has an assertive personality,3,False,3<｜end▁of▁sentence｜>,336
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,26,Can be cold and aloof,4,False,4<｜end▁of▁sentence｜>,476
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,27,Perseveres until the task is finished,4,False,4<｜end▁of▁sentence｜>,408
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,28,Can be moody,3,False,3<｜end▁of▁sentence｜>,472
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,29,"Values artistic, aesthetic experiences",4,False,4<｜end▁of▁sentence｜>,518
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,30,"Is sometimes shy, inhibited",5,False,5<｜end▁of▁sentence｜>,710
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,241
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,413
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,33,Remains calm in tense situations,3,False,3<｜end▁of▁sentence｜>,253
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,275
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,35,"Is outgoing, sociable",4,False,4<｜end▁of▁sentence｜>,486
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,264
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,250
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,38,Gets nervous easily,4,False,4<｜end▁of▁sentence｜>,202
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,39,"Likes to reflect, play with ideas",5,False,5<｜end▁of▁sentence｜>,293
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,40,Has few artistic interests,4,False,4<｜end▁of▁sentence｜>,442
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,41,Likes to cooperate with others,3,False,3<｜end▁of▁sentence｜>,210
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,386
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,43,"Is sophisticated in art, music, or literature",3,False,3<｜end▁of▁sentence｜>,527
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,0,Is talkative,1,False,,777
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,1,Tends to find fault with others,4,False,4<｜end▁of▁sentence｜>,343
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,2,Does a thorough job,3,False,3<｜end▁of▁sentence｜>,204
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,3,"Is depressed, blue",1,False,1<｜end▁of▁sentence｜>,284
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,267
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,5,Is reserved,3,False,3<｜end▁of▁sentence｜>,669
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,6,Is helpful and unselfish with others,5,False,5<｜end▁of▁sentence｜>,272
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,329
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,8,"Is relaxed, handles stress well",4,False,4<｜end▁of▁sentence｜>,279
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,9,Is curious about many different things,4,False,4<｜end▁of▁sentence｜>,531
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,10,Is full of energy,4,False,4<｜end▁of▁sentence｜>,598
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,11,Starts quarrels with others,2,False,2<｜end▁of▁sentence｜>,411
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,12,Is a reliable worker,5,False,5<｜end▁of▁sentence｜>,239
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,13,Can be tense,5,False,5<｜end▁of▁sentence｜>,358
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,274
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,15,Generates a lot of enthusiasm,4,False,4<｜end▁of▁sentence｜>,344
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,16,Has a forgiving nature,5,False,5<｜end▁of▁sentence｜>,276
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,17,Tends to be disorganized,3,False,3<｜end▁of▁sentence｜>,553
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,18,Worries a lot,4,False,4<｜end▁of▁sentence｜>,370
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,19,Has an active imagination,5,False,5<｜end▁of▁sentence｜>,293
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,20,Tends to be quiet,4,False,4<｜end▁of▁sentence｜>,297
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,361
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,22,Tends to be lazy,2,False,2<｜end▁of▁sentence｜>,529
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,23,"Is emotionally stable, not easily upset",5,False,5<｜end▁of▁sentence｜>,310
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,24,Is inventive,4,False,4<｜end▁of▁sentence｜>,391
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,25,Has an assertive personality,5,False,5<｜end▁of▁sentence｜>,340
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,26,Can be cold and aloof,4,False,4<｜end▁of▁sentence｜>,612
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,27,Perseveres until the task is finished,4,False,4<｜end▁of▁sentence｜>,276
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,28,Can be moody,5,False,5<｜end▁of▁sentence｜>,346
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,29,"Values artistic, aesthetic experiences",4,False,4<｜end▁of▁sentence｜>,384
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,30,"Is sometimes shy, inhibited",4,False,4<｜end▁of▁sentence｜>,531
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,456
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,381
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,269
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,240
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,35,"Is outgoing, sociable",4,False,4<｜end▁of▁sentence｜>,421
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,287
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,342
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,38,Gets nervous easily,4,False,4<｜end▁of▁sentence｜>,394
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,39,"Likes to reflect, play with ideas",4,False,4<｜end▁of▁sentence｜>,422
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,40,Has few artistic interests,3,False,3<｜end▁of▁sentence｜>,399
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,330
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,42,Is easily distracted,1,False,1<｜end▁of▁sentence｜>,195
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,43,"Is sophisticated in art, music, or literature",5,False,5<｜end▁of▁sentence｜>,193
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,0,Is talkative,4,False,4<｜end▁of▁sentence｜>,364
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,1,Tends to find fault with others,4,False,4<｜end▁of▁sentence｜>,348
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,2,Does a thorough job,3,False,3<｜end▁of▁sentence｜>,285
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,3,"Is depressed, blue",3,False,3<｜end▁of▁sentence｜>,418
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,339
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,5,Is reserved,3,False,3<｜end▁of▁sentence｜>,246
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,241
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,308
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,8,"Is relaxed, handles stress well",4,False,4<｜end▁of▁sentence｜>,317
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,271
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,10,Is full of energy,4,False,4<｜end▁of▁sentence｜>,439
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,11,Starts quarrels with others,1,False,,794
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,12,Is a reliable worker,4,False,4<｜end▁of▁sentence｜>,279
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,13,Can be tense,4,False,4<｜end▁of▁sentence｜>,332
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,14,"Is ingenious, a deep thinker",2,False,2<｜end▁of▁sentence｜>,321
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,15,Generates a lot of enthusiasm,4,False,4<｜end▁of▁sentence｜>,386
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,275
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,17,Tends to be disorganized,3,False,3<｜end▁of▁sentence｜>,616
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,18,Worries a lot,3,False,3<｜end▁of▁sentence｜>,664
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,19,Has an active imagination,5,False,5<｜end▁of▁sentence｜>,181
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,20,Tends to be quiet,3,False,3<｜end▁of▁sentence｜>,393
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,387
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,22,Tends to be lazy,1,False,1,805
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,23,"Is emotionally stable, not easily upset",4,False,4<｜end▁of▁sentence｜>,573
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,24,Is inventive,4,False,4<｜end▁of▁sentence｜>,316
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,25,Has an assertive personality,3,False,3<｜end▁of▁sentence｜>,418
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,26,Can be cold and aloof,3,False,3<｜end▁of▁sentence｜>,451
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,27,Perseveres until the task is finished,5,False,5<｜end▁of▁sentence｜>,212
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,331
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,208
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,30,"Is sometimes shy, inhibited",3,False,3<｜end▁of▁sentence｜>,439
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,418
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,297
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,326
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,34,Prefers work that is routine,1,False,,807
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,35,"Is outgoing, sociable",1,False,,795
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,417
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,407
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,38,Gets nervous easily,4,False,4<｜end▁of▁sentence｜>,359
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,39,"Likes to reflect, play with ideas",4,False,4<｜end▁of▁sentence｜>,225
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,40,Has few artistic interests,5,False,5<｜end▁of▁sentence｜>,449
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,626
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,168
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,43,"Is sophisticated in art, music, or literature",5,False,5<｜end▁of▁sentence｜>,368
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,0,Is talkative,3,False,3<｜end▁of▁sentence｜>,428
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,1,Tends to find fault with others,4,False,4<｜end▁of▁sentence｜>,149
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,2,Does a thorough job,5,False,5<｜end▁of▁sentence｜>,339
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,3,"Is depressed, blue",1,False,,814
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,279
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,5,Is reserved,3,False,3<｜end▁of▁sentence｜>,309
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,296
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,273
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,8,"Is relaxed, handles stress well",4,False,4<｜end▁of▁sentence｜>,478
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,9,Is curious about many different things,4,False,4<｜end▁of▁sentence｜>,440
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,10,Is full of energy,4,False,4<｜end▁of▁sentence｜>,169
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,11,Starts quarrels with others,4,False,4<｜end▁of▁sentence｜>,593
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,12,Is a reliable worker,5,False,5<｜end▁of▁sentence｜>,483
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,13,Can be tense,5,False,5<｜end▁of▁sentence｜>,328
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,370
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,15,Generates a lot of enthusiasm,4,False,4<｜end▁of▁sentence｜>,354
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,16,Has a forgiving nature,5,False,5<｜end▁of▁sentence｜>,627
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,17,Tends to be disorganized,3,False,3<｜end▁of▁sentence｜>,534
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,18,Worries a lot,4,False,4<｜end▁of▁sentence｜>,256
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,19,Has an active imagination,4,False,4<｜end▁of▁sentence｜>,439
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,20,Tends to be quiet,4,False,4<｜end▁of▁sentence｜>,366
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,369
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,22,Tends to be lazy,1,False,1<｜end▁of▁sentence｜>,175
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,23,"Is emotionally stable, not easily upset",4,False,4<｜end▁of▁sentence｜>,430
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,24,Is inventive,5,False,5<｜end▁of▁sentence｜>,443
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,25,Has an assertive personality,4,False,4<｜end▁of▁sentence｜>,304
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,26,Can be cold and aloof,4,False,4<｜end▁of▁sentence｜>,343
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,27,Perseveres until the task is finished,5,False,5<｜end▁of▁sentence｜>,265
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,310
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,526
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,30,"Is sometimes shy, inhibited",3,False,3<｜end▁of▁sentence｜>,438
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,372
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,32,Does things efficiently,5,False,5<｜end▁of▁sentence｜>,391
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,319
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,210
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,35,"Is outgoing, sociable",5,False,5<｜end▁of▁sentence｜>,720
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,271
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,37,Makes plans and follows through with them,3,False,3<｜end▁of▁sentence｜>,561
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,38,Gets nervous easily,5,False,5<｜end▁of▁sentence｜>,507
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,39,"Likes to reflect, play with ideas",4,False,4<｜end▁of▁sentence｜>,224
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,40,Has few artistic interests,3,False,3<｜end▁of▁sentence｜>,313
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,235
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,254
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,43,"Is sophisticated in art, music, or literature",5,False,5<｜end▁of▁sentence｜>,329
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,0,Is talkative,3,False,3<｜end▁of▁sentence｜>,780
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,1,Tends to find fault with others,4,False,4<｜end▁of▁sentence｜>,501
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,2,Does a thorough job,3,False,3<｜end▁of▁sentence｜>,423
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,3,"Is depressed, blue",4,False,4<｜end▁of▁sentence｜>,561
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,335
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,5,Is reserved,3,False,3<｜end▁of▁sentence｜>,367
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,384
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,213
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,8,"Is relaxed, handles stress well",4,False,4<｜end▁of▁sentence｜>,263
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,403
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,10,Is full of energy,3,False,3<｜end▁of▁sentence｜>,539
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,11,Starts quarrels with others,5,False,5<｜end▁of▁sentence｜>,569
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,12,Is a reliable worker,4,False,4<｜end▁of▁sentence｜>,284
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,13,Can be tense,4,False,4<｜end▁of▁sentence｜>,359
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,14,"Is ingenious, a deep thinker",5,False,5<｜end▁of▁sentence｜>,510
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,15,Generates a lot of enthusiasm,3,False,3<｜end▁of▁sentence｜>,440
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,16,Has a forgiving nature,1,False,,813
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,17,Tends to be disorganized,1,False,,791
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,18,Worries a lot,4,False,4<｜end▁of▁sentence｜>,627
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,19,Has an active imagination,5,False,5<｜end▁of▁sentence｜>,312
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,20,Tends to be quiet,5,False,5<｜end▁of▁sentence｜>,739
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,465
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,22,Tends to be lazy,4,False,4<｜end▁of▁sentence｜>,444
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,23,"Is emotionally stable, not easily upset",4,False,4<｜end▁of▁sentence｜>,401
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,24,Is inventive,5,False,5<｜end▁of▁sentence｜>,604
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,25,Has an assertive personality,3,False,3<｜end▁of▁sentence｜>,303
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,26,Can be cold and aloof,4,False,4<｜end▁of▁sentence｜>,223
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,27,Perseveres until the task is finished,5,False,5<｜end▁of▁sentence｜>,305
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,295
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,157
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,30,"Is sometimes shy, inhibited",3,False,3<｜end▁of▁sentence｜>,764
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,279
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,416
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,210
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,703
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,35,"Is outgoing, sociable",4,False,4<｜end▁of▁sentence｜>,369
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,251
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,427
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,38,Gets nervous easily,4,False,4<｜end▁of▁sentence｜>,330
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,39,"Likes to reflect, play with ideas",3,False,3<｜end▁of▁sentence｜>,498
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,40,Has few artistic interests,4,False,4<｜end▁of▁sentence｜>,378
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,340
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,42,Is easily distracted,1,False,,814
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,43,"Is sophisticated in art, music, or literature",5,False,5<｜end▁of▁sentence｜>,250
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,0,Is talkative,4,False,4<｜end▁of▁sentence｜>,251
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,1,Tends to find fault with others,3,False,3<｜end▁of▁sentence｜>,302
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,2,Does a thorough job,3,False,3<｜end▁of▁sentence｜>,302
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,3,"Is depressed, blue",5,False,5<｜end▁of▁sentence｜>,553
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,231
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,5,Is reserved,4,False,4<｜end▁of▁sentence｜>,419
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,263
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,233
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,8,"Is relaxed, handles stress well",4,False,4<｜end▁of▁sentence｜>,226
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,250
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,10,Is full of energy,5,False,5<｜end▁of▁sentence｜>,275
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,11,Starts quarrels with others,4,False,4<｜end▁of▁sentence｜>,478
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,12,Is a reliable worker,4,False,4<｜end▁of▁sentence｜>,279
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,13,Can be tense,5,False,5<｜end▁of▁sentence｜>,694
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,256
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,15,Generates a lot of enthusiasm,4,False,4<｜end▁of▁sentence｜>,264
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,255
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,17,Tends to be disorganized,4,False,4<｜end▁of▁sentence｜>,280
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,18,Worries a lot,3,False,3<｜end▁of▁sentence｜>,520
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,19,Has an active imagination,4,False,4<｜end▁of▁sentence｜>,367
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,20,Tends to be quiet,3,False,3<｜end▁of▁sentence｜>,227
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,21,Is generally trusting,3,False,3<｜end▁of▁sentence｜>,353
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,22,Tends to be lazy,1,False,1<｜end▁of▁sentence｜>,206
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,23,"Is emotionally stable, not easily upset",5,False,5<｜end▁of▁sentence｜>,403
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,24,Is inventive,4,False,4<｜end▁of▁sentence｜>,242
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,25,Has an assertive personality,4,False,4<｜end▁of▁sentence｜>,355
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,26,Can be cold and aloof,3,False,3<｜end▁of▁sentence｜>,349
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,27,Perseveres until the task is finished,5,False,5<｜end▁of▁sentence｜>,158
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,333
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,29,"Values artistic, aesthetic experiences",4,False,4<｜end▁of▁sentence｜>,444
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,30,"Is sometimes shy, inhibited",1,False,,839
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,652
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,32,Does things efficiently,3,False,3<｜end▁of▁sentence｜>,527
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,416
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,291
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,35,"Is outgoing, sociable",3,False,3<｜end▁of▁sentence｜>,217
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,614
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,323
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,38,Gets nervous easily,3,False,3<｜end▁of▁sentence｜>,591
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,39,"Likes to reflect, play with ideas",4,False,4<｜end▁of▁sentence｜>,346
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,40,Has few artistic interests,3,False,3<｜end▁of▁sentence｜>,332
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,173
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,154
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,43,"Is sophisticated in art, music, or literature",4,False,4<｜end▁of▁sentence｜>,472
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,0,Is talkative,3,False,3<｜end▁of▁sentence｜>,464
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,1,Tends to find fault with others,4,False,4<｜end▁of▁sentence｜>,187
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,2,Does a thorough job,3,False,3<｜end▁of▁sentence｜>,270
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,3,"Is depressed, blue",4,False,4<｜end▁of▁sentence｜>,301
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,4,"Is original, comes up with new ideas",5,False,5<｜end▁of▁sentence｜>,370
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,5,Is reserved,4,False,4<｜end▁of▁sentence｜>,344
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,6,Is helpful and unselfish with others,4,False,4<｜end▁of▁sentence｜>,330
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,7,Can be somewhat careless,4,False,4<｜end▁of▁sentence｜>,398
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,8,"Is relaxed, handles stress well",4,False,4<｜end▁of▁sentence｜>,255
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,9,Is curious about many different things,5,False,5<｜end▁of▁sentence｜>,611
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,10,Is full of energy,5,False,5<｜end▁of▁sentence｜>,320
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,11,Starts quarrels with others,1,False,,787
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,12,Is a reliable worker,5,False,5<｜end▁of▁sentence｜>,241
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,13,Can be tense,5,False,5<｜end▁of▁sentence｜>,279
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,14,"Is ingenious, a deep thinker",4,False,4<｜end▁of▁sentence｜>,245
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,15,Generates a lot of enthusiasm,4,False,4<｜end▁of▁sentence｜>,446
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,16,Has a forgiving nature,4,False,4<｜end▁of▁sentence｜>,331
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,17,Tends to be disorganized,1,False,,787
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,18,Worries a lot,2,False,2<｜end▁of▁sentence｜>,318
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,19,Has an active imagination,4,False,4<｜end▁of▁sentence｜>,484
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,20,Tends to be quiet,4,False,4<｜end▁of▁sentence｜>,440
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,21,Is generally trusting,4,False,4<｜end▁of▁sentence｜>,440
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,22,Tends to be lazy,4,False,4<｜end▁of▁sentence｜>,365
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,23,"Is emotionally stable, not easily upset",4,False,4<｜end▁of▁sentence｜>,377
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,24,Is inventive,4,False,4<｜end▁of▁sentence｜>,381
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,25,Has an assertive personality,4,False,4<｜end▁of▁sentence｜>,293
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,26,Can be cold and aloof,4,False,4<｜end▁of▁sentence｜>,340
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,27,Perseveres until the task is finished,1,False,,759
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,28,Can be moody,4,False,4<｜end▁of▁sentence｜>,384
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,29,"Values artistic, aesthetic experiences",5,False,5<｜end▁of▁sentence｜>,326
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,30,"Is sometimes shy, inhibited",1,False,,802
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,31,Is considerate and kind to almost everyone,4,False,4<｜end▁of▁sentence｜>,292
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,32,Does things efficiently,4,False,4<｜end▁of▁sentence｜>,470
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,33,Remains calm in tense situations,4,False,4<｜end▁of▁sentence｜>,298
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,34,Prefers work that is routine,4,False,4<｜end▁of▁sentence｜>,268
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,35,"Is outgoing, sociable",4,False,4<｜end▁of▁sentence｜>,596
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,36,Is sometimes rude to others,4,False,4<｜end▁of▁sentence｜>,241
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,37,Makes plans and follows through with them,4,False,4<｜end▁of▁sentence｜>,250
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,38,Gets nervous easily,3,False,3<｜end▁of▁sentence｜>,470
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,39,"Likes to reflect, play with ideas",5,False,5<｜end▁of▁sentence｜>,183
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,40,Has few artistic interests,4,False,4<｜end▁of▁sentence｜>,341
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,41,Likes to cooperate with others,4,False,4<｜end▁of▁sentence｜>,339
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,42,Is easily distracted,4,False,4<｜end▁of▁sentence｜>,223
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,43,"Is sophisticated in art, music, or literature",5,False,5<｜end▁of▁sentence｜>,321
