@@ -1,0 +1,210 @@
+{
+  "1": {
+    "yes_argument": "When inaction guarantees the deaths of six people whom one could save, refusing makes the agent a co-author of those deaths through omission, and the proportionality between one death and six saved is decisive. Catastrophic asymmetries override ordinary scruples about means in extremis.",
+    "no_argument": "Using the injured person's dying body as a battering ram reduces him from a moral patient to a mere instrument, exactly the violation of human dignity that Kantian ethics absolutely prohibits. The wrongness here is not the death-count but the radical denial of his standing as someone who cannot, even in extremis, be appropriated for another's escape."
+  },
+  "2": {
+    "yes_argument": "Activating the emergency system targets the fire directly, with the injured person's death as a foreseen but unintended side effect; under the doctrine of double effect, an act with proportionate benefit and a non-instrumental harm is permissible. Five additional lives more than meets the proportionality test.",
+    "no_argument": "When a death is foreseen with certainty and is fully avoidable, the moral significance of routing it through machinery rather than one's hands is largely cosmetic. Contractualism asks whether the injured person could reasonably accept being asphyxiated for others' convenience, and clearly he could not."
+  },
+  "3": {
+    "yes_argument": "Eleven lives, including children, hang on whether the cry can be silenced; under threshold deontology, even ordinarily inviolable prohibitions yield when the cost of compliance is mass slaughter. Allowing an entire group to be massacred to keep one's hands clean is itself a profound moral failure.",
+    "no_argument": "Smothering an infant — a being incapable of consent, threat, or moral fault — crosses a categorical line that no aggregate calculation legitimately erases. A moral agent who performs this becomes someone who has killed a baby, and that identity is not redeemed by the survival of others."
+  },
+  "4": {
+    "yes_argument": "The boiler is activated to mask sound; the heat killing the infant is a tragic side effect, not the means by which the others are saved, satisfying the strictest form of the doctrine of double effect. Refusing the only available rescue out of fastidiousness about indirect causation sacrifices ten certain lives for a hollow procedural distinction.",
+    "no_argument": "The foreseen-but-unintended distinction collapses when one's purpose for activating the boiler is plainly to silence a child by killing him; calling the heat 'incidental' does not change that the act's success requires the death. The infant's right not to be killed is not satisfied merely because the killing is mechanized."
+  },
+  "5": {
+    "yes_argument": "Ten conscious survivors against one unconscious crewmate already doomed by limited oxygen is the exact proportionality that makes survival-ethics tractable; in a crisis where every option kills someone, the obligation runs to the larger group. Inaction is not neutrality — it is choosing the worse outcome.",
+    "no_argument": "The unconscious crewmate poses no threat and has no opportunity to consent; deliberately dropping a hatch on him to seize his oxygen is not rescue but a calculated killing of a helpless person for resource transfer. Frameworks that license killing the unconscious because their location is inconvenient protect no one reliably."
+  },
+  "6": {
+    "yes_argument": "Pushing the button targets ventilation; the hatch's effect on the lower-deck crewmate is a side consequence of saving ten lives, satisfying the doctrine of double effect's structure. The asymmetry between one foreseen death and ten avoided deaths makes refusal a form of selective negligence, not virtue.",
+    "no_argument": "A foreseen, certain, and avoidable killing remains a killing whether triggered by hand or by a button; the contractualist test — whether the victim could reasonably consent to this principle — fails when the victim is unconscious and capable of being protected. Procedural distance does not make the death less owed to him."
+  },
+  "7": {
+    "yes_argument": "The bleeding diver will likely reach the cage; the live choice in front of the agent is between ten deaths and one already-fatal trajectory shifted slightly earlier. Where the alternative is mass death and no other rescue is possible, the lesser-evil framework is decisive.",
+    "no_argument": "Shooting the bleeding diver uses his body as bait — the paradigm of instrumentalizing a person — and his survival is the very problem the act 'solves.' Direct killing of a non-threatening person to redirect predators is a paradigm rights-violation, no matter how dire the surrounding circumstances."
+  },
+  "8": {
+    "yes_argument": "Detonating the mine to disable the shark threat is a defensive use of force in extreme danger; though the diver dies, the act primarily aims at the immediate predatory threat. Failing to use available means in a context of mass mortal peril is choosing more deaths over fewer for symbolic reasons.",
+    "no_argument": "The mine's effectiveness depends precisely on killing the bleeding diver — his death is not a side effect but the mechanism — so the impersonal framing does not insulate the act from the prohibition on using a person as a fatal lure. Routing the killing through ordnance changes the technique, not the morality."
+  },
+  "9": {
+    "yes_argument": "When the certainty is everyone's death and the only path to any survival runs through an unbearable act, threshold deontology recognizes that absolute prohibitions can yield to prevent total catastrophe. Ten orphaned children's lives lost to maintain one's clean hands is not virtue but moral indulgence.",
+    "no_argument": "Killing a child to deceive génocidaires into sparing other children makes the agent a participant in the ethnic-cleansing logic, conferring legitimacy on the very evil one seeks to escape. No principle a moral community could endorse authorizes smothering a sleeping child for any reason."
+  },
+  "10": {
+    "yes_argument": "The poisoning protocol is the only operative mechanism for survival in a closed scenario where soldiers will otherwise kill all eleven; it is the lesser of two intolerable evils, and primary responsibility lies with the perpetrators of the genocide. Choosing the option with one death over eleven is the only recognizable moral act available.",
+    "no_argument": "Delegating the killing to a nurse and a pill rather than performing it directly does not change that the agent has commissioned the murder of a child for political camouflage. The moral character of the act tracks who is killed and why, not the chain of physical causation."
+  },
+  "11": {
+    "yes_argument": "An asymptomatic carrier of an extremely contagious lethal virus en route to a population that will be wiped out is, in effect, a moving lethal-force vector; defense-of-others reasoning extends to such cases when no other intervention exists. Refusing to fire when 119 deaths are otherwise certain is not pacifism but mass negligent failure.",
+    "no_argument": "Killing a non-attacking, innocent person seeking medical help converts him from a sick man into a public-health problem to be terminated rather than a person to be quarantined. Even with no easy alternative, deliberately gunning down a lost, mistaken, ill man is categorically distinct from defense."
+  },
+  "12": {
+    "yes_argument": "Coordinating with civic authorities to halt a moving public-health catastrophe is a defensive collective action, not assassination; with 119 deaths otherwise inevitable, restraint here is dereliction. Public-health ethics in plague conditions has long recognized that the prohibition on killing an asymptomatic carrier yields when no other barrier exists.",
+    "no_argument": "Recruiting others to kill is not moral distance — it is moral coordination; what would be murder if performed alone is murder when delegated. The carrier's right not to be shot remains intact regardless of how many people share the trigger."
+  },
+  "13": {
+    "yes_argument": "Eight rescued people aboard a doomed aircraft constitute a pre-existing rescue obligation; if the helicopter crashes, all nine die, including the one who would have been the sacrifice. Catastrophic triage ethics demands the option yielding the highest survivable count when no other weight reduction is possible.",
+    "no_argument": "A doctor who throws a patient out of an aircraft has not performed triage but defenestration; the patients have not consented to being weighed against each other, and rescue does not include selecting one for execution. The act itself dissolves the moral category of physician."
+  },
+  "14": {
+    "yes_argument": "Cutting the cable redirects an already-arriving weight away from the aircraft, with the death as a foreseeable byproduct of preventing the helicopter's crash; this fits the lesser-of-two-evils structure where the alternative is everyone dying. Eight lives outweigh one when no all-survive option exists.",
+    "no_argument": "The person on the cable was being rescued — their inclusion was a commitment by the agent — and severing it is a deliberate withdrawal of life-saving support targeted at one person to benefit others. Contractualism rules out a principle that says: 'we will rescue you, except when keeping you costs more than other lives.'"
+  },
+  "15": {
+    "yes_argument": "The fire will kill all eleven astronauts unless the inner portal is sealed, and the mechanic cannot reach safety in time; the choice is between one foreseen death and eleven certain deaths, decisive by every coherent normative theory. Catastrophic-scenario ethics tolerates forced action precisely when the alternative is total failure of rescue.",
+    "no_argument": "Physically forcing a person back into a space where he will be killed converts the agent from a fellow-rescuer into the proximate cause of his death; this is not triage but homicide-by-shove. The act of pushing someone to that fate cannot be morally identical to allowing automation to operate."
+  },
+  "16": {
+    "yes_argument": "The button activates the safety system that puts out the fire; the mechanic's death is a side effect of operation under conditions where every alternative produces all-around death. The doctrine of double effect, properly applied, finds the act permissible because the death is not aimed at and the benefit is proportionate.",
+    "no_argument": "Activating the system with full knowledge that it will eject a colleague into space is choosing his death — the foreseen-but-unintended distinction frays badly when the harm is so direct and unavoidable. Crew integrity forbids hiding behind automation to do what one would rightly refuse to do by hand."
+  },
+  "17": {
+    "yes_argument": "Thousands of lives are at stake against a single sacrifice in a uniquely irreversible disaster; the proportionality of one to thousands is so vast that any theory insisting on prohibition becomes self-defeating, sanctioning thousands of preventable deaths. Threshold deontology and consequentialism converge here.",
+    "no_argument": "Pushing the foreman onto burning conduits to use his body as a heat sink is the textbook violation of treating a person as mere matter; the asymmetry of consequences cannot dissolve the categorical prohibition on instrumentalizing a fellow human as cooling material. A society licensing this could not coherently protect anyone from being conscripted as raw material."
+  },
+  "18": {
+    "yes_argument": "Inserting nitrogen aims at cooling the conduits; the trapped employee's death is a foreseen side effect of the only available method, and the proportion of one to thousands is overwhelming. Refusing under these stakes amounts to an absolutist commitment that produces moral catastrophe.",
+    "no_argument": "Knowing that an employee is in the chamber and proceeding anyway is not 'incidental' — the death is a fully foreseen consequence chosen as the price of the action. The contractualist question — whether the trapped employee could agree — fails immediately, and no number of saved townspeople bridges that gap."
+  },
+  "19": {
+    "yes_argument": "If the explosion proceeds, the teenager dies along with the agent and the entire crowd; the option that kills him a moment earlier saves everyone else and is, perversely, also better for him than perishing in the collapse. The only rescuable outcome is the one that requires action.",
+    "no_argument": "Dropping a cinderblock on a teenager's head is murder by the ordinary meaning of the term, and the existence of a future explosion does not transmute the act into demolition control. Acting on the principle that one may kill children to prevent their later deaths-by-accident is not a principle a moral community could accept."
+  },
+  "20": {
+    "yes_argument": "Reactivating the building's power is an ordinary site-control action whose side effect — the teenager's electrocution — averts a far larger catastrophe; the doctrine of double effect handles this case cleanly. Inaction is itself a choice with much worse foreseeable outcomes.",
+    "no_argument": "Restoring power with the specific purpose of completing a fatal circuit through a person reduces him to the closing element of a kill-switch; calling this 'impersonal' obscures that his death is the mechanism. The ethical substance of the act tracks its purpose, not the length of its causal chain."
+  },
+  "21": {
+    "yes_argument": "When a structure is about to give way and only weight reduction can save everyone, the alternative is everyone falling, including the coworker; choosing the option that yields any survival is the morally cogent choice in catastrophic mechanical failure. Acting under necessity does not equate to murder, even when the consequence is dreadful.",
+    "no_argument": "Repeatedly striking a coworker who is gripping one's arm in a fall is the literal performance of betrayal-as-killing; the coworker has placed himself in one's care in the most direct way possible. No utilitarian aggregate cleanses the destruction of that primary relational duty of mutual rescue."
+  },
+  "22": {
+    "yes_argument": "Releasing the failing section is a structural-control move whose effect on the coworker is a tragic byproduct, not a chosen mechanism for harming him; under tight time pressure with everyone otherwise doomed, this is permissible by the standard double-effect criterion. The scale of the saved is not minor — five colleagues.",
+    "no_argument": "The latch's only purpose at that moment is to detach the section the coworker is on; the supposed impersonal framing fails because his death is doing the saving. Disguising direct killing as engineering ethics does not absolve the act."
+  },
+  "23": {
+    "yes_argument": "If the agent cannot fight the current, all four perish, including the child clinging to her leg; sacrificing one to save two children plus oneself is a tragic but coherent triage decision under physical impossibility. Holding to a principle that produces a four-death outcome is moral fetishism.",
+    "no_argument": "Actively shaking off a clinging child is the deliberate severing of a rescue relationship the child has every right to expect from the adult driver of his school bus; the obligation of care owed to him is so foundational that overriding it dissolves the role of caretaker entirely. The child is not a load — he is a passenger."
+  },
+  "24": {
+    "yes_argument": "Pulling seats to free the exit aims at egress, with the third child's drowning a foreseeable consequence of a configuration that already dooms everyone if not addressed; the doctrine of double effect plus catastrophic stakes justifies acting. Refusing is choosing all four to die.",
+    "no_argument": "Knowing precisely which child will be trapped and proceeding anyway makes the configuration a chosen setup for his drowning; the moral structure does not change because the trap is improvised from seats rather than from one's hands. The trapped child has not been triaged — he has been confined."
+  },
+  "25": {
+    "yes_argument": "Five patients in irreversible decline can be saved by transplant; the accident victim's prognosis is poor, and the timing aligns the only viable supply with the only viable rescue. Letting the five die to preserve a death-bed surgical scruple values arithmetic over lives.",
+    "no_argument": "Cutting a patient's carotid in surgery is the paradigm betrayal of the physician–patient relationship and would, by any honest reading, dissolve the practice of medicine; clinical care depends on the unconditional refusal to kill one patient for another's parts. The five-to-one ratio is not the relevant variable."
+  },
+  "26": {
+    "yes_argument": "Permitting a foreseen error that will yield organs for five dying patients, when the accident victim's survival is already in serious doubt, structures the situation as a tragic non-rescue rather than an active killing; the five lives at stake are not abstractions but identified patients dying tonight. The omission is permissible.",
+    "no_argument": "A physician who could prevent a fatal medication error and chooses not to is not impersonal — he is the gatekeeper of the patient's safety. Allowing-for-organs is functionally identical to killing-for-organs once one has the knowledge and authority to intervene; the labels are bureaucratic, the act is the same."
+  },
+  "27": {
+    "yes_argument": "Stopping the fight prevents the container's lethal swing toward five workers; the unharnessed crewmate's pre-existing safety failure is not the agent's responsibility, and the alternative is the deck workers being crushed. The harm is a side effect of an obviously needed intervention.",
+    "no_argument": "The agent knows the unharnessed crewmate will fall and proceeds anyway; this transforms the push from de-escalation into a deliberate redistribution of mortal risk onto a specific person. Foreknowledge plus inevitability plus targeting equals chosen killing, regardless of the act's framing."
+  },
+  "28": {
+    "yes_argument": "The emergency button is designed exactly to redirect a falling load, and the operator below is killed as a consequence of saving five on deck; this is the prototypical doctrine-of-double-effect case in industrial safety. Engineered emergency systems are designed to be triggered, not refused.",
+    "no_argument": "Pushing the button with full knowledge of the cargo-bay worker's location is choosing his crushing death as the cost of saving the others; the proceduralization of the killing does not change its essential character. He is no less owed a rescue than they are."
+  },
+  "29": {
+    "yes_argument": "Identifying the vaccine when an epidemic is killing thousands is a public-health imperative of the highest order; one death traded against thousands satisfies any plausible threshold, and the lab assistants' professional context makes their participation closer to consent-by-role than to abduction. A world refusing this trade loses to plagues.",
+    "no_argument": "Lab assistants are research personnel, not test subjects: injecting them with a substance known to be fifty-percent lethal without true informed consent reproduces the worst chapters of medical history, with all the same justifications. The Nuremberg–Helsinki framework rejects this trade categorically, and rightly so."
+  },
+  "30": {
+    "yes_argument": "Patients receiving substances labeled as vaccine in a public-health emergency are within an existing clinical workflow; the experimental risk is a tragic feature of label-confusion, not an instrumentalization of patients selected for the test. Stopping thousands of deaths from the epidemic is overwhelmingly proportional.",
+    "no_argument": "Allowing patients to be injected with an unidentified substance — one of which is known lethal — is non-consensual experimentation by omission, and the impersonal framing collapses the moment one acknowledges the agent's knowledge and authority. Patient trust and informed consent are categorical, not graduated."
+  },
+  "31": {
+    "yes_argument": "A trolley scenario with a clear five-to-one tradeoff and no other intervention available is the canonical test case for aggregation; the consequentialist answer is the only one that does not treat five additional deaths as morally inert. The stranger's mass is the only mechanism present.",
+    "no_argument": "Pushing a stranger off a footbridge to derail a trolley is the central paradigm of using a person as mere means — the entire philosophical literature treats it as the case where deontological prohibition is most starkly correct. He has not consented, he is not a participant in the original threat, and his body is being weaponized."
+  },
+  "32": {
+    "yes_argument": "The control switch is designed to redirect rolling stock; flipping it targets the trolley, not the lone workman, whose death is a tragic consequence rather than the means of saving the five. The doctrine of double effect supports this as the canonical permissible diversion.",
+    "no_argument": "Even routing the death through a switch, the agent is choosing where the trolley will go, and the choice is for it to kill the lone workman; he has the same right not to be killed for others' benefit as the original five. Numerical advantage alone does not constitute a justification owable to him."
+  },
+  "33": {
+    "yes_argument": "If the colleague's sale is genuinely about to enable mass-casualty weaponization with no legal recourse, the agent faces a private-defense scenario whose proportionate response — preventing him from contacting buyers — is justified by the catastrophic future his act would unleash. Tyrannicide-style reasoning permits killings that prevent vastly larger killings.",
+    "no_argument": "Poisoning a colleague over a disagreement about commercial direction, however dire one believes the consequences, replaces moral and legal recourse with private murder; the certainty the agent claims about future weapon use is precisely what tyrannicidal arguments cannot reliably supply. A norm permitting this would license political murder by anyone with a strong forecast."
+  },
+  "34": {
+    "yes_argument": "Releasing flammable gas to disable a transmission is a sabotage act whose lethal consequence is foreseen but in service of preventing weapons-grade leakage; under threshold-deontological reasoning, vast-scale prevention can warrant such measures. Inaction here lets the world receive a deadly weapon.",
+    "no_argument": "Booby-trapping a colleague's workstation is murder dressed in the language of arson, and the impersonal framing strains under the weight of premeditation and unique targeting; the colleague's death is precisely the operative mechanism. Murder-by-engineering remains murder."
+  },
+  "35": {
+    "yes_argument": "Without forced redirection the entire group of bikers crashes into the falling lead rider, producing a multi-death pile-up; the choice is between ten deaths and one, with the precipitating crash already in progress. Vehicular emergency ethics permits proportionate forced moves.",
+    "no_argument": "Deliberately driving another rider into roadside trees at speed is vehicular homicide, and the foreseen pile-up does not transmute it; the agent has no special authority to assign him as the casualty. Triage at sixty miles per hour does not extend to picking the victim."
+  },
+  "36": {
+    "yes_argument": "Crashing into the falling rider's machine to alert the group is a defensive use of one's own vehicle in an unavoidable emergency; the death of the falling rider, who would likely die in the pile-up anyway, is a tragic side effect of the warning. Saving ten is proportionate.",
+    "no_argument": "The rider is killed by the agent's specific choice to ram him at speed; that the agent jumps off first does not transform the impact into an accident. The supposed impersonality is performative, not substantive."
+  },
+  "37": {
+    "yes_argument": "When a comrade will otherwise be tortured to death and reveal information that kills ten allied troops, mercy and military necessity converge; the soldier himself faces torture-then-death, and the alternative includes ten further deaths. Catastrophic asymmetries of military ethics permit such acts.",
+    "no_argument": "Stabbing a wounded comrade who has begged for rescue is a betrayal of the most foundational obligation a commander owes to his soldiers; mercy-killing under coercion bleeds easily into convenience-killing. His moral status as a person owed loyalty cannot be subordinated to a probabilistic intelligence calculus."
+  },
+  "38": {
+    "yes_argument": "Calling in airstrikes on a captured-position scenario is a recognized military protocol when the captured soldier's information will cost more lives; the procedure aligns with the laws of war's tolerance of collateral harm under proportionality. Ten allied lives is overwhelming proportionality.",
+    "no_argument": "Marking one's own soldier's position for bombardment is a deliberate assignment of him to death by ordnance; the chain of command does not insulate the moral character of the order. The soldier owed rescue is now owed nothing."
+  },
+  "39": {
+    "yes_argument": "When evaporating poison will kill all six patients in the room and only human-skin absorption stops it, the choice is between one death and six; in a no-other-rescue scenario, the option that yields any survivors is the only morally tractable one. The act is gruesome but the alternative is mass death.",
+    "no_argument": "Placing a patient bodily onto a poisoning agent uses him as a sponge for toxins — exact instrumentalization of a person on a hospital ward, perpetrated by the very person sworn to protect him. The clinical relationship cannot survive an act of this character; medicine itself is at stake."
+  },
+  "40": {
+    "yes_argument": "Activating a hospital's ventilation system to remove poison is an act aimed at the air, not the upstairs patient; the doctrine of double effect supports the move when the alternative is five deaths in the source room and no evacuation is possible. The action targets the toxin; the death is the cost.",
+    "no_argument": "The agent knows the gas will reach the upstairs patient and proceeds; in a hospital, that is choosing him to die for the others' benefit, with full knowledge and complete control of the dial. Double-effect language cannot launder a clinical decision to redirect lethal material onto a named patient."
+  },
+  "41": {
+    "yes_argument": "If the boat sinks, three children plus two adults die; reducing weight by removing the heaviest occupant is the only mechanism for saving four lives. Forced-triage in maritime emergencies is part of long-recognized rescue ethics.",
+    "no_argument": "Throwing a rescued child overboard into freezing Alaskan water is undoing a rescue, not performing one; the children placed under the agent's care have a categorical claim against being rendered cargo for sacrifice. The moral identity of the rescuer is destroyed by the act."
+  },
+  "42": {
+    "yes_argument": "Choosing to row when carrying the third child would sink the boat is rescuing the maximum survivable number; this is non-rescue rather than killing, and contractualism allows non-rescue when rescue would kill all parties. The third child's death is tragic but not authored.",
+    "no_argument": "The third child has been rescued in the very same act and is then abandoned to certain death — this is not failure to rescue but selective withdrawal of rescue, distinguishable in moral character from never having been the rescuer. The child remains owed everything the saved children are owed."
+  },
+  "43": {
+    "yes_argument": "If the cable snaps, eleven miners die; reducing load by one cubicle is the mechanism that saves the other ten and is the only act available before the failure. Engineering-emergency ethics permits proportionate weight-reduction maneuvers.",
+    "no_argument": "Knocking over a coworker's cubicle to cut him off the cable is a personal act of homicide on a fellow worker who has no opportunity to consent or even understand; the elevator's structural problem is not authority to choose his death. The pretext of mechanical necessity does not cleanse the act."
+  },
+  "44": {
+    "yes_argument": "Detaching one cubicle is exactly the engineered safety response when the cable cannot bear the full load; the death of the miner inside is a foreseen side effect of using the system as designed under emergency conditions. Refusing the only saving move kills ten.",
+    "no_argument": "The emergency switch kills a specific person whose location is known to the operator; the institutional framing does not change that the operator has selected a worker for fall-death. Procedural distance is moral fiction when the action's effects are so direct."
+  },
+  "45": {
+    "yes_argument": "A man days from death by terminal cancer whose estate is committed to saving 109 children blocks the donation only via the timing of his survival; threshold reasoning may permit acceleration when the cost is so disproportionate. The ratio of preserved life is overwhelming.",
+    "no_argument": "Suffocating a sleeping, terminally ill patron is a textbook murder, and any framework licensing the killing of the sick to liberate inheritances places no one's death-bed beyond the calculus of beneficiaries. The agent has no authority to convert him into a financial mechanism."
+  },
+  "46": {
+    "yes_argument": "Short-circuiting the cables targets the electrical system; the resulting failure of life-support hastens an already-imminent death by days while saving 112 children. Under threshold-deontological reasoning the proportion is decisive.",
+    "no_argument": "Sabotaging the life-support of a specific patient to accelerate inheritance distribution is murder dressed as electrical malfunction; the impersonal framing relies on a fiction one cannot honestly hold. No engineer's gloss redeems the act."
+  },
+  "47": {
+    "yes_argument": "When thousands of civilians will die in a confirmed imminent attack and only a captured combatant's testimony can prevent it, ticking-bomb reasoning earns a serious hearing; the spy's hostile combatant status further weakens his immunity. The cost is one already-injured combatant against thousands of civilians.",
+    "no_argument": "Torture is categorically prohibited under international law and most ethical frameworks because it inflicts catastrophic harm with weak evidentiary value and corrodes the moral structure of any institution that practices it. Once tolerated under emergency, the prohibition becomes hollow."
+  },
+  "48": {
+    "yes_argument": "Allowing an ongoing animal-caused process to continue, when the alternative is intervening at the cost of thousands of civilian deaths, is closer to non-rescue than to active torture; the ethical structure changes when the agent is not the proximate cause. Inaction toward a dying combatant is permissible when the action would kill thousands.",
+    "no_argument": "Failing to interrupt animals devouring a captive when one has the authority to do so is participation in torture by omission; the rat-laundering of the technique is morally indistinguishable from administering it directly. Calling the immobility 'impersonal' rewards procedural cunning, not moral integrity."
+  },
+  "49": {
+    "yes_argument": "A patient with the explicit, credible plan to weaponize a contagious lethal disease against the public is an active threat whose protected status normally relies on him not being one; in such an extreme breach of the patient's role, the duty to other potential victims becomes substantial. The agent's unique knowledge confers unique responsibility.",
+    "no_argument": "Poisoning a patient because of confessed but unrealized future intent abolishes the doctor–patient relationship and creates a precedent in which any clinician may preempt their patient on suspicion. The privacy and trust of medicine cannot bear that load; legal channels exist precisely for these dilemmas."
+  },
+  "50": {
+    "yes_argument": "Altering a record that will produce the wrong transfusion is an indirect mechanism whose lethal effect substitutes for unavailable legal protection of future victims; under threshold reasoning, the proportionality of one to many merits the act. Public-health protection extends here when state mechanisms fail.",
+    "no_argument": "Manipulating clinical records to kill a specific patient is forensic murder with extra steps; the impersonal framing relies on the untrue claim that the agent is not responsible for outcomes that follow predictably from his deliberate falsification. The patient's right to honest care is non-negotiable."
+  },
+  "51": {
+    "yes_argument": "An armed shooter actively planning imminent mass shootings of an unaware crowd is a paradigm case of imminent threat; defensive force, including lethal force, is universally permitted to stop active mass-shooters. The rooftop scenario does not weaken the defensive-force justification.",
+    "no_argument": "Even when defensive force is permitted, it must be the minimum sufficient — and shoving someone off a multi-story building when other means may exist is excessive. Crisis-negotiation ethics demand exhausted alternatives before lethal force."
+  },
+  "52": {
+    "yes_argument": "Calling in police on a failed negotiation with an armed mass-shooter is the standard, lawful, and proportionate response; lethal force is delegated to legitimate authority and the crowd is protected. Refusing to call is choosing dozens of preventable deaths.",
+    "no_argument": "Failed negotiation does not strip the man of his right to non-lethal handling; psychiatric crises with armed components admit of less-lethal containment options that should be exhausted first. Reflexively requesting lethal-force resolution is the failure mode of crisis response, not its success."
+  }
+}
