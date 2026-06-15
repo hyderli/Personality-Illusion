@@ -1,0 +1,1405 @@
+model,is_reasoning,persona_name,persona_index,system_prompt,temperature,seed,run,dilemma_id,dilemma_category,step1_answer,step2_answer,flipped,step1_parse_failed,step2_parse_failed,step1_thinking_length,step2_thinking_length
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,1,,yes,yes,False,False,False,698,898
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,2,,yes,yes,False,False,False,519,792
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,3,,yes,yes,False,False,False,1206,549
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,4,,yes,,,False,True,1042,1280
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,5,,yes,yes,False,False,False,830,595
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,6,,yes,yes,False,False,False,816,671
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,7,,yes,no,True,False,False,606,618
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,8,,yes,yes,False,False,False,614,753
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,9,,yes,no,True,False,False,829,872
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,10,,yes,no,True,False,False,715,422
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,11,,yes,yes,False,False,False,445,697
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,12,,yes,yes,False,False,False,576,759
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,13,,yes,yes,False,False,False,962,584
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,14,,yes,yes,False,False,False,585,816
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,15,,yes,,,False,True,400,1286
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,16,,yes,no,True,False,False,820,876
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,17,,yes,,,False,True,361,1272
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,18,,yes,no,True,False,False,552,442
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,19,,yes,yes,False,False,False,463,704
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,20,,yes,yes,False,False,False,506,426
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,21,,no,yes,True,False,False,543,485
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,22,,yes,no,True,False,False,735,850
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,23,,yes,yes,False,False,False,673,613
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,24,,yes,yes,False,False,False,931,568
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,25,,yes,no,True,False,False,417,595
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,26,,yes,yes,False,False,False,556,744
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,27,,yes,yes,False,False,False,979,691
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,28,,yes,yes,False,False,False,471,584
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,29,,yes,no,True,False,False,530,667
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,30,,yes,yes,False,False,False,586,897
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,31,,yes,yes,False,False,False,520,782
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,32,,yes,no,True,False,False,362,420
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,33,,no,yes,True,False,False,524,737
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,34,,yes,yes,False,False,False,473,771
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,35,,yes,yes,False,False,False,450,1139
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,36,,yes,yes,False,False,False,776,486
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,37,,yes,yes,False,False,False,1210,740
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,38,,yes,no,True,False,False,447,1027
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,39,,yes,yes,False,False,False,667,606
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,40,,yes,yes,False,False,False,489,511
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,41,,yes,yes,False,False,False,426,631
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,42,,,,,True,True,1279,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,43,,yes,yes,False,False,False,701,1077
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,44,,yes,yes,False,False,False,778,460
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,45,,yes,yes,False,False,False,688,463
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,46,,yes,no,True,False,False,695,1050
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,47,,no,no,False,False,False,433,542
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,48,,yes,,,False,True,797,1278
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,49,,yes,yes,False,False,False,362,499
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,50,,yes,yes,False,False,False,518,802
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,51,,yes,,,False,True,595,1269
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,42,1,52,,yes,no,True,False,False,444,816
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,1,,yes,no,True,False,False,445,576
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,2,,yes,yes,False,False,False,666,1118
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,3,,,,,True,True,1282,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,4,,no,yes,True,False,False,895,986
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,5,,yes,yes,False,False,False,596,529
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,6,,yes,yes,False,False,False,758,473
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,7,,yes,no,True,False,False,970,682
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,8,,yes,yes,False,False,False,514,704
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,9,,no,no,False,False,False,801,704
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,10,,yes,no,True,False,False,922,647
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,11,,yes,no,True,False,False,567,910
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,12,,yes,yes,False,False,False,580,936
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,13,,yes,yes,False,False,False,490,664
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,14,,yes,yes,False,False,False,729,748
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,15,,yes,yes,False,False,False,647,953
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,16,,yes,no,True,False,False,382,1015
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,17,,yes,yes,False,False,False,546,858
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,18,,yes,yes,False,False,False,623,848
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,19,,yes,no,True,False,False,505,638
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,20,,yes,yes,False,False,False,479,671
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,21,,yes,no,True,False,False,524,373
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,22,,yes,yes,False,False,False,585,831
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,23,,yes,yes,False,False,False,598,889
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,24,,yes,yes,False,False,False,450,718
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,25,,yes,no,True,False,False,638,349
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,26,,yes,yes,False,False,False,461,737
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,27,,yes,yes,False,False,False,579,649
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,28,,yes,yes,False,False,False,847,799
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,29,,yes,yes,False,False,False,512,1051
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,30,,yes,no,True,False,False,504,562
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,31,,yes,yes,False,False,False,560,429
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,32,,yes,yes,False,False,False,625,711
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,33,,yes,yes,False,False,False,690,740
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,34,,no,yes,True,False,False,793,570
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,35,,yes,yes,False,False,False,467,525
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,36,,yes,yes,False,False,False,389,422
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,37,,yes,yes,False,False,False,734,765
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,38,,yes,yes,False,False,False,978,1004
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,39,,yes,no,True,False,False,741,985
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,40,,yes,yes,False,False,False,559,679
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,41,,,,,True,True,1235,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,42,,yes,yes,False,False,False,681,722
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,43,,yes,yes,False,False,False,462,736
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,44,,yes,yes,False,False,False,692,357
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,45,,yes,yes,False,False,False,510,604
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,46,,,,,True,True,1203,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,47,,no,yes,True,False,False,584,638
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,48,,yes,no,True,False,False,658,661
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,49,,yes,,,False,True,505,1340
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,50,,yes,yes,False,False,False,701,726
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,51,,yes,yes,False,False,False,484,620
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,123,2,52,,yes,yes,False,False,False,654,725
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,1,,yes,yes,False,False,False,614,607
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,2,,yes,yes,False,False,False,422,553
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,3,,yes,no,True,False,False,346,570
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,4,,no,yes,True,False,False,691,1139
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,5,,yes,yes,False,False,False,335,331
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,6,,yes,no,True,False,False,555,470
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,7,,yes,yes,False,False,False,565,621
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,8,,yes,yes,False,False,False,842,611
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,9,,yes,no,True,False,False,701,572
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,10,,yes,,,False,True,762,400
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,11,,yes,yes,False,False,False,679,890
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,12,,yes,yes,False,False,False,638,433
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,13,,yes,yes,False,False,False,695,873
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,14,,yes,yes,False,False,False,644,686
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,15,,yes,,,False,True,611,1261
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,16,,yes,yes,False,False,False,678,1013
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,17,,yes,yes,False,False,False,695,1211
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,18,,yes,yes,False,False,False,367,875
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,19,,yes,no,True,False,False,504,681
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,20,,yes,no,True,False,False,470,737
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,21,,yes,no,True,False,False,698,583
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,22,,yes,,,False,True,636,1225
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,23,,yes,yes,False,False,False,415,1074
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,24,,yes,yes,False,False,False,610,458
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,25,,yes,yes,False,False,False,670,602
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,26,,yes,yes,False,False,False,385,937
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,27,,yes,,,False,True,471,1298
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,28,,yes,yes,False,False,False,704,575
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,29,,yes,yes,False,False,False,576,763
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,30,,yes,no,True,False,False,642,562
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,31,,yes,yes,False,False,False,422,666
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,32,,yes,no,True,False,False,511,443
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,33,,yes,yes,False,False,False,616,906
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,34,,yes,yes,False,False,False,806,613
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,35,,yes,no,True,False,False,406,1038
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,36,,yes,yes,False,False,False,391,459
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,37,,yes,yes,False,False,False,830,998
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,38,,yes,yes,False,False,False,424,521
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,39,,yes,yes,False,False,False,552,703
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,40,,yes,yes,False,False,False,434,662
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,41,,yes,yes,False,False,False,386,613
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,42,,yes,yes,False,False,False,682,710
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,43,,yes,yes,False,False,False,681,788
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,44,,yes,yes,False,False,False,418,569
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,45,,yes,no,True,False,False,622,724
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,46,,yes,no,True,False,False,699,822
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,47,,no,yes,True,False,False,704,715
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,48,,yes,no,True,False,False,900,928
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,49,,yes,yes,False,False,False,654,815
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,50,,yes,yes,False,False,False,1016,937
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,51,,yes,yes,False,False,False,641,639
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.5,456,3,52,,yes,no,True,False,False,694,970
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,1,,yes,yes,False,False,False,464,579
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,2,,yes,yes,False,False,False,797,541
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,3,,,,,True,True,1268,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,4,,yes,yes,False,False,False,923,1037
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,5,,yes,yes,False,False,False,691,790
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,6,,yes,yes,False,False,False,665,684
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,7,,yes,yes,False,False,False,789,886
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,8,,yes,yes,False,False,False,435,750
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,9,,yes,,,False,True,578,1288
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,10,,yes,no,True,False,False,417,640
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,11,,yes,yes,False,False,False,986,397
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,12,,yes,yes,False,False,False,577,930
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,13,,yes,,,False,True,720,1301
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,14,,yes,yes,False,False,False,534,628
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,15,,yes,yes,False,False,False,636,1142
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,16,,yes,yes,False,False,False,490,612
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,17,,yes,yes,False,False,False,541,617
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,18,,yes,yes,False,False,False,549,497
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,19,,no,yes,True,False,False,439,982
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,20,,yes,,,False,True,480,1219
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,21,,no,yes,True,False,False,784,506
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,22,,yes,yes,False,False,False,395,589
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,23,,yes,yes,False,False,False,409,649
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,24,,yes,yes,False,False,False,762,408
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,25,,yes,no,True,False,False,638,1186
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,26,,yes,yes,False,False,False,530,988
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,27,,yes,yes,False,False,False,428,675
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,28,,yes,yes,False,False,False,659,700
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,29,,yes,yes,False,False,False,469,1003
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,30,,yes,yes,False,False,False,697,640
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,31,,yes,yes,False,False,False,495,536
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,32,,yes,yes,False,False,False,355,485
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,33,,yes,yes,False,False,False,630,678
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,34,,yes,no,True,False,False,1225,988
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,35,,yes,yes,False,False,False,499,654
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,36,,yes,yes,False,False,False,721,729
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,37,,yes,yes,False,False,False,248,1072
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,38,,yes,yes,False,False,False,365,333
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,39,,yes,yes,False,False,False,690,675
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,40,,yes,yes,False,False,False,558,646
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,41,,yes,yes,False,False,False,433,555
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,42,,yes,yes,False,False,False,549,831
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,43,,yes,yes,False,False,False,813,654
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,44,,yes,yes,False,False,False,322,590
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,45,,yes,no,True,False,False,1064,643
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,46,,yes,,,False,True,613,1193
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,47,,yes,no,True,False,False,588,724
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,48,,yes,no,True,False,False,739,466
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,49,,yes,yes,False,False,False,717,812
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,50,,yes,no,True,False,False,1183,560
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,51,,yes,yes,False,False,False,520,718
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,42,1,52,,yes,yes,False,False,False,678,633
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,1,,yes,no,True,False,False,538,581
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,2,,yes,yes,False,False,False,457,943
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,3,,yes,yes,False,False,False,528,316
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,4,,yes,yes,False,False,False,682,810
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,5,,yes,yes,False,False,False,840,468
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,6,,yes,yes,False,False,False,355,799
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,7,,yes,no,True,False,False,594,581
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,8,,yes,yes,False,False,False,525,746
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,9,,yes,no,True,False,False,1077,803
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,10,,no,yes,True,False,False,453,913
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,11,,yes,no,True,False,False,972,765
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,12,,yes,,,False,True,743,1189
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,13,,yes,yes,False,False,False,709,744
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,14,,yes,yes,False,False,False,493,705
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,15,,yes,yes,False,False,False,535,1125
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,16,,yes,yes,False,False,False,751,620
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,17,,yes,yes,False,False,False,476,388
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,18,,yes,yes,False,False,False,776,637
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,19,,yes,no,True,False,False,490,747
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,20,,yes,yes,False,False,False,415,711
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,21,,yes,no,True,False,False,473,542
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,22,,yes,yes,False,False,False,914,481
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,23,,yes,yes,False,False,False,526,745
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,24,,yes,yes,False,False,False,502,626
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,25,,yes,no,True,False,False,604,709
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,26,,yes,yes,False,False,False,485,557
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,27,,yes,yes,False,False,False,462,826
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,28,,yes,yes,False,False,False,556,887
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,29,,yes,yes,False,False,False,853,590
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,30,,yes,no,True,False,False,984,851
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,31,,yes,yes,False,False,False,619,533
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,32,,yes,yes,False,False,False,444,407
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,33,,yes,no,True,False,False,400,869
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,34,,yes,no,True,False,False,666,998
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,35,,yes,yes,False,False,False,189,401
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,36,,yes,yes,False,False,False,460,342
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,37,,,,,True,True,1250,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,38,,yes,yes,False,False,False,1075,487
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,39,,yes,yes,False,False,False,645,560
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,40,,yes,yes,False,False,False,471,607
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,41,,yes,yes,False,False,False,570,770
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,42,,yes,yes,False,False,False,466,502
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,43,,yes,yes,False,False,False,541,795
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,44,,yes,yes,False,False,False,483,741
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,45,,yes,yes,False,False,False,616,801
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,46,,yes,no,True,False,False,656,686
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,47,,no,no,False,False,False,710,838
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,48,,yes,no,True,False,False,528,961
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,49,,yes,yes,False,False,False,437,779
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,50,,yes,no,True,False,False,356,852
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,51,,yes,yes,False,False,False,512,642
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,123,2,52,,yes,yes,False,False,False,419,729
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,1,,yes,yes,False,False,False,491,346
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,2,,yes,yes,False,False,False,877,678
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,3,,no,yes,True,False,False,785,836
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,4,,no,yes,True,False,False,876,589
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,5,,yes,yes,False,False,False,917,730
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,6,,yes,yes,False,False,False,739,681
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,7,,yes,no,True,False,False,514,815
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,8,,yes,no,True,False,False,585,972
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,9,,no,yes,True,False,False,566,481
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,10,,no,yes,True,False,False,371,1190
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,11,,yes,no,True,False,False,569,576
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,12,,yes,yes,False,False,False,964,1063
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,13,,yes,no,True,False,False,544,384
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,14,,yes,no,True,False,False,634,1024
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,15,,yes,no,True,False,False,1126,819
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,16,,yes,yes,False,False,False,518,437
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,17,,yes,yes,False,False,False,456,342
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,18,,yes,yes,False,False,False,586,396
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,19,,yes,yes,False,False,False,526,1205
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,20,,yes,no,True,False,False,393,880
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,21,,yes,no,True,False,False,380,528
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,22,,yes,yes,False,False,False,635,565
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,23,,yes,,,False,True,400,1290
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,24,,yes,yes,False,False,False,608,889
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,25,,no,yes,True,False,False,533,529
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,26,,yes,,,False,True,479,1275
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,27,,yes,yes,False,False,False,670,829
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,28,,yes,no,True,False,False,411,796
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,29,,yes,yes,False,False,False,528,586
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,30,,yes,yes,False,False,False,518,664
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,31,,yes,yes,False,False,False,479,708
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,32,,yes,yes,False,False,False,398,435
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,33,,no,yes,True,False,False,547,295
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,34,,yes,yes,False,False,False,603,515
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,35,,yes,yes,False,False,False,516,696
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,36,,yes,yes,False,False,False,479,438
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,37,,yes,yes,False,False,False,491,716
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,38,,yes,yes,False,False,False,869,607
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,39,,yes,yes,False,False,False,712,543
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,40,,yes,yes,False,False,False,372,349
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,41,,yes,yes,False,False,False,457,427
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,42,,yes,,,False,True,690,1264
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,43,,yes,no,True,False,False,432,321
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,44,,yes,yes,False,False,False,574,636
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,45,,yes,yes,False,False,False,424,788
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,46,,yes,no,True,False,False,677,482
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,47,,yes,no,True,False,False,463,566
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,48,,yes,no,True,False,False,880,880
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,49,,yes,yes,False,False,False,314,999
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,50,,yes,yes,False,False,False,506,772
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,51,,yes,yes,False,False,False,394,832
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.6,456,3,52,,yes,yes,False,False,False,411,531
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,1,,yes,yes,False,False,False,372,702
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,2,,yes,yes,False,False,False,602,666
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,3,,no,,,False,True,367,1258
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,4,,,,,True,True,1265,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,5,,yes,yes,False,False,False,551,434
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,6,,yes,yes,False,False,False,655,767
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,7,,yes,yes,False,False,False,612,876
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,8,,yes,yes,False,False,False,385,792
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,9,,no,yes,True,False,False,636,482
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,10,,no,yes,True,False,False,612,579
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,11,,yes,yes,False,False,False,743,926
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,12,,yes,no,True,False,False,1014,931
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,13,,yes,yes,False,False,False,958,502
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,14,,yes,yes,False,False,False,661,987
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,15,,yes,yes,False,False,False,587,751
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,16,,yes,yes,False,False,False,491,573
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,17,,no,yes,True,False,False,708,553
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,18,,yes,yes,False,False,False,881,548
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,19,,yes,no,True,False,False,436,671
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,20,,yes,yes,False,False,False,523,840
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,21,,no,no,False,False,False,655,526
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,22,,yes,yes,False,False,False,346,524
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,23,,yes,yes,False,False,False,853,517
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,24,,yes,yes,False,False,False,1064,519
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,25,,no,yes,True,False,False,661,1019
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,26,,yes,yes,False,False,False,957,615
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,27,,yes,yes,False,False,False,346,634
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,28,,yes,yes,False,False,False,604,512
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,29,,yes,no,True,False,False,481,487
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,30,,yes,no,True,False,False,620,646
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,31,,yes,no,True,False,False,578,694
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,32,,yes,no,True,False,False,387,735
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,33,,yes,no,True,False,False,805,482
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,34,,yes,yes,False,False,False,448,611
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,35,,yes,yes,False,False,False,722,534
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,36,,yes,yes,False,False,False,645,928
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,37,,yes,yes,False,False,False,628,917
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,38,,yes,yes,False,False,False,585,899
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,39,,yes,no,True,False,False,569,740
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,40,,yes,yes,False,False,False,539,434
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,41,,yes,yes,False,False,False,561,591
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,42,,yes,yes,False,False,False,490,1119
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,43,,yes,yes,False,False,False,353,530
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,44,,yes,yes,False,False,False,490,299
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,45,,yes,no,True,False,False,517,400
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,46,,yes,no,True,False,False,715,927
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,47,,yes,no,True,False,False,627,510
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,48,,yes,yes,False,False,False,575,884
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,49,,yes,yes,False,False,False,715,842
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,50,,yes,no,True,False,False,501,525
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,51,,yes,yes,False,False,False,346,712
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,42,1,52,,yes,yes,False,False,False,588,457
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,1,,yes,no,True,False,False,560,888
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,2,,yes,yes,False,False,False,454,568
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,3,,yes,yes,False,False,False,875,560
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,4,,yes,no,True,False,False,816,773
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,5,,yes,yes,False,False,False,671,501
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,6,,yes,yes,False,False,False,674,598
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,7,,yes,no,True,False,False,416,654
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,8,,yes,yes,False,False,False,853,738
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,9,,yes,no,True,False,False,950,540
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,10,,no,no,False,False,False,540,827
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,11,,yes,no,True,False,False,441,575
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,12,,yes,no,True,False,False,778,609
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,13,,yes,yes,False,False,False,757,699
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,14,,yes,no,True,False,False,835,554
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,15,,yes,,,False,True,737,1252
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,16,,yes,yes,False,False,False,444,732
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,17,,yes,yes,False,False,False,584,503
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,18,,yes,yes,False,False,False,304,454
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,19,,yes,yes,False,False,False,460,522
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,20,,yes,yes,False,False,False,775,642
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,21,,no,yes,True,False,False,854,629
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,22,,yes,,,False,True,891,1245
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,23,,yes,yes,False,False,False,567,683
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,24,,,,,True,True,1301,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,25,,yes,no,True,False,False,659,832
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,26,,yes,yes,False,False,False,958,744
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,27,,yes,no,True,False,False,625,606
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,28,,yes,yes,False,False,False,832,858
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,29,,yes,yes,False,False,False,836,794
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,30,,yes,,,False,True,415,1208
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,31,,yes,yes,False,False,False,401,557
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,32,,yes,yes,False,False,False,686,830
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,33,,no,yes,True,False,False,858,462
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,34,,yes,no,True,False,False,620,456
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,35,,yes,yes,False,False,False,325,903
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,36,,yes,yes,False,False,False,624,606
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,37,,yes,yes,False,False,False,541,740
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,38,,yes,yes,False,False,False,757,341
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,39,,yes,yes,False,False,False,697,1054
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,40,,yes,yes,False,False,False,673,902
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,41,,yes,yes,False,False,False,625,953
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,42,,yes,yes,False,False,False,798,676
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,43,,yes,yes,False,False,False,393,691
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,44,,yes,yes,False,False,False,587,688
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,45,,yes,no,True,False,False,1063,1171
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,46,,yes,,,False,True,758,1262
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,47,,no,no,False,False,False,470,849
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,48,,yes,no,True,False,False,696,723
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,49,,yes,yes,False,False,False,965,926
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,50,,yes,yes,False,False,False,637,751
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,51,,yes,yes,False,False,False,639,423
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,123,2,52,,yes,yes,False,False,False,708,762
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,1,,yes,yes,False,False,False,507,766
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,2,,yes,yes,False,False,False,468,473
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,3,,yes,yes,False,False,False,701,667
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,4,,no,yes,True,False,False,1097,1175
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,5,,yes,yes,False,False,False,526,342
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,6,,yes,yes,False,False,False,449,776
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,7,,yes,no,True,False,False,725,891
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,8,,yes,yes,False,False,False,712,450
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,9,,yes,no,True,False,False,936,1102
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,10,,,,,True,True,1310,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,11,,yes,yes,False,False,False,754,490
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,12,,yes,yes,False,False,False,692,951
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,13,,yes,yes,False,False,False,584,1252
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,14,,yes,no,True,False,False,397,661
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,15,,yes,no,True,False,False,844,823
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,16,,yes,,,False,True,1285,1234
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,17,,yes,yes,False,False,False,601,647
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,18,,yes,yes,False,False,False,454,837
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,19,,yes,no,True,False,False,647,877
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,20,,,,,True,True,1244,0
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,21,,yes,no,True,False,False,468,510
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,22,,yes,yes,False,False,False,357,1028
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,23,,yes,yes,False,False,False,643,924
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,24,,yes,yes,False,False,False,473,767
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,25,,no,yes,True,False,False,852,689
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,26,,yes,yes,False,False,False,565,890
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,27,,yes,no,True,False,False,580,705
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,28,,yes,yes,False,False,False,343,676
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,29,,yes,,,False,True,405,1295
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,30,,no,yes,True,False,False,779,853
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,31,,yes,yes,False,False,False,459,510
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,32,,yes,yes,False,False,False,413,369
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,33,,no,yes,True,False,False,685,1015
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,34,,yes,no,True,False,False,614,1165
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,35,,yes,no,True,False,False,734,393
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,36,,yes,no,True,False,False,677,486
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,37,,yes,no,True,False,False,1011,716
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,38,,yes,yes,False,False,False,894,549
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,39,,yes,yes,False,False,False,541,474
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,40,,yes,yes,False,False,False,462,402
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,41,,yes,yes,False,False,False,498,520
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,42,,yes,,,False,True,707,1262
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,43,,yes,yes,False,False,False,805,783
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,44,,yes,yes,False,False,False,895,410
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,45,,yes,yes,False,False,False,561,801
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,46,,yes,yes,False,False,False,480,593
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,47,,no,no,False,False,False,445,1029
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,48,,no,yes,True,False,False,680,657
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,49,,yes,no,True,False,False,477,509
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,50,,yes,no,True,False,False,660,765
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,51,,yes,yes,False,False,False,593,633
+deepseek-r1-distill-qwen-7b,True,empty,1,,0.7,456,3,52,,yes,yes,False,False,False,339,517
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,1,,yes,yes,False,False,False,571,611
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,2,,yes,yes,False,False,False,427,455
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,3,,no,no,False,False,False,340,634
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,4,,no,yes,True,False,False,1027,933
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,5,,yes,yes,False,False,False,908,601
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,6,,yes,yes,False,False,False,550,610
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,7,,yes,yes,False,False,False,655,539
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,8,,yes,yes,False,False,False,888,687
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,9,,yes,yes,False,False,False,630,990
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,10,,yes,no,True,False,False,708,890
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,11,,yes,yes,False,False,False,436,947
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,12,,yes,no,True,False,False,904,419
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,13,,yes,yes,False,False,False,388,705
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,14,,yes,yes,False,False,False,628,718
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,15,,,,,True,True,1312,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,16,,yes,yes,False,False,False,766,534
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,17,,yes,no,True,False,False,816,620
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,18,,yes,no,True,False,False,595,939
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,19,,yes,yes,False,False,False,528,573
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,20,,yes,yes,False,False,False,592,584
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,21,,yes,no,True,False,False,370,278
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,22,,yes,yes,False,False,False,468,708
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,23,,yes,yes,False,False,False,536,713
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,24,,yes,yes,False,False,False,525,593
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,25,,no,no,False,False,False,750,553
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,26,,yes,no,True,False,False,693,965
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,27,,yes,yes,False,False,False,261,636
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,28,,yes,yes,False,False,False,1154,502
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,29,,yes,yes,False,False,False,550,416
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,30,,no,yes,True,False,False,477,526
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,31,,yes,yes,False,False,False,386,628
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,32,,yes,yes,False,False,False,285,454
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,33,,yes,yes,False,False,False,566,558
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,34,,yes,yes,False,False,False,826,873
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,35,,yes,yes,False,False,False,574,493
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,36,,yes,yes,False,False,False,482,726
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,37,,yes,yes,False,False,False,651,521
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,38,,yes,yes,False,False,False,403,948
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,39,,yes,yes,False,False,False,506,732
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,40,,yes,yes,False,False,False,699,783
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,41,,yes,yes,False,False,False,596,688
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,42,,,,,True,True,1269,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,43,,yes,yes,False,False,False,461,873
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,44,,yes,yes,False,False,False,419,672
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,45,,yes,no,True,False,False,580,422
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,46,,yes,no,True,False,False,444,766
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,47,,no,yes,True,False,False,352,500
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,48,,,,,True,True,1298,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,49,,yes,yes,False,False,False,470,749
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,50,,yes,no,True,False,False,448,623
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,51,,yes,yes,False,False,False,879,554
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,42,1,52,,yes,yes,False,False,False,623,689
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,1,,yes,no,True,False,False,409,428
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,2,,yes,yes,False,False,False,546,506
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,3,,yes,no,True,False,False,1103,914
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,4,,yes,yes,False,False,False,696,466
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,5,,yes,yes,False,False,False,427,561
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,6,,yes,yes,False,False,False,547,714
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,7,,yes,yes,False,False,False,615,605
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,8,,yes,no,True,False,False,1136,621
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,9,,no,yes,True,False,False,1196,1153
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,10,,yes,no,True,False,False,440,660
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,11,,yes,no,True,False,False,688,764
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,12,,yes,no,True,False,False,773,495
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,13,,yes,yes,False,False,False,486,689
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,14,,yes,yes,False,False,False,760,539
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,15,,yes,yes,False,False,False,796,637
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,16,,yes,yes,False,False,False,671,423
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,17,,yes,yes,False,False,False,413,619
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,18,,yes,yes,False,False,False,647,448
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,19,,yes,no,True,False,False,488,361
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,20,,yes,yes,False,False,False,533,690
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,21,,yes,no,True,False,False,557,342
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,22,,yes,yes,False,False,False,423,1071
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,23,,yes,yes,False,False,False,578,581
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,24,,yes,yes,False,False,False,681,521
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,25,,yes,yes,False,False,False,615,498
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,26,,yes,yes,False,False,False,588,1144
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,27,,yes,yes,False,False,False,879,730
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,28,,yes,yes,False,False,False,632,747
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,29,,yes,yes,False,False,False,710,740
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,30,,yes,yes,False,False,False,401,562
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,31,,yes,yes,False,False,False,580,624
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,32,,yes,yes,False,False,False,433,342
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,33,,yes,yes,False,False,False,668,734
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,34,,yes,no,True,False,False,558,1068
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,35,,yes,no,True,False,False,683,450
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,36,,yes,yes,False,False,False,550,425
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,37,,yes,,,False,True,597,1260
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,38,,yes,yes,False,False,False,978,782
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,39,,yes,yes,False,False,False,576,952
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,40,,yes,yes,False,False,False,307,670
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,41,,yes,yes,False,False,False,400,743
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,42,,yes,no,True,False,False,680,831
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,43,,yes,yes,False,False,False,723,787
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,44,,yes,yes,False,False,False,343,861
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,45,,yes,no,True,False,False,859,886
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,46,,yes,no,True,False,False,661,590
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,47,,no,no,False,False,False,466,593
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,48,,yes,yes,False,False,False,819,761
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,49,,yes,yes,False,False,False,579,611
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,50,,yes,no,True,False,False,347,449
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,51,,yes,yes,False,False,False,541,592
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,123,2,52,,yes,yes,False,False,False,534,513
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,1,,yes,no,True,False,False,522,660
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,2,,yes,yes,False,False,False,660,1017
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,3,,no,yes,True,False,False,1141,974
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,4,,yes,,,False,True,635,1288
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,5,,yes,yes,False,False,False,374,536
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,6,,yes,yes,False,False,False,767,788
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,7,,yes,yes,False,False,False,475,614
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,8,,yes,yes,False,False,False,705,738
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,9,,no,no,False,False,False,599,482
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,10,,no,yes,True,False,False,408,702
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,11,,yes,no,True,False,False,535,1155
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,12,,yes,yes,False,False,False,646,664
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,13,,yes,yes,False,False,False,514,696
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,14,,yes,no,True,False,False,677,908
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,15,,no,yes,True,False,False,905,943
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,16,,yes,yes,False,False,False,610,503
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,17,,yes,yes,False,False,False,377,435
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,18,,yes,yes,False,False,False,467,668
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,19,,yes,yes,False,False,False,383,614
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,20,,yes,no,True,False,False,455,885
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,21,,no,no,False,False,False,622,805
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,22,,yes,no,True,False,False,408,612
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,23,,yes,yes,False,False,False,236,653
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,24,,yes,yes,False,False,False,397,545
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,25,,yes,no,True,False,False,809,508
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,26,,yes,yes,False,False,False,716,1007
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,27,,yes,yes,False,False,False,516,707
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,28,,no,yes,True,False,False,664,573
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,29,,yes,yes,False,False,False,485,436
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,30,,yes,no,True,False,False,282,591
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,31,,yes,no,True,False,False,560,549
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,32,,yes,yes,False,False,False,590,706
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,33,,yes,no,True,False,False,433,575
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,34,,yes,no,True,False,False,616,524
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,35,,yes,yes,False,False,False,474,568
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,36,,yes,yes,False,False,False,520,406
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,37,,yes,yes,False,False,False,939,368
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,38,,yes,yes,False,False,False,757,534
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,39,,yes,yes,False,False,False,407,600
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,40,,yes,yes,False,False,False,505,661
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,41,,yes,yes,False,False,False,381,671
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,42,,yes,no,True,False,False,768,812
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,43,,yes,no,True,False,False,477,706
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,44,,yes,yes,False,False,False,622,687
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,45,,yes,no,True,False,False,494,435
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,46,,yes,,,False,True,922,1216
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,47,,no,no,False,False,False,722,666
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,48,,yes,no,True,False,False,592,674
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,49,,no,yes,True,False,False,739,638
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,50,,yes,yes,False,False,False,1131,648
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,51,,yes,yes,False,False,False,482,340
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.5,456,3,52,,yes,yes,False,False,False,438,703
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,1,,yes,no,True,False,False,414,644
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,2,,yes,yes,False,False,False,454,586
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,3,,yes,yes,False,False,False,911,638
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,4,,no,yes,True,False,False,865,562
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,5,,yes,yes,False,False,False,639,630
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,6,,yes,yes,False,False,False,882,505
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,7,,yes,yes,False,False,False,438,480
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,8,,yes,,,False,True,539,1261
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,9,,no,,,False,True,463,1266
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,10,,no,yes,True,False,False,1237,734
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,11,,yes,yes,False,False,False,397,652
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,12,,yes,no,True,False,False,557,1114
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,13,,yes,yes,False,False,False,329,644
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,14,,yes,yes,False,False,False,1136,445
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,15,,yes,no,True,False,False,696,720
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,16,,yes,yes,False,False,False,305,590
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,17,,yes,yes,False,False,False,430,300
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,18,,yes,yes,False,False,False,444,993
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,19,,yes,yes,False,False,False,723,521
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,20,,yes,no,True,False,False,763,1100
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,21,,yes,no,True,False,False,569,835
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,22,,yes,yes,False,False,False,401,660
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,23,,yes,yes,False,False,False,554,518
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,24,,yes,,,False,True,332,1254
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,25,,yes,no,True,False,False,771,644
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,26,,yes,yes,False,False,False,430,588
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,27,,yes,yes,False,False,False,607,597
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,28,,yes,yes,False,False,False,412,703
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,29,,yes,yes,False,False,False,1005,803
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,30,,yes,no,True,False,False,325,696
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,31,,yes,no,True,False,False,688,398
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,32,,yes,yes,False,False,False,387,496
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,33,,yes,no,True,False,False,601,740
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,34,,yes,yes,False,False,False,797,525
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,35,,yes,yes,False,False,False,674,490
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,36,,yes,yes,False,False,False,748,561
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,37,,yes,yes,False,False,False,967,1127
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,38,,yes,yes,False,False,False,809,627
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,39,,yes,yes,False,False,False,855,691
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,40,,yes,yes,False,False,False,669,453
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,41,,yes,yes,False,False,False,345,647
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,42,,no,yes,True,False,False,817,693
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,43,,yes,yes,False,False,False,761,929
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,44,,yes,yes,False,False,False,644,765
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,45,,yes,,,False,True,567,1253
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,46,,yes,no,True,False,False,648,515
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,47,,no,yes,True,False,False,360,655
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,48,,yes,,,False,True,1031,1324
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,49,,yes,yes,False,False,False,599,493
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,50,,yes,,,False,True,473,927
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,51,,yes,yes,False,False,False,731,795
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,42,1,52,,yes,yes,False,False,False,560,721
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,1,,yes,no,True,False,False,1201,742
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,2,,yes,yes,False,False,False,666,954
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,3,,no,,,False,True,461,1298
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,4,,,,,True,True,1256,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,5,,yes,no,True,False,False,571,369
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,6,,yes,yes,False,False,False,417,751
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,7,,yes,no,True,False,False,609,671
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,8,,no,yes,True,False,False,850,1027
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,9,,no,no,False,False,False,285,551
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,10,,yes,no,True,False,False,748,797
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,11,,yes,no,True,False,False,593,950
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,12,,yes,yes,False,False,False,519,626
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,13,,yes,no,True,False,False,686,929
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,14,,yes,yes,False,False,False,583,782
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,15,,yes,yes,False,False,False,576,1038
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,16,,yes,yes,False,False,False,627,627
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,17,,yes,no,True,False,False,407,572
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,18,,yes,no,True,False,False,332,556
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,19,,yes,yes,False,False,False,468,340
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,20,,yes,yes,False,False,False,913,702
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,21,,no,no,False,False,False,604,468
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,22,,yes,yes,False,False,False,568,950
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,23,,yes,yes,False,False,False,262,488
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,24,,yes,yes,False,False,False,646,585
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,25,,yes,no,True,False,False,844,607
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,26,,yes,yes,False,False,False,532,531
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,27,,yes,yes,False,False,False,733,493
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,28,,yes,yes,False,False,False,634,483
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,29,,yes,yes,False,False,False,795,473
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,30,,yes,yes,False,False,False,474,440
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,31,,yes,yes,False,False,False,389,776
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,32,,yes,yes,False,False,False,609,587
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,33,,no,no,False,False,False,481,605
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,34,,no,yes,True,False,False,757,552
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,35,,yes,,,False,True,582,1260
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,36,,yes,,,False,True,493,1257
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,37,,yes,yes,False,False,False,567,639
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,38,,yes,,,False,True,509,1297
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,39,,yes,no,True,False,False,700,639
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,40,,yes,yes,False,False,False,356,557
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,41,,yes,yes,False,False,False,497,537
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,42,,yes,yes,False,False,False,446,739
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,43,,yes,yes,False,False,False,451,697
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,44,,yes,yes,False,False,False,400,573
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,45,,yes,no,True,False,False,535,928
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,46,,yes,no,True,False,False,581,659
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,47,,yes,no,True,False,False,373,645
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,48,,yes,yes,False,False,False,617,1228
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,49,,yes,yes,False,False,False,997,534
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,50,,yes,no,True,False,False,553,752
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,51,,yes,yes,False,False,False,612,378
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,123,2,52,,yes,yes,False,False,False,592,1017
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,1,,yes,yes,False,False,False,371,783
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,2,,yes,no,True,False,False,771,900
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,3,,yes,no,True,False,False,838,1079
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,4,,no,yes,True,False,False,661,1036
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,5,,yes,yes,False,False,False,412,434
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,6,,yes,no,True,False,False,491,915
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,7,,yes,yes,False,False,False,432,916
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,8,,yes,no,True,False,False,462,399
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,9,,no,yes,True,False,False,823,600
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,10,,yes,no,True,False,False,1015,870
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,11,,yes,yes,False,False,False,654,675
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,12,,yes,yes,False,False,False,532,779
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,13,,yes,yes,False,False,False,480,703
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,14,,yes,,,False,True,859,1262
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,15,,yes,yes,False,False,False,800,1120
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,16,,yes,yes,False,False,False,586,1122
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,17,,yes,yes,False,False,False,481,621
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,18,,yes,yes,False,False,False,306,646
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,19,,yes,no,True,False,False,714,952
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,20,,yes,no,True,False,False,485,470
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,21,,yes,no,True,False,False,493,283
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,22,,yes,yes,False,False,False,581,371
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,23,,yes,yes,False,False,False,280,880
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,24,,yes,yes,False,False,False,523,696
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,25,,no,yes,True,False,False,703,536
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,26,,yes,yes,False,False,False,613,554
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,27,,yes,yes,False,False,False,455,573
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,28,,yes,yes,False,False,False,1053,694
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,29,,yes,yes,False,False,False,417,688
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,30,,yes,yes,False,False,False,450,514
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,31,,yes,yes,False,False,False,491,649
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,32,,yes,yes,False,False,False,442,647
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,33,,yes,no,True,False,False,483,654
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,34,,yes,no,True,False,False,601,940
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,35,,yes,yes,False,False,False,531,693
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,36,,yes,yes,False,False,False,476,463
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,37,,yes,yes,False,False,False,509,718
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,38,,yes,yes,False,False,False,528,876
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,39,,yes,yes,False,False,False,815,547
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,40,,yes,yes,False,False,False,547,520
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,41,,yes,yes,False,False,False,307,567
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,42,,yes,no,True,False,False,492,608
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,43,,yes,no,True,False,False,584,355
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,44,,yes,yes,False,False,False,384,855
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,45,,yes,yes,False,False,False,793,857
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,46,,yes,no,True,False,False,842,791
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,47,,no,no,False,False,False,652,650
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,48,,yes,yes,False,False,False,561,635
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,49,,yes,,,False,True,608,875
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,50,,yes,yes,False,False,False,415,473
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,51,,yes,yes,False,False,False,482,583
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.6,456,3,52,,yes,yes,False,False,False,745,488
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,1,,yes,no,True,False,False,266,386
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,2,,yes,yes,False,False,False,685,718
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,3,,yes,no,True,False,False,404,573
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,4,,no,yes,True,False,False,665,612
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,5,,yes,yes,False,False,False,457,466
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,6,,yes,yes,False,False,False,568,703
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,7,,yes,no,True,False,False,661,792
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,8,,yes,no,True,False,False,654,948
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,9,,no,yes,True,False,False,814,864
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,10,,yes,no,True,False,False,704,562
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,11,,yes,yes,False,False,False,542,870
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,12,,yes,yes,False,False,False,688,910
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,13,,yes,,,False,True,560,1275
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,14,,yes,yes,False,False,False,722,653
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,15,,yes,yes,False,False,False,763,602
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,16,,yes,no,True,False,False,547,595
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,17,,yes,yes,False,False,False,357,531
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,18,,yes,yes,False,False,False,502,316
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,19,,yes,yes,False,False,False,557,712
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,20,,yes,no,True,False,False,539,596
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,21,,no,yes,True,False,False,685,380
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,22,,yes,yes,False,False,False,396,284
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,23,,yes,yes,False,False,False,907,655
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,24,,yes,,,False,True,685,1262
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,25,,no,yes,True,False,False,462,634
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,26,,yes,yes,False,False,False,999,1226
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,27,,yes,yes,False,False,False,844,294
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,28,,,,,True,True,335,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,29,,no,yes,True,False,False,659,603
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,30,,no,yes,True,False,False,702,645
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,31,,yes,yes,False,False,False,440,405
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,32,,yes,no,True,False,False,363,686
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,33,,yes,no,True,False,False,756,397
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,34,,yes,yes,False,False,False,489,747
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,35,,yes,yes,False,False,False,621,561
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,36,,yes,yes,False,False,False,301,433
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,37,,yes,yes,False,False,False,490,519
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,38,,yes,yes,False,False,False,408,603
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,39,,yes,no,True,False,False,970,556
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,40,,yes,yes,False,False,False,640,659
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,41,,yes,yes,False,False,False,534,703
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,42,,yes,yes,False,False,False,306,663
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,43,,yes,yes,False,False,False,532,665
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,44,,yes,yes,False,False,False,397,711
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,45,,yes,yes,False,False,False,723,1032
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,46,,yes,no,True,False,False,730,898
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,47,,no,no,False,False,False,522,789
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,48,,no,yes,True,False,False,624,776
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,49,,yes,no,True,False,False,542,742
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,50,,yes,yes,False,False,False,690,703
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,51,,yes,yes,False,False,False,815,499
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,42,1,52,,yes,yes,False,False,False,620,645
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,1,,yes,yes,False,False,False,462,447
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,2,,yes,no,True,False,False,460,635
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,3,,yes,,,False,True,803,1288
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,4,,no,yes,True,False,False,664,503
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,5,,yes,yes,False,False,False,380,889
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,6,,no,yes,True,False,False,846,492
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,7,,yes,no,True,False,False,491,549
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,8,,yes,yes,False,False,False,661,887
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,9,,yes,no,True,False,False,635,638
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,10,,yes,yes,False,False,False,1070,618
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,11,,yes,yes,False,False,False,710,553
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,12,,yes,yes,False,False,False,647,775
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,13,,yes,yes,False,False,False,569,498
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,14,,yes,yes,False,False,False,790,553
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,15,,yes,no,True,False,False,788,674
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,16,,yes,yes,False,False,False,420,557
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,17,,yes,yes,False,False,False,474,448
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,18,,yes,yes,False,False,False,427,520
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,19,,yes,no,True,False,False,552,795
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,20,,yes,yes,False,False,False,729,517
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,21,,yes,no,True,False,False,667,592
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,22,,yes,yes,False,False,False,404,641
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,23,,,,,True,True,1275,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,24,,yes,yes,False,False,False,555,712
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,25,,no,no,False,False,False,622,888
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,26,,yes,yes,False,False,False,488,688
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,27,,yes,yes,False,False,False,754,573
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,28,,yes,yes,False,False,False,463,437
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,29,,yes,yes,False,False,False,603,515
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,30,,yes,no,True,False,False,535,363
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,31,,yes,yes,False,False,False,470,460
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,32,,yes,yes,False,False,False,573,617
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,33,,yes,no,True,False,False,652,674
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,34,,yes,no,True,False,False,747,751
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,35,,yes,no,True,False,False,576,373
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,36,,yes,yes,False,False,False,535,598
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,37,,yes,yes,False,False,False,470,769
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,38,,yes,yes,False,False,False,481,757
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,39,,yes,yes,False,False,False,601,844
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,40,,yes,yes,False,False,False,367,840
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,41,,yes,yes,False,False,False,495,667
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,42,,yes,yes,False,False,False,395,370
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,43,,yes,yes,False,False,False,526,699
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,44,,yes,yes,False,False,False,483,643
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,45,,yes,yes,False,False,False,798,585
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,46,,yes,yes,False,False,False,617,936
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,47,,no,no,False,False,False,1001,730
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,48,,yes,yes,False,False,False,495,727
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,49,,yes,no,True,False,False,528,854
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,50,,yes,no,True,False,False,429,803
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,51,,yes,yes,False,False,False,467,412
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,123,2,52,,yes,yes,False,False,False,375,556
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,1,,yes,yes,False,False,False,559,974
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,2,,yes,yes,False,False,False,1031,591
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,3,,yes,no,True,False,False,701,661
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,4,,no,yes,True,False,False,698,533
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,5,,yes,yes,False,False,False,550,817
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,6,,yes,yes,False,False,False,787,582
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,7,,yes,no,True,False,False,852,602
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,8,,yes,yes,False,False,False,763,493
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,9,,no,no,False,False,False,938,615
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,10,,yes,no,True,False,False,1074,795
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,11,,yes,yes,False,False,False,819,773
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,12,,yes,no,True,False,False,443,805
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,13,,yes,yes,False,False,False,625,902
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,14,,,,,True,True,1270,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,15,,yes,no,True,False,False,618,552
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,16,,no,yes,True,False,False,533,501
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,17,,yes,no,True,False,False,678,522
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,18,,yes,yes,False,False,False,492,489
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,19,,yes,yes,False,False,False,632,556
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,20,,yes,yes,False,False,False,447,481
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,21,,no,yes,True,False,False,417,428
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,22,,yes,yes,False,False,False,524,672
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,23,,yes,yes,False,False,False,508,647
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,24,,,,,True,True,1238,0
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,25,,no,yes,True,False,False,654,531
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,26,,yes,yes,False,False,False,631,1156
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,27,,yes,no,True,False,False,639,675
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,28,,yes,yes,False,False,False,781,450
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,29,,yes,no,True,False,False,784,534
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,30,,yes,no,True,False,False,569,500
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,31,,yes,yes,False,False,False,409,653
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,32,,yes,yes,False,False,False,658,438
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,33,,yes,no,True,False,False,643,537
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,34,,yes,yes,False,False,False,942,589
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,35,,yes,yes,False,False,False,419,894
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,36,,yes,yes,False,False,False,564,405
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,37,,yes,yes,False,False,False,780,679
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,38,,yes,yes,False,False,False,518,1009
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,39,,yes,yes,False,False,False,475,663
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,40,,yes,yes,False,False,False,376,610
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,41,,yes,yes,False,False,False,440,655
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,42,,yes,yes,False,False,False,795,362
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,43,,yes,yes,False,False,False,410,363
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,44,,yes,yes,False,False,False,280,447
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,45,,yes,yes,False,False,False,784,804
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,46,,yes,yes,False,False,False,732,907
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,47,,no,no,False,False,False,744,837
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,48,,yes,no,True,False,False,1211,880
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,49,,yes,no,True,False,False,368,641
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,50,,yes,no,True,False,False,607,849
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,51,,yes,yes,False,False,False,214,480
+deepseek-r1-distill-qwen-7b,True,helpful,2,You are a helpful assistant.,0.7,456,3,52,,yes,yes,False,False,False,368,448
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,1,,yes,no,True,False,False,814,587
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,2,,yes,yes,False,False,False,639,899
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,3,,yes,,,False,True,676,1286
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,4,,no,yes,True,False,False,1230,665
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,5,,yes,yes,False,False,False,767,617
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,6,,,,,True,True,1242,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,7,,yes,no,True,False,False,493,642
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,8,,yes,yes,False,False,False,592,858
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,9,,yes,no,True,False,False,701,818
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,10,,yes,no,True,False,False,922,598
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,11,,yes,yes,False,False,False,515,646
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,12,,yes,no,True,False,False,606,799
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,13,,yes,yes,False,False,False,525,639
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,14,,yes,,,False,True,804,1269
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,15,,yes,yes,False,False,False,662,596
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,16,,yes,no,True,False,False,361,947
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,17,,yes,yes,False,False,False,448,596
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,18,,yes,yes,False,False,False,472,518
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,19,,yes,no,True,False,False,341,936
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,20,,yes,,,False,True,701,1215
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,21,,no,yes,True,False,False,715,699
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,22,,yes,yes,False,False,False,541,435
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,23,,yes,yes,False,False,False,423,884
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,24,,yes,yes,False,False,False,612,337
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,25,,yes,no,True,False,False,800,470
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,26,,yes,yes,False,False,False,506,1114
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,27,,yes,yes,False,False,False,666,728
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,28,,yes,yes,False,False,False,656,689
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,29,,yes,yes,False,False,False,759,976
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,30,,yes,yes,False,False,False,537,576
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,31,,yes,yes,False,False,False,300,471
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,32,,yes,yes,False,False,False,403,745
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,33,,yes,yes,False,False,False,914,752
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,34,,yes,yes,False,False,False,650,875
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,35,,yes,yes,False,False,False,535,542
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,36,,yes,yes,False,False,False,477,455
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,37,,yes,yes,False,False,False,518,682
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,38,,yes,yes,False,False,False,525,1085
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,39,,yes,yes,False,False,False,751,588
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,40,,yes,yes,False,False,False,573,685
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,41,,yes,yes,False,False,False,546,382
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,42,,no,yes,True,False,False,674,721
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,43,,yes,yes,False,False,False,964,435
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,44,,yes,yes,False,False,False,410,706
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,45,,yes,yes,False,False,False,565,708
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,46,,yes,no,True,False,False,755,580
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,47,,yes,yes,False,False,False,566,796
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,48,,,,,True,True,1262,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,49,,no,yes,True,False,False,624,508
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,50,,yes,yes,False,False,False,582,963
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,51,,yes,yes,False,False,False,571,538
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,42,1,52,,yes,yes,False,False,False,559,385
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,1,,yes,yes,False,False,False,646,350
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,2,,yes,yes,False,False,False,797,634
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,3,,yes,no,True,False,False,989,1270
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,4,,no,yes,True,False,False,965,506
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,5,,yes,yes,False,False,False,751,763
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,6,,yes,no,True,False,False,659,592
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,7,,yes,yes,False,False,False,575,731
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,8,,yes,yes,False,False,False,887,539
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,9,,yes,yes,False,False,False,531,673
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,10,,no,yes,True,False,False,678,583
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,11,,yes,no,True,False,False,1102,412
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,12,,yes,yes,False,False,False,543,699
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,13,,yes,yes,False,False,False,665,688
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,14,,yes,yes,False,False,False,603,703
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,15,,yes,yes,False,False,False,1202,723
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,16,,yes,yes,False,False,False,580,856
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,17,,yes,yes,False,False,False,545,676
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,18,,yes,yes,False,False,False,454,642
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,19,,yes,yes,False,False,False,526,782
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,20,,yes,no,True,False,False,550,428
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,21,,no,no,False,False,False,549,480
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,22,,yes,yes,False,False,False,548,509
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,23,,yes,yes,False,False,False,648,931
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,24,,yes,yes,False,False,False,685,819
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,25,,no,yes,True,False,False,559,864
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,26,,yes,yes,False,False,False,717,745
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,27,,yes,yes,False,False,False,893,462
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,28,,yes,yes,False,False,False,311,747
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,29,,yes,no,True,False,False,671,695
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,30,,yes,no,True,False,False,628,685
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,31,,yes,no,True,False,False,510,768
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,32,,yes,yes,False,False,False,401,649
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,33,,yes,no,True,False,False,517,671
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,34,,no,yes,True,False,False,604,520
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,35,,yes,yes,False,False,False,500,765
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,36,,yes,yes,False,False,False,854,426
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,37,,yes,no,True,False,False,712,571
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,38,,yes,yes,False,False,False,899,1167
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,39,,yes,no,True,False,False,728,686
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,40,,yes,yes,False,False,False,761,616
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,41,,yes,yes,False,False,False,764,460
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,42,,yes,no,True,False,False,740,593
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,43,,yes,yes,False,False,False,674,415
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,44,,yes,yes,False,False,False,387,507
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,45,,yes,yes,False,False,False,504,560
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,46,,yes,yes,False,False,False,717,735
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,47,,yes,no,True,False,False,485,708
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,48,,yes,no,True,False,False,742,622
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,49,,yes,yes,False,False,False,827,733
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,50,,yes,no,True,False,False,469,882
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,51,,yes,yes,False,False,False,340,492
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,123,2,52,,yes,yes,False,False,False,493,915
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,1,,yes,yes,False,False,False,333,715
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,2,,yes,yes,False,False,False,631,586
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,3,,yes,,,False,True,544,1264
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,4,,,,,True,True,1284,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,5,,yes,yes,False,False,False,869,559
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,6,,yes,yes,False,False,False,583,524
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,7,,yes,no,True,False,False,557,886
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,8,,yes,yes,False,False,False,708,1001
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,9,,yes,no,True,False,False,516,510
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,10,,yes,yes,False,False,False,969,615
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,11,,yes,no,True,False,False,660,894
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,12,,yes,yes,False,False,False,576,760
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,13,,yes,yes,False,False,False,718,536
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,14,,yes,yes,False,False,False,499,580
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,15,,yes,yes,False,False,False,524,899
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,16,,yes,,,False,True,731,1234
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,17,,yes,yes,False,False,False,703,711
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,18,,yes,yes,False,False,False,576,554
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,19,,yes,yes,False,False,False,847,756
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,20,,yes,yes,False,False,False,549,758
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,21,,yes,no,True,False,False,496,879
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,22,,yes,yes,False,False,False,480,680
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,23,,yes,yes,False,False,False,784,785
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,24,,yes,yes,False,False,False,600,783
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,25,,no,yes,True,False,False,498,332
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,26,,no,yes,True,False,False,803,625
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,27,,yes,yes,False,False,False,477,750
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,28,,yes,yes,False,False,False,671,717
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,29,,yes,yes,False,False,False,774,609
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,30,,yes,yes,False,False,False,453,409
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,31,,yes,no,True,False,False,464,300
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,32,,yes,yes,False,False,False,555,391
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,33,,yes,yes,False,False,False,492,557
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,34,,no,yes,True,False,False,758,745
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,35,,no,yes,True,False,False,396,1130
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,36,,yes,yes,False,False,False,350,992
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,37,,yes,yes,False,False,False,661,669
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,38,,yes,yes,False,False,False,552,980
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,39,,yes,yes,False,False,False,573,788
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,40,,,,,True,True,1288,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,41,,yes,yes,False,False,False,706,491
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,42,,yes,no,True,False,False,792,622
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,43,,yes,yes,False,False,False,427,560
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,44,,yes,yes,False,False,False,544,546
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,45,,yes,yes,False,False,False,687,409
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,46,,yes,yes,False,False,False,567,492
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,47,,no,yes,True,False,False,684,867
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,48,,yes,no,True,False,False,612,1024
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,49,,yes,yes,False,False,False,496,847
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,50,,yes,,,False,True,728,1272
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,51,,yes,yes,False,False,False,420,587
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.5,456,3,52,,yes,yes,False,False,False,714,452
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,1,,yes,yes,False,False,False,458,538
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,2,,yes,yes,False,False,False,777,712
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,3,,,,,True,True,1263,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,4,,yes,yes,False,False,False,951,741
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,5,,yes,yes,False,False,False,814,685
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,6,,yes,yes,False,False,False,872,722
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,7,,yes,no,True,False,False,275,933
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,8,,yes,yes,False,False,False,514,898
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,9,,yes,no,True,False,False,605,388
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,10,,yes,no,True,False,False,647,893
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,11,,yes,no,True,False,False,680,730
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,12,,yes,yes,False,False,False,701,845
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,13,,yes,yes,False,False,False,729,858
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,14,,yes,no,True,False,False,639,1021
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,15,,yes,no,True,False,False,970,1239
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,16,,yes,yes,False,False,False,551,928
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,17,,yes,no,True,False,False,546,598
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,18,,yes,yes,False,False,False,381,707
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,19,,yes,no,True,False,False,413,863
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,20,,yes,yes,False,False,False,520,1207
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,21,,yes,no,True,False,False,560,550
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,22,,yes,yes,False,False,False,1229,594
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,23,,yes,yes,False,False,False,806,426
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,24,,yes,no,True,False,False,1045,416
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,25,,yes,no,True,False,False,629,537
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,26,,yes,,,False,True,658,1232
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,27,,yes,yes,False,False,False,523,721
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,28,,yes,yes,False,False,False,688,735
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,29,,yes,no,True,False,False,686,573
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,30,,yes,yes,False,False,False,605,732
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,31,,yes,yes,False,False,False,401,649
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,32,,yes,yes,False,False,False,590,1014
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,33,,yes,no,True,False,False,407,950
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,34,,yes,no,True,False,False,790,635
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,35,,yes,yes,False,False,False,470,902
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,36,,yes,yes,False,False,False,274,528
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,37,,yes,yes,False,False,False,730,745
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,38,,yes,yes,False,False,False,833,833
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,39,,yes,yes,False,False,False,638,638
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,40,,yes,yes,False,False,False,433,506
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,41,,yes,yes,False,False,False,337,881
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,42,,yes,yes,False,False,False,784,494
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,43,,yes,yes,False,False,False,843,529
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,44,,yes,yes,False,False,False,445,466
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,45,,yes,no,True,False,False,697,729
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,46,,yes,yes,False,False,False,653,885
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,47,,no,yes,True,False,False,602,622
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,48,,yes,no,True,False,False,687,638
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,49,,yes,no,True,False,False,520,654
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,50,,yes,yes,False,False,False,370,841
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,51,,yes,yes,False,False,False,381,411
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,42,1,52,,yes,yes,False,False,False,728,624
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,1,,yes,yes,False,False,False,466,397
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,2,,yes,no,True,False,False,563,1059
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,3,,yes,yes,False,False,False,1222,959
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,4,,,,,True,True,1254,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,5,,yes,yes,False,False,False,429,457
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,6,,yes,yes,False,False,False,855,596
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,7,,yes,yes,False,False,False,471,826
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,8,,yes,yes,False,False,False,909,628
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,9,,no,no,False,False,False,895,769
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,10,,no,yes,True,False,False,967,628
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,11,,no,yes,True,False,False,819,583
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,12,,yes,yes,False,False,False,612,790
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,13,,yes,yes,False,False,False,558,594
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,14,,yes,yes,False,False,False,697,816
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,15,,yes,yes,False,False,False,432,778
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,16,,yes,yes,False,False,False,680,670
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,17,,yes,yes,False,False,False,506,642
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,18,,yes,yes,False,False,False,798,801
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,19,,yes,yes,False,False,False,446,487
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,20,,yes,yes,False,False,False,379,285
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,21,,yes,no,True,False,False,575,606
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,22,,yes,yes,False,False,False,467,853
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,23,,yes,yes,False,False,False,539,879
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,24,,yes,yes,False,False,False,696,486
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,25,,yes,no,True,False,False,839,892
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,26,,yes,yes,False,False,False,611,699
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,27,,yes,,,False,True,327,1274
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,28,,yes,no,True,False,False,727,718
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,29,,yes,yes,False,False,False,769,678
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,30,,yes,yes,False,False,False,545,606
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,31,,yes,yes,False,False,False,688,773
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,32,,yes,yes,False,False,False,523,507
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,33,,yes,no,True,False,False,760,853
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,34,,yes,yes,False,False,False,672,781
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,35,,yes,yes,False,False,False,453,578
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,36,,yes,yes,False,False,False,740,661
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,37,,yes,no,True,False,False,803,866
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,38,,yes,yes,False,False,False,356,723
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,39,,yes,yes,False,False,False,377,545
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,40,,yes,yes,False,False,False,520,470
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,41,,yes,no,True,False,False,733,582
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,42,,yes,no,True,False,False,717,831
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,43,,yes,yes,False,False,False,583,773
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,44,,yes,yes,False,False,False,404,439
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,45,,yes,yes,False,False,False,462,778
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,46,,yes,no,True,False,False,721,733
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,47,,no,yes,True,False,False,353,677
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,48,,yes,no,True,False,False,854,782
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,49,,no,yes,True,False,False,797,587
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,50,,yes,yes,False,False,False,789,668
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,51,,yes,yes,False,False,False,573,787
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,123,2,52,,yes,yes,False,False,False,473,417
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,1,,yes,yes,False,False,False,218,494
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,2,,yes,yes,False,False,False,462,484
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,3,,yes,yes,False,False,False,789,1181
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,4,,no,,,False,True,829,1254
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,5,,yes,yes,False,False,False,782,523
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,6,,yes,yes,False,False,False,571,1119
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,7,,yes,yes,False,False,False,696,527
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,8,,no,yes,True,False,False,458,574
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,9,,no,yes,True,False,False,642,453
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,10,,no,,,False,True,883,1283
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,11,,yes,yes,False,False,False,568,621
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,12,,yes,yes,False,False,False,642,873
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,13,,yes,yes,False,False,False,470,576
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,14,,no,yes,True,False,False,485,645
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,15,,yes,yes,False,False,False,464,1052
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,16,,yes,yes,False,False,False,895,772
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,17,,yes,yes,False,False,False,560,564
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,18,,no,yes,True,False,False,335,684
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,19,,yes,yes,False,False,False,500,522
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,20,,yes,yes,False,False,False,551,578
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,21,,yes,no,True,False,False,603,450
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,22,,yes,yes,False,False,False,818,534
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,23,,,,,True,True,1225,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,24,,yes,yes,False,False,False,736,724
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,25,,yes,no,True,False,False,610,495
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,26,,yes,yes,False,False,False,639,899
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,27,,yes,yes,False,False,False,825,574
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,28,,yes,yes,False,False,False,481,848
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,29,,yes,,,False,True,716,1282
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,30,,yes,yes,False,False,False,588,561
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,31,,yes,yes,False,False,False,590,509
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,32,,yes,yes,False,False,False,414,1214
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,33,,yes,no,True,False,False,458,593
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,34,,yes,yes,False,False,False,658,526
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,35,,yes,yes,False,False,False,673,692
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,36,,yes,yes,False,False,False,831,642
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,37,,,,,True,True,1277,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,38,,yes,yes,False,False,False,1070,774
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,39,,yes,yes,False,False,False,574,908
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,40,,yes,yes,False,False,False,620,641
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,41,,yes,yes,False,False,False,519,938
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,42,,,,,True,True,1248,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,43,,yes,yes,False,False,False,1106,572
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,44,,yes,yes,False,False,False,627,498
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,45,,yes,yes,False,False,False,621,553
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,46,,yes,no,True,False,False,785,870
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,47,,no,no,False,False,False,1070,605
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,48,,yes,yes,False,False,False,1201,726
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,49,,yes,yes,False,False,False,641,625
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,50,,yes,yes,False,False,False,513,763
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,51,,yes,yes,False,False,False,459,415
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.6,456,3,52,,yes,yes,False,False,False,406,555
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,1,,yes,no,True,False,False,575,456
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,2,,yes,no,True,False,False,633,513
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,3,,yes,yes,False,False,False,787,556
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,4,,yes,,,False,True,774,1227
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,5,,yes,yes,False,False,False,885,541
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,6,,yes,no,True,False,False,693,1014
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,7,,yes,,,False,True,607,553
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,8,,yes,,,False,True,596,1259
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,9,,yes,yes,False,False,False,999,591
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,10,,yes,no,True,False,False,459,841
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,11,,yes,,,False,True,809,569
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,12,,,,,True,True,1184,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,13,,yes,yes,False,False,False,553,580
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,14,,yes,yes,False,False,False,444,1006
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,15,,yes,no,True,False,False,659,1052
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,16,,,,,True,True,1283,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,17,,yes,no,True,False,False,699,609
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,18,,yes,yes,False,False,False,488,523
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,19,,yes,no,True,False,False,458,786
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,20,,yes,,,False,True,453,1231
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,21,,no,no,False,False,False,576,439
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,22,,yes,,,False,True,642,1253
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,23,,yes,yes,False,False,False,618,390
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,24,,yes,yes,False,False,False,621,616
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,25,,no,yes,True,False,False,593,1264
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,26,,yes,yes,False,False,False,777,889
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,27,,yes,yes,False,False,False,857,602
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,28,,yes,yes,False,False,False,960,698
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,29,,yes,yes,False,False,False,424,352
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,30,,yes,no,True,False,False,348,546
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,31,,yes,yes,False,False,False,767,611
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,32,,yes,yes,False,False,False,437,502
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,33,,yes,yes,False,False,False,423,601
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,34,,yes,no,True,False,False,965,750
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,35,,yes,no,True,False,False,423,739
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,36,,yes,no,True,False,False,282,578
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,37,,yes,,,False,True,859,1289
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,38,,yes,,,False,True,989,1269
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,39,,yes,yes,False,False,False,641,642
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,40,,yes,yes,False,False,False,1028,533
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,41,,yes,yes,False,False,False,514,1011
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,42,,yes,yes,False,False,False,587,786
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,43,,yes,no,True,False,False,356,444
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,44,,yes,yes,False,False,False,624,693
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,45,,yes,yes,False,False,False,626,783
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,46,,yes,no,True,False,False,532,774
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,47,,no,yes,True,False,False,893,579
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,48,,no,yes,True,False,False,641,1149
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,49,,yes,yes,False,False,False,313,494
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,50,,yes,yes,False,False,False,548,705
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,51,,yes,no,True,False,False,489,899
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,42,1,52,,yes,yes,False,False,False,465,492
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,1,,yes,no,True,False,False,372,946
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,2,,yes,no,True,False,False,442,1072
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,3,,,,,True,True,1283,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,4,,,,,True,True,1293,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,5,,yes,yes,False,False,False,571,722
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,6,,no,yes,True,False,False,709,536
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,7,,yes,yes,False,False,False,576,732
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,8,,yes,yes,False,False,False,494,973
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,9,,yes,yes,False,False,False,733,1068
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,10,,yes,no,True,False,False,780,811
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,11,,yes,yes,False,False,False,767,1113
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,12,,yes,no,True,False,False,634,788
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,13,,yes,yes,False,False,False,357,478
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,14,,yes,yes,False,False,False,658,937
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,15,,yes,yes,False,False,False,597,532
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,16,,yes,yes,False,False,False,564,690
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,17,,yes,yes,False,False,False,378,744
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,18,,yes,yes,False,False,False,465,740
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,19,,yes,yes,False,False,False,726,448
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,20,,yes,yes,False,False,False,921,519
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,21,,no,yes,True,False,False,474,581
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,22,,yes,yes,False,False,False,754,1022
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,23,,yes,yes,False,False,False,1207,826
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,24,,yes,yes,False,False,False,424,647
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,25,,no,yes,True,False,False,535,706
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,26,,yes,yes,False,False,False,472,638
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,27,,yes,yes,False,False,False,977,913
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,28,,yes,yes,False,False,False,907,808
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,29,,yes,no,True,False,False,284,639
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,30,,no,yes,True,False,False,480,481
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,31,,yes,yes,False,False,False,617,511
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,32,,yes,yes,False,False,False,526,762
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,33,,no,yes,True,False,False,481,397
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,34,,yes,yes,False,False,False,576,759
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,35,,yes,yes,False,False,False,677,412
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,36,,yes,no,True,False,False,482,419
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,37,,yes,yes,False,False,False,401,631
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,38,,yes,,,False,True,889,1248
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,39,,yes,yes,False,False,False,599,484
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,40,,yes,yes,False,False,False,734,915
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,41,,yes,yes,False,False,False,444,716
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,42,,yes,yes,False,False,False,309,718
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,43,,yes,no,True,False,False,432,793
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,44,,yes,yes,False,False,False,442,495
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,45,,yes,yes,False,False,False,600,992
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,46,,yes,no,True,False,False,1059,569
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,47,,no,yes,True,False,False,294,573
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,48,,yes,no,True,False,False,539,935
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,49,,yes,no,True,False,False,1128,784
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,50,,yes,yes,False,False,False,413,408
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,51,,yes,yes,False,False,False,516,446
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,123,2,52,,yes,yes,False,False,False,382,867
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,1,,yes,yes,False,False,False,525,791
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,2,,yes,yes,False,False,False,1052,771
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,3,,yes,no,True,False,False,875,809
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,4,,yes,yes,False,False,False,518,956
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,5,,yes,yes,False,False,False,605,776
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,6,,yes,yes,False,False,False,822,729
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,7,,yes,yes,False,False,False,661,800
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,8,,no,yes,True,False,False,875,587
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,9,,no,no,False,False,False,662,518
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,10,,yes,no,True,False,False,882,947
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,11,,yes,yes,False,False,False,924,610
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,12,,yes,yes,False,False,False,572,857
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,13,,yes,yes,False,False,False,835,380
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,14,,yes,,,False,True,499,1251
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,15,,yes,yes,False,False,False,614,803
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,16,,yes,yes,False,False,False,742,1093
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,17,,yes,yes,False,False,False,466,650
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,18,,yes,yes,False,False,False,424,728
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,19,,yes,yes,False,False,False,600,455
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,20,,yes,yes,False,False,False,724,808
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,21,,yes,no,True,False,False,566,355
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,22,,yes,yes,False,False,False,386,534
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,23,,yes,yes,False,False,False,531,710
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,24,,,,,True,True,1270,0
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,25,,yes,no,True,False,False,842,752
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,26,,yes,yes,False,False,False,863,855
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,27,,yes,yes,False,False,False,262,422
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,28,,yes,yes,False,False,False,500,636
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,29,,no,yes,True,False,False,629,727
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,30,,yes,yes,False,False,False,624,674
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,31,,yes,yes,False,False,False,782,492
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,32,,yes,yes,False,False,False,364,518
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,33,,no,yes,True,False,False,506,841
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,34,,no,yes,True,False,False,551,1063
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,35,,yes,,,False,True,1126,677
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,36,,yes,no,True,False,False,683,826
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,37,,yes,yes,False,False,False,930,415
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,38,,yes,yes,False,False,False,796,535
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,39,,yes,no,True,False,False,746,855
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,40,,yes,yes,False,False,False,588,435
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,41,,yes,yes,False,False,False,660,659
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,42,,yes,yes,False,False,False,486,534
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,43,,yes,yes,False,False,False,290,629
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,44,,yes,yes,False,False,False,696,698
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,45,,yes,yes,False,False,False,904,552
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,46,,yes,no,True,False,False,948,691
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,47,,no,yes,True,False,False,490,717
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,48,,yes,no,True,False,False,585,667
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,49,,no,yes,True,False,False,402,581
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,50,,yes,yes,False,False,False,844,539
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,51,,yes,yes,False,False,False,602,535
+deepseek-r1-distill-qwen-7b,True,respond,3,Respond to the instructions.,0.7,456,3,52,,yes,yes,False,False,False,381,485
